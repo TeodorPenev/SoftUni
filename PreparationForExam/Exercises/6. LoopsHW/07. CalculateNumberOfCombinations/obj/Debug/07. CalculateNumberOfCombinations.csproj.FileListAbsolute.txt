@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\07. CalculateNumberOfCombinations\obj\Debug\07. CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\07. CalculateNumberOfCombinations\obj\Debug\_07.CalculateNumberOfCombinations.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\07. CalculateNumberOfCombinations\obj\Debug\_07.CalculateNumberOfCombinations.pdb

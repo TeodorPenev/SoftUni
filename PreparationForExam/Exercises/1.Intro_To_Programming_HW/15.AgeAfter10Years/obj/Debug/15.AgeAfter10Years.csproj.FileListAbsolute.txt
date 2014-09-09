@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb

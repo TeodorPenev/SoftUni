@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\План за спасение на България\План за спасение на България\bin\Debug\План за спасение на България.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\План за спасение на България\План за спасение на България\bin\Debug\План за спасение на България.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\План за спасение на България\План за спасение на България\bin\Debug\План за спасение на България.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\План за спасение на България\План за спасение на България\obj\Debug\План за спасение на България.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\План за спасение на България\План за спасение на България\obj\Debug\План за спасение на България.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\План за спасение на България\План за спасение на България\obj\Debug\План за спасение на България.pdb

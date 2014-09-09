@@ -1,0 +1,5 @@
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitRoller\bin\Debug\BitRoller.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitRoller\bin\Debug\BitRoller.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitRoller\bin\Debug\BitRoller.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitRoller\obj\Debug\BitRoller.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitRoller\obj\Debug\BitRoller.pdb

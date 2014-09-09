@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.pdb

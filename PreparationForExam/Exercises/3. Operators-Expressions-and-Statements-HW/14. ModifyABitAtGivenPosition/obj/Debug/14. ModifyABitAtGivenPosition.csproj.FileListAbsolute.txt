@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\14. ModifyABitAtGivenPosition\obj\Debug\14. ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\14. ModifyABitAtGivenPosition\obj\Debug\_14.ModifyABitAtGivenPosition.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\14. ModifyABitAtGivenPosition\obj\Debug\_14.ModifyABitAtGivenPosition.pdb

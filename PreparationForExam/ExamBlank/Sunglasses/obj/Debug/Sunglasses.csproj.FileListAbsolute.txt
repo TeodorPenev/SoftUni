@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Sunglasses\obj\Debug\Sunglasses.pdb

@@ -1,0 +1,8 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\StudentCables\bin\Debug\StudentCables.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\StudentCables\bin\Debug\StudentCables.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\StudentCables\bin\Debug\StudentCables.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\StudentCables\obj\Debug\StudentCables.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\StudentCables\obj\Debug\StudentCables.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\StudentCables\bin\Debug\StudentCables.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\StudentCables\obj\Debug\StudentCables.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\StudentCables\obj\Debug\StudentCables.pdb

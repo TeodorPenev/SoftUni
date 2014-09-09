@@ -1,0 +1,23 @@
+et !== t.o) {
+if (t.ua.g === true && t.m.g !== 'simple') {
+d = t.lastWin.document;
+d.open();
+d.write('<html><head><title>' + document.title + '</title><script type="text/javascript">window.location="' + t.lastTarget + '";<\/script></head><body></body></html>');
+d.close();
+}
+else {
+t.lastWin.document.location.href = t.lastTarget;
+return t;
+},
+/**
+* Handle forms with target="_blank"
+*
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb

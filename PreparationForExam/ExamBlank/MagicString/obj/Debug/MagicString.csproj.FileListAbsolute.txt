@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\bin\Debug\MagicString.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\bin\Debug\MagicString.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\bin\Debug\MagicString.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString.pdb

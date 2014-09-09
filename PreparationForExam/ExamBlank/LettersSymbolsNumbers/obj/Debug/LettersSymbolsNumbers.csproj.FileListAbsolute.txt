@@ -1,0 +1,8 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.pdb

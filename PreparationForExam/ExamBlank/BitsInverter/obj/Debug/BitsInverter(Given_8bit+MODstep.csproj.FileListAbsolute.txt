@@ -1,0 +1,3 @@
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsInverter\obj\Debug\BitsInverter.pdb

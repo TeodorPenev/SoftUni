@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\09. RemoveNames\bin\Debug\_09.RemoveNames.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\09. RemoveNames\bin\Debug\_09.RemoveNames.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\09. RemoveNames\bin\Debug\_09.RemoveNames.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\09. RemoveNames\obj\Debug\09. RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\09. RemoveNames\obj\Debug\_09.RemoveNames.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\09. RemoveNames\obj\Debug\_09.RemoveNames.pdb

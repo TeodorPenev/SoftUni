@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\05. TheBiggestOf3Numbers\bin\Debug\_05.TheBiggestOf3Numbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\05. TheBiggestOf3Numbers\bin\Debug\_05.TheBiggestOf3Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\05. TheBiggestOf3Numbers\bin\Debug\_05.TheBiggestOf3Numbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\05. TheBiggestOf3Numbers\obj\Debug\_05.TheBiggestOf3Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\05. TheBiggestOf3Numbers\obj\Debug\_05.TheBiggestOf3Numbers.pdb

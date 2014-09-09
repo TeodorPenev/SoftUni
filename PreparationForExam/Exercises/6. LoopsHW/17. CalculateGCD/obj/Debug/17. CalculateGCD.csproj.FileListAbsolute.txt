@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\17. CalculateGCD\bin\Debug\_17.CalculateGCD.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\17. CalculateGCD\bin\Debug\_17.CalculateGCD.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\17. CalculateGCD\bin\Debug\_17.CalculateGCD.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\17. CalculateGCD\obj\Debug\17. CalculateGCD.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\17. CalculateGCD\obj\Debug\_17.CalculateGCD.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\17. CalculateGCD\obj\Debug\_17.CalculateGCD.pdb

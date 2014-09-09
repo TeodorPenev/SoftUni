@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\09. Trapezoids\obj\Debug\09. Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

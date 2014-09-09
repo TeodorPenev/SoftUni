@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\BitsInverter\obj\Debug\BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\BitsInverter\bin\Debug\BitsInverter.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\BitsInverter\bin\Debug\BitsInverter.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\BitsInverter\obj\Debug\BitsInverter.pdb

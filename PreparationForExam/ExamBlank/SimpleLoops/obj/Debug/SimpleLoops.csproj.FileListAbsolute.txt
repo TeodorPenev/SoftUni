@@ -1,0 +1,9 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\bin\Debug\SimpleLoops.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\bin\Debug\SimpleLoops.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\bin\Debug\SimpleLoops.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\obj\Debug\SimpleLoops.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\obj\Debug\SimpleLoops.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\obj\Debug\SimpleLoops.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\bin\Debug\SimpleLoops.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\obj\Debug\SimpleLoops.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SimpleLoops\obj\Debug\SimpleLoops.pdb

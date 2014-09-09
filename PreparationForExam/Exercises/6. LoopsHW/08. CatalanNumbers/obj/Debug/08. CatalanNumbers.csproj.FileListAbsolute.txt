@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\08. CatalanNumbers\obj\Debug\08. CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb

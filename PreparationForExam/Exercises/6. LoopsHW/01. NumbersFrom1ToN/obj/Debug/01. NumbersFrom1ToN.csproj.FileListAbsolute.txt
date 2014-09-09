@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. NumbersFrom1ToN\obj\Debug\01. NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.pdb

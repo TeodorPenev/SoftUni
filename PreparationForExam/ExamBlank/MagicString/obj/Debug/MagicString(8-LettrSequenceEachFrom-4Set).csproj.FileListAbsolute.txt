@@ -1,0 +1,9 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\bin\Debug\MagicString.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicString\bin\Debug\MagicString.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicString\bin\Debug\MagicString.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicString\bin\Debug\MagicString.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicString\obj\Debug\MagicString(8-LettrSequenceEachFrom-4Set).csprojResolveAssemblyReference.cache

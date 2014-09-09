@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\04. DifferenceBetweenDates\bin\Debug\_04.DifferenceBetweenDates.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\04. DifferenceBetweenDates\bin\Debug\_04.DifferenceBetweenDates.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\04. DifferenceBetweenDates\bin\Debug\_04.DifferenceBetweenDates.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\04. DifferenceBetweenDates\obj\Debug\04. DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\04. DifferenceBetweenDates\obj\Debug\_04.DifferenceBetweenDates.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\04. DifferenceBetweenDates\obj\Debug\_04.DifferenceBetweenDates.pdb

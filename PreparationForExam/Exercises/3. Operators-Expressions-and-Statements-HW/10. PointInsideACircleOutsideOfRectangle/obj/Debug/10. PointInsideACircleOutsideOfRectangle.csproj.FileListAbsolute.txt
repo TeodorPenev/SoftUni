@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\10. PointInsideACircleOutsideOfRectangle\bin\Debug\_10.PointInsideACircleOutsideOfRectangle.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\10. PointInsideACircleOutsideOfRectangle\bin\Debug\_10.PointInsideACircleOutsideOfRectangle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\10. PointInsideACircleOutsideOfRectangle\bin\Debug\_10.PointInsideACircleOutsideOfRectangle.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\10. PointInsideACircleOutsideOfRectangle\obj\Debug\_10.PointInsideACircleOutsideOfRectangle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\10. PointInsideACircleOutsideOfRectangle\obj\Debug\_10.PointInsideACircleOutsideOfRectangle.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\10. PointInsideACircleOutsideOfRectangle\obj\Debug\10. PointInsideACircleOutsideOfRectangle.csprojResolveAssemblyReference.cache

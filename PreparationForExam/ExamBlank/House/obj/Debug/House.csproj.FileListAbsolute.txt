@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\House\bin\Debug\House.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\House\bin\Debug\House.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\House\bin\Debug\House.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\House\obj\Debug\House.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\House\obj\Debug\House.pdb

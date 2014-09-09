@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. MinMaxSumAndAverageOfNNumbers\bin\Debug\_01.MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. MinMaxSumAndAverageOfNNumbers\bin\Debug\_01.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. MinMaxSumAndAverageOfNNumbers\bin\Debug\_01.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. MinMaxSumAndAverageOfNNumbers\obj\Debug\03. MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. MinMaxSumAndAverageOfNNumbers\obj\Debug\_01.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\01. MinMaxSumAndAverageOfNNumbers\obj\Debug\_01.MinMaxSumAndAverageOfNNumbers.pdb

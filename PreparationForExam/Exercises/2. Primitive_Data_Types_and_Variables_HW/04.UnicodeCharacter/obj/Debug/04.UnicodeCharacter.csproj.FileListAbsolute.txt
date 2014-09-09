@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

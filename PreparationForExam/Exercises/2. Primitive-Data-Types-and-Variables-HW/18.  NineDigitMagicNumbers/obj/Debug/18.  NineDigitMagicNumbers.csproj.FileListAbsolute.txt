@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\18.  NineDigitMagicNumbers\bin\Debug\_18.NineDigitMagicNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\18.  NineDigitMagicNumbers\bin\Debug\_18.NineDigitMagicNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\18.  NineDigitMagicNumbers\bin\Debug\_18.NineDigitMagicNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\18.  NineDigitMagicNumbers\obj\Debug\18.  NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\18.  NineDigitMagicNumbers\obj\Debug\_18.NineDigitMagicNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\18.  NineDigitMagicNumbers\obj\Debug\_18.NineDigitMagicNumbers.pdb

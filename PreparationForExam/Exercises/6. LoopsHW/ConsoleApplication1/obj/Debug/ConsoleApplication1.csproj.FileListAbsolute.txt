@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

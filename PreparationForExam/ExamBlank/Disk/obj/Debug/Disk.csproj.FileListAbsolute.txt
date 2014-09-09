@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Disk\bin\Debug\Disk.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Disk\bin\Debug\Disk.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Disk\bin\Debug\Disk.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Disk\obj\Debug\Disk.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Disk\obj\Debug\Disk.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Disk\obj\Debug\Disk.pdb

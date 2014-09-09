@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\13. ComparingFloats\bin\Debug\_13.ComparingFloats.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\13. ComparingFloats\obj\Debug\_13.ComparingFloats.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\13. ComparingFloats\obj\Debug\_13.ComparingFloats.pdb

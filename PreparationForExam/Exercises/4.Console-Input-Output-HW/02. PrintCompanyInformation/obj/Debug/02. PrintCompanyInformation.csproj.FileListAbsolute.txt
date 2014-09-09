@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\02. PrintCompanyInformation\obj\Debug\_02.PrintCompanyInformation.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\02. PrintCompanyInformation\obj\Debug\_02.PrintCompanyInformation.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\02. PrintCompanyInformation\obj\Debug\02. PrintCompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config

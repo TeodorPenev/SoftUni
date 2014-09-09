@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\11. Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\11. Number as Words\bin\Debug\_11.Number_as_Words.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\11. Number as Words\bin\Debug\_11.Number_as_Words.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\11. Number as Words\obj\Debug\11. NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\11. Number as Words\obj\Debug\_11.Number_as_Words.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\11. Number as Words\obj\Debug\_11.Number_as_Words.pdb

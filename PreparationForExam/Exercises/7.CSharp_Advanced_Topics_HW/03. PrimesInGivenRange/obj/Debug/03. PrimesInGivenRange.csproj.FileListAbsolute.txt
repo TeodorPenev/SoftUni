@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\03. PrimesInGivenRange\obj\Debug\03. PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.pdb

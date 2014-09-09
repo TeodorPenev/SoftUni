@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\07. MatrixOfPalindromes\obj\Debug\07. MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.pdb

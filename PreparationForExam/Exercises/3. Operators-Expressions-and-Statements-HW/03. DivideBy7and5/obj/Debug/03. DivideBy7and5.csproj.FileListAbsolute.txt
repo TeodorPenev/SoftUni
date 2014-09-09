@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\03. DivideBy7and5\bin\Debug\_03.DivideBy7and5.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\03. DivideBy7and5\bin\Debug\_03.DivideBy7and5.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\03. DivideBy7and5\bin\Debug\_03.DivideBy7and5.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\03. DivideBy7and5\obj\Debug\_03.DivideBy7and5.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\03. DivideBy7and5\obj\Debug\_03.DivideBy7and5.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\12. CountofNames\bin\Debug\_12.CountofNames.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\12. CountofNames\bin\Debug\_12.CountofNames.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\12. CountofNames\bin\Debug\_12.CountofNames.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\12. CountofNames\obj\Debug\12. CountofNames.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\12. CountofNames\obj\Debug\_12.CountofNames.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\12. CountofNames\obj\Debug\_12.CountofNames.pdb

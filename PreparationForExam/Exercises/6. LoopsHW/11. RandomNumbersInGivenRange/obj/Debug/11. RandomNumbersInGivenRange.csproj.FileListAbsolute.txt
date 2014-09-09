@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersInGivenRange\bin\Debug\_11.RandomNumbersInGivenRange.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersInGivenRange\bin\Debug\_11.RandomNumbersInGivenRange.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersInGivenRange\bin\Debug\_11.RandomNumbersInGivenRange.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersInGivenRange\obj\Debug\_11.RandomNumbersInGivenRange.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersInGivenRange\obj\Debug\_11.RandomNumbersInGivenRange.pdb

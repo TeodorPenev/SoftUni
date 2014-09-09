@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\04. PrintADeckOf52Cards\bin\Debug\_04.PrintADeckOf52Cards.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\04. PrintADeckOf52Cards\obj\Debug\04. PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\04. PrintADeckOf52Cards\bin\Debug\_04.PrintADeckOf52Cards.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\04. PrintADeckOf52Cards\bin\Debug\_04.PrintADeckOf52Cards.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\04. PrintADeckOf52Cards\obj\Debug\_04.PrintADeckOf52Cards.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\04. PrintADeckOf52Cards\obj\Debug\_04.PrintADeckOf52Cards.pdb

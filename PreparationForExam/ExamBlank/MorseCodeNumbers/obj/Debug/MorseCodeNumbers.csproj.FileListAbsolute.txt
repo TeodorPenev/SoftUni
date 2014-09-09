@@ -1,0 +1,9 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb

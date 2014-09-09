@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\05. BooleanVariable\bin\Debug\_05.BooleanVariable.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\05. BooleanVariable\obj\Debug\_05.BooleanVariable.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\05. BooleanVariable\obj\Debug\_05.BooleanVariable.pdb

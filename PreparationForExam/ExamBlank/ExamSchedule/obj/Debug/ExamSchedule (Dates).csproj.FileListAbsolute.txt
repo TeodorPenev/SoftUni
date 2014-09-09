@@ -1,0 +1,9 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\obj\Debug\ExamSchedule.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\obj\Debug\ExamSchedule.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\obj\Debug\ExamSchedule.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\obj\Debug\ExamSchedule.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\bin\Debug\ExamSchedule.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\bin\Debug\ExamSchedule.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\ExamSchedule\obj\Debug\ExamSchedule (Dates).csprojResolveAssemblyReference.cache

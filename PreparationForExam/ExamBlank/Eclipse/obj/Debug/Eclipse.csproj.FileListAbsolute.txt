@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Eclipse\bin\Debug\Eclipse.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Eclipse\bin\Debug\Eclipse.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Eclipse\bin\Debug\Eclipse.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Eclipse\obj\Debug\Eclipse.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Eclipse\obj\Debug\Eclipse.pdb

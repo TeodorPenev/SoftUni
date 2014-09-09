@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\03. CheckforAPlayCard\bin\Debug\_03.CheckforAPlayCard.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\03. CheckforAPlayCard\bin\Debug\_03.CheckforAPlayCard.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\03. CheckforAPlayCard\bin\Debug\_03.CheckforAPlayCard.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\03. CheckforAPlayCard\obj\Debug\_03.CheckforAPlayCard.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\03. CheckforAPlayCard\obj\Debug\_03.CheckforAPlayCard.pdb

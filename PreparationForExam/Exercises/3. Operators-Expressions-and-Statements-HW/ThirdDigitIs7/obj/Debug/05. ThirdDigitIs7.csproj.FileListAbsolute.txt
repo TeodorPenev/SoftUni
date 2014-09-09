@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb

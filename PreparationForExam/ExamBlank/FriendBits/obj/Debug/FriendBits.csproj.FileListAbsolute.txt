@@ -1,0 +1,15 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\FriendBits\bin\Debug\FriendBits.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\FriendBits\bin\Debug\FriendBits.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\FriendBits\bin\Debug\FriendBits.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\FriendBits\obj\Debug\FriendBits.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\FriendBits\obj\Debug\FriendBits.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem_5\FriendBits\obj\Debug\FriendBits.pdb
+D:\Recover\Problem_5\FriendBits\bin\Debug\FriendBits.exe.config
+D:\Recover\Problem_5\FriendBits\obj\Debug\FriendBits.exe
+D:\Recover\Problem_5\FriendBits\obj\Debug\FriendBits.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FriendBits\bin\Debug\FriendBits.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FriendBits\obj\Debug\FriendBits.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FriendBits\obj\Debug\FriendBits.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FriendBits\bin\Debug\FriendBits.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FriendBits\bin\Debug\FriendBits.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FriendBits\obj\Debug\FriendBits.csprojResolveAssemblyReference.cache

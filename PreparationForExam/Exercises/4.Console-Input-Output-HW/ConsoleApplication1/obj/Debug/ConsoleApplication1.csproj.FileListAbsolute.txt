@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

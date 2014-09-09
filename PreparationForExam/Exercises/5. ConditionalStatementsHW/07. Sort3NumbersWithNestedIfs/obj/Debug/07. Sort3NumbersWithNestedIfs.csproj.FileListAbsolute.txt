@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\07. Sort3NumbersWithNestedIfs\bin\Debug\_07.Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\07. Sort3NumbersWithNestedIfs\bin\Debug\_07.Sort3NumbersWithNestedIfs.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\07. Sort3NumbersWithNestedIfs\bin\Debug\_07.Sort3NumbersWithNestedIfs.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\07. Sort3NumbersWithNestedIfs\obj\Debug\07. Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\07. Sort3NumbersWithNestedIfs\obj\Debug\_07.Sort3NumbersWithNestedIfs.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\07. Sort3NumbersWithNestedIfs\obj\Debug\_07.Sort3NumbersWithNestedIfs.pdb

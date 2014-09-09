@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\04. Rectangles\bin\Debug\_04.Rectangles.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\04. Rectangles\obj\Debug\_04.Rectangles.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\04. Rectangles\obj\Debug\_04.Rectangles.pdb

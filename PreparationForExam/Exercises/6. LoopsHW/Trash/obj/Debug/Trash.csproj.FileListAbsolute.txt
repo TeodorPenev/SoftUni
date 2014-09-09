@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\Trash\bin\Debug\Trash.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\Trash\bin\Debug\Trash.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\Trash\bin\Debug\Trash.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\Trash\obj\Debug\Trash.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\Trash\obj\Debug\Trash.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\Trash\obj\Debug\Trash.csprojResolveAssemblyReference.cache

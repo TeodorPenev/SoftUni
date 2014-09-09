@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.pdb

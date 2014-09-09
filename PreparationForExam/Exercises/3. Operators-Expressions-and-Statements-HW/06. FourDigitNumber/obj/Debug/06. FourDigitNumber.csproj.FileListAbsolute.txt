@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\06. FourDigitNumber\obj\Debug\06. FourDigitNumber.csprojResolveAssemblyReference.cache

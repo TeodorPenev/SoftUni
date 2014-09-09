@@ -1,0 +1,12 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.csprojResolveAssemblyReference.cache

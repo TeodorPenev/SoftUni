@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\02. NumbersNotDivisibleBy3And7\bin\Debug\_02.NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\02. NumbersNotDivisibleBy3And7\bin\Debug\_02.NumbersNotDivisibleBy3And7.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\02. NumbersNotDivisibleBy3And7\bin\Debug\_02.NumbersNotDivisibleBy3And7.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\02. NumbersNotDivisibleBy3And7\obj\Debug\_02.NumbersNotDivisibleBy3And7.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\02. NumbersNotDivisibleBy3And7\obj\Debug\_02.NumbersNotDivisibleBy3And7.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\02. NumbersNotDivisibleBy3And7\obj\Debug\02. NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache

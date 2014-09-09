@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

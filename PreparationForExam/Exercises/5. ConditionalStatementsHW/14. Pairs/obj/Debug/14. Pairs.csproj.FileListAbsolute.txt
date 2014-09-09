@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\14. Pairs\bin\Debug\_14.Pairs.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\14. Pairs\obj\Debug\14. Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\14. Pairs\bin\Debug\_14.Pairs.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\14. Pairs\bin\Debug\_14.Pairs.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\14. Pairs\obj\Debug\_14.Pairs.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\14. Pairs\obj\Debug\_14.Pairs.pdb

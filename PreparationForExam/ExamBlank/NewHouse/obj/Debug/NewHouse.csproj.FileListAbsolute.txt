@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NewHouse\obj\Debug\NewHouse.pdb

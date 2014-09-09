@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.pdb

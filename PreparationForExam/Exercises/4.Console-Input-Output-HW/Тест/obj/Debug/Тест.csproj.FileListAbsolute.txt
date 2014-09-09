@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\Тест\bin\Debug\Тест.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\Тест\bin\Debug\Тест.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\Тест\bin\Debug\Тест.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\Тест\obj\Debug\Тест.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\Тест\obj\Debug\Тест.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\Тест\obj\Debug\Тест.pdb

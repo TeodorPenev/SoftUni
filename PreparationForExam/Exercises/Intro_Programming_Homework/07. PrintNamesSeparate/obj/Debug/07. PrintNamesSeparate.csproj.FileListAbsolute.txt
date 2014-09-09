@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\07. PrintNamesSeparate\bin\Debug\_07.PrintNamesSeparate.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\07. PrintNamesSeparate\bin\Debug\_07.PrintNamesSeparate.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\07. PrintNamesSeparate\bin\Debug\_07.PrintNamesSeparate.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\07. PrintNamesSeparate\obj\Debug\_07.PrintNamesSeparate.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\07. PrintNamesSeparate\obj\Debug\_07.PrintNamesSeparate.pdb

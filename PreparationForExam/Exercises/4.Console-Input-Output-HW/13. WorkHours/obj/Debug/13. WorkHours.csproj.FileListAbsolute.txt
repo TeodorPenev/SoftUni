@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\13. WorkHours\bin\Debug\_13.WorkHours.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\13. WorkHours\bin\Debug\_13.WorkHours.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\13. WorkHours\bin\Debug\_13.WorkHours.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\13. WorkHours\obj\Debug\13. WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\13. WorkHours\obj\Debug\_13.WorkHours.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\13. WorkHours\obj\Debug\_13.WorkHours.pdb

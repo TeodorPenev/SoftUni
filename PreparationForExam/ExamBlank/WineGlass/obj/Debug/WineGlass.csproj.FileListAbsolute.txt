@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\WineGlass\bin\Debug\WineGlass.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\WineGlass\bin\Debug\WineGlass.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\WineGlass\bin\Debug\WineGlass.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\WineGlass\obj\Debug\WineGlass.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\WineGlass\obj\Debug\WineGlass.pdb

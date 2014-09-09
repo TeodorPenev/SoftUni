@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\RaffyRevishion\RaffyRevishion\bin\Debug\RaffyRevishion.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\RaffyRevishion\RaffyRevishion\bin\Debug\RaffyRevishion.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\RaffyRevishion\RaffyRevishion\bin\Debug\RaffyRevishion.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\RaffyRevishion\RaffyRevishion\obj\Debug\RaffyRevishion.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\RaffyRevishion\RaffyRevishion\obj\Debug\RaffyRevishion.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\RaffyRevishion\RaffyRevishion\obj\Debug\RaffyRevishion.pdb

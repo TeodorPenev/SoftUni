@@ -1,0 +1,11 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.csprojResolveAssemblyReference.cache

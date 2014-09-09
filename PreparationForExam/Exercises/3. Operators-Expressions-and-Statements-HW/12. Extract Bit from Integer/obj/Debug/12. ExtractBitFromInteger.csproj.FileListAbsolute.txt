@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\12. Extract Bit from Integer\obj\Debug\12. ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.pdb

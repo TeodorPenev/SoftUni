@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PokerStraightTest\bin\Debug\PokerStraightTest.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PokerStraightTest\bin\Debug\PokerStraightTest.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PokerStraightTest\bin\Debug\PokerStraightTest.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PokerStraightTest\obj\Debug\PokerStraightTest.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\PokerStraightTest\obj\Debug\PokerStraightTest.pdb

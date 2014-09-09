@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersn Given Range\bin\Debug\_11.RandomNumbersn_Given_Range.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersn Given Range\bin\Debug\_11.RandomNumbersn_Given_Range.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersn Given Range\bin\Debug\_11.RandomNumbersn_Given_Range.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersn Given Range\obj\Debug\12. RandomizetheNumbers1…N.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersn Given Range\obj\Debug\_11.RandomNumbersn_Given_Range.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\11. RandomNumbersn Given Range\obj\Debug\_11.RandomNumbersn_Given_Range.pdb

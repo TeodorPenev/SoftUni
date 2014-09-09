@@ -1,0 +1,47 @@
+C #
+C # is simple, modern, object-oriented language, with full purpose written by Microsoft. C # is considered a high quality programming language you use. NET platform. C # is very similar to both Java syntax and nature. Since its introduction in February 2001, a number of developers have started construction of software through programming language C #. Even in the context of Microsoft, C # has been used to build a number of applications, including. NET Framework, MSN Web and Tablet PC SDK. As such, C # has proven itself as a language suitable for building high quality commercial software. 
+Strengths: Powerful and fast. 
+Weaknesses: Suitable only for Windows. 
+
+Java 
+Java is an object-oriented language which is put into use in 1995 by Sun Microsystems. Java is mainly used today for several reasons. 
+First, Java is well organized language with rich functionality in the standard libraries that can be used repeatedly. 
+Second, programs written in Java, can run on many different computer architectures and operating systems thanks to the use of the JVM (Java Virtual Machine). Sometimes this is called code portability or even WORA (write once, run anywhere). Third, Java is often taught language classes in computer science at most universities. Many books on the theory of computer science, written in the last decade using Java in your sample codes. 
+Strengths: WORA, popularity. 
+Weaknesses: Slow and hungry for memory, especially when compared with programming languages ??like C, C + +. 
+
+C + +
+C + + is a programming language, written as an update of C in 1979 by Bjarne Stroustrup. C + + is trying to be backward compatible with C and has an object-oriented, which helps in larger projects. Despite his age, C + + is used to create a wide range of applications - from games to office suites. 
+Strengths: High speed. 
+Weaknesses: Older considered clumsy compared to - new object - oriented languages ??such as Java or C #. 
+
+PHP 
+PHP is a scripting programming language widely used mainly for server applications and the development of dynamic web content. Author of the language is Danish Canadian-origin Rasmus Lerdorf. PHP is a recursive abbreviation of PHP: Hypertext Preprocessor (like at the outset to indicate the creators used the Personal Home Page). Initially this language was not even a real programming language, but over time has become a full-featured object-oriented language. Although PHP has been criticized in the past that is not reliable enough this has changed after version 5 was released in 2004. Today one can say that PHP is the most popular language used to create web applications. 
+Strengths: Web programming, good documentation. 
+Weaknesses: Inconsistent syntax, too many ways to do the same thing. 
+
+VB (Visual Basic)
+Visual Basic (VB) is event-oriented development environment, based on the programming language BASIC. Produced by Microsoft Corporation and is part of a package of development Visual Studio. This is the main environment for programming with Microsoft etc. technique RAD. It quickly develop applications with graphical user interface (GUI) for OS Windows. Delivers quick access to databases using DAO, ADO, RDO. Based on ActiveX software components. Average good programmer can quickly create a simple business administration with funds provided by Visual Basic. Language evolves over the years and is seen as a direct descendant of the old BASIC Microsoft of the 1970s. Visual Basic is a good scripting language for Windows applications that do not need the power and speed of C #. 
+Strengths: The syntax is more simple than other languages ??(although it could be argued that C has greater flexibility). Visual environments is excellent (although this is a common feature of all visual languages). 
+Weaknesses: Only works in Windows. 
+
+Python
+Python is interpretiruem, interactive, object-oriented programming language created by Guido van Rossum in the early 90s. Python is not called the serpent, and in fact the TV show on BBC "Monty Python's Flying Circus". Often compared to Tcl, Perl, Scheme, Java and Ruby. Python is characterized by the use of indentation for readability and encouragement for elegant code, forcing developers to do things in a similar way. Python is used as the primary choice for programming both from Google, and from Ubuntu. 
+Strengths: Good readability and overall philosophy. 
+Weaknesses: Although relatively easy to use libraries, they are poorly designed and written and have decent documentation. In the past, Guido van Rossum has made serious errors in the structure of language, which means that we can expect him to continue to do 
+
+JavaScript
+Javascript is the most widely used programming language on the Internet after HTML. Feature is that with his help not write programs and scripts that are inserted into the HTML document. In this sense, JavaScript is a language for writing scripts, while JAVA programming language. In addition to the coincidence of the name, the two languages ??have much similarities are even developed by various corporations (JAVA is a work of SUN, a JavaScript was developed by Netscape). JAVA is a powerful programming language not only Internet applications but also separate programs for different platforms. JAVA web applications called applets. Scripting languages ??such as JavaScript are easier to encode as compared to a structured language such as Java and C + +. The trend in the future is to build more and more complex applications in JavaScript. To be - accurate, real name of this programming language is ECMAScript, though almost no one calls it that. 
+Strengths: This is the only reliable way to do "client-side web programming". 
+Weaknesses: only useful in web browser. 
+
+Perl
+Perl is a versatile, interpretive programming language created by Larry Wall in 1987 Perl borrowed concepts rather languages - C, awk, sed, Lisp and others. His strongest traits are regular expressions built complex data structures and one of the world's largest sets of freely available modules CPAN. Weakly typed language. It is interpreted as the program is first compiled to mashinnonezavisimi instructions (bytecode), which are executed by the interpreter. Unlike Java, however, bytecode is not easily accessible, thanks to which avoided a number of problems with backward compatibility. Perl e interpreter written in C and is portable to a huge number of platforms and operating systems. 10 years ago, Perl was more - popular than it is today. What happened? Many new programmers and even old Perl programmers have gone to other languages ??such as PHP, Python and Ruby. Perl perhaps still is - a good scripting language for text processing and system administration. 
+Strengths: Word processing and system administration. 
+Weaknesses: strange syntax and too many ways to do the same thing. 
+
+Ruby
+Ruby is an interpreted, object-oriented language written by Yukihiro Matsumoto about 1995. It is one of the most object-oriented languages in the world. The only negative is that this powerful object-orientation makes it a little - slow, even for an interpreted language. Each unit of data, whether it is a variable, constant or even literal subject. Each function is a method. Variables are always alias objects and never themselves obekti.Vapreki that Ruby does not support multiple inheritance, classes can import modules and supports dynamic delegation. According to the documentation for Ruby, "if you like Perl, you will begin to like and Ruby and easily drill down into its semantics. If you like Python, you might back off because of the huge difference in the philosophy of Python and Ruby / Perl "
+Strengths: Perhaps the most object-oriented languages ??in the world. 
+Weaknesses: Slow speed.
+

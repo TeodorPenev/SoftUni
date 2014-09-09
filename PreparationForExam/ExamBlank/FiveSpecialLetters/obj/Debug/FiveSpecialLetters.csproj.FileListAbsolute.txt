@@ -1,0 +1,7 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb

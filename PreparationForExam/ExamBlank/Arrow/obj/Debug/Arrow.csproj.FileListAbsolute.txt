@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Arrow\bin\Debug\Arrow.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Arrow\bin\Debug\Arrow.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Arrow\bin\Debug\Arrow.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Arrow\obj\Debug\Arrow.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\Arrow\obj\Debug\Arrow.pdb

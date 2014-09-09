@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\11. CountOfLetters\bin\Debug\_11.CountOfLetters.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\11. CountOfLetters\obj\Debug\11. CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\11. CountOfLetters\obj\Debug\_11.CountOfLetters.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\11. CountOfLetters\obj\Debug\_11.CountOfLetters.pdb

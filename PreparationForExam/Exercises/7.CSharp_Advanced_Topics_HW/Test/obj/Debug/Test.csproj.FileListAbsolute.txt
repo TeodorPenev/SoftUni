@@ -1,0 +1,2 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\Test\bin\Debug\Test.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

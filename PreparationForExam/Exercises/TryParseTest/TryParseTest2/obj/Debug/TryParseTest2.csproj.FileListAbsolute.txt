@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\TryParseTest\TryParseTest2\bin\Debug\TryParseTest2.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\TryParseTest\TryParseTest2\bin\Debug\TryParseTest2.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\TryParseTest\TryParseTest2\bin\Debug\TryParseTest2.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\TryParseTest\TryParseTest2\obj\Debug\TryParseTest2.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\TryParseTest\TryParseTest2\obj\Debug\TryParseTest2.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\TryParseTest\TryParseTest2\obj\Debug\TryParseTest2.csprojResolveAssemblyReference.cache

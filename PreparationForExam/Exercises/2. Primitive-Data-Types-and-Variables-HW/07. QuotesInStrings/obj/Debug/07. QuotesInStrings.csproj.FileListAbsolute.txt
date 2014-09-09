@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.pdb

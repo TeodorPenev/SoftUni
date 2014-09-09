@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\15. AgeAfter10Years\bin\Debug\_15.AgeAfter10Years.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\15. AgeAfter10Years\bin\Debug\_15.AgeAfter10Years.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\15. AgeAfter10Years\bin\Debug\_15.AgeAfter10Years.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\15. AgeAfter10Years\obj\Debug\_15.AgeAfter10Years.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\15. AgeAfter10Years\obj\Debug\_15.AgeAfter10Years.pdb

@@ -1,0 +1,3 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

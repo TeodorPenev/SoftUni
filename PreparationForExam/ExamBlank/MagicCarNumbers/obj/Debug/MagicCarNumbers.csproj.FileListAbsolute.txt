@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicCarNumbers\bin\Debug\MagicCarNumbers.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicCarNumbers\obj\Debug\MagicCarNumbers.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\MagicCarNumbers\obj\Debug\MagicCarNumbers.pdb

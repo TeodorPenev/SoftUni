@@ -1,0 +1,3 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\05. Calculates\bin\Debug\_05.Calculates.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\05. Calculates\bin\Debug\_05.Calculates.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\05. Calculates\bin\Debug\_05.Calculates.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\05. Calculates\obj\Debug\05. Calculates.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\05. Calculates\obj\Debug\_05.Calculates.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\05. Calculates\obj\Debug\_05.Calculates.pdb

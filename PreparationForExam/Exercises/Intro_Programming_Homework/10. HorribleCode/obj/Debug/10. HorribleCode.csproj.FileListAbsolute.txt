@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\10. HorribleCode\bin\Debug\_10.HorribleCode.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\10. HorribleCode\bin\Debug\_10.HorribleCode.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\10. HorribleCode\bin\Debug\_10.HorribleCode.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\10. HorribleCode\obj\Debug\_10.HorribleCode.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\10. HorribleCode\obj\Debug\_10.HorribleCode.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\18. TrailingZeroesinN\bin\Debug\_18.TrailingZeroesinN.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\18. TrailingZeroesinN\bin\Debug\_18.TrailingZeroesinN.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\18. TrailingZeroesinN\bin\Debug\_18.TrailingZeroesinN.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\18. TrailingZeroesinN\obj\Debug\18. TrailingZeroesinN.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\18. TrailingZeroesinN\obj\Debug\_18.TrailingZeroesinN.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\18. TrailingZeroesinN\obj\Debug\_18.TrailingZeroesinN.pdb

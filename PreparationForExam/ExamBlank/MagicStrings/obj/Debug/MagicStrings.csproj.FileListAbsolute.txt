@@ -1,0 +1,12 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem 4\Problem_4\MagicStrings\bin\Debug\MagicStrings.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem 4\Problem_4\MagicStrings\bin\Debug\MagicStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem 4\Problem_4\MagicStrings\bin\Debug\MagicStrings.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem 4\Problem_4\MagicStrings\obj\Debug\MagicStrings.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem 4\Problem_4\MagicStrings\obj\Debug\MagicStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\Problem 4\Problem_4\MagicStrings\obj\Debug\MagicStrings.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicStrings\bin\Debug\MagicStrings.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicStrings\obj\Debug\MagicStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicStrings\obj\Debug\MagicStrings.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicStrings\bin\Debug\MagicStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicStrings\bin\Debug\MagicStrings.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\MagicStrings\obj\Debug\MagicStrings.csprojResolveAssemblyReference.cache

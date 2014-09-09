@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

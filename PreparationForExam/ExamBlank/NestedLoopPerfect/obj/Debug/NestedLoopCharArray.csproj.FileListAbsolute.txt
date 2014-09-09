@@ -1,0 +1,3 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NestedLoopPerfect\bin\Debug\NestedLoopPerfect.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NestedLoopPerfect\obj\Debug\NestedLoopPerfect.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\NestedLoopPerfect\obj\Debug\NestedLoopPerfect.pdb

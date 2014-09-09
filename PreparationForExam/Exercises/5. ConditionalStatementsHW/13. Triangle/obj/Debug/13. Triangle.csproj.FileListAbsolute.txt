@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\13. Triangle\bin\Debug\_13.Triangle.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\13. Triangle\bin\Debug\_13.Triangle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\13. Triangle\bin\Debug\_13.Triangle.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\13. Triangle\obj\Debug\13. Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\13. Triangle\obj\Debug\_13.Triangle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\13. Triangle\obj\Debug\_13.Triangle.pdb

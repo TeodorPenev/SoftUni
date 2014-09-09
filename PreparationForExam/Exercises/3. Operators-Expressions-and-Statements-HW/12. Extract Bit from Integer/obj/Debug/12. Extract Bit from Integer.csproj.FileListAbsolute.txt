@@ -1,0 +1,1 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe.config

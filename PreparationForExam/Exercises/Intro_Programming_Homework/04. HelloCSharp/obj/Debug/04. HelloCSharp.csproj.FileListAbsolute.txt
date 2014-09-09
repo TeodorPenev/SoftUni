@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\04. HelloCSharp\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\Intro_Programming_Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.pdb

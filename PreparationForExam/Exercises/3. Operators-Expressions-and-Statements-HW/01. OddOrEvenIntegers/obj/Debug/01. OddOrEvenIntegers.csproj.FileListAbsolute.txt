@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\01. OddOrEvenIntegers\obj\Debug\01. OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.pdb

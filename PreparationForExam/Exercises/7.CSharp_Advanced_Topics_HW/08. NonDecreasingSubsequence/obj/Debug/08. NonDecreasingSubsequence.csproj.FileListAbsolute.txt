@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\08. NonDecreasingSubsequence\bin\Debug\_08.NonDecreasingSubsequence.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\08. NonDecreasingSubsequence\bin\Debug\_08.NonDecreasingSubsequence.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\08. NonDecreasingSubsequence\bin\Debug\_08.NonDecreasingSubsequence.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\08. NonDecreasingSubsequence\obj\Debug\08. NonDecreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\08. NonDecreasingSubsequence\obj\Debug\_08.NonDecreasingSubsequence.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\08. NonDecreasingSubsequence\obj\Debug\_08.NonDecreasingSubsequence.pdb

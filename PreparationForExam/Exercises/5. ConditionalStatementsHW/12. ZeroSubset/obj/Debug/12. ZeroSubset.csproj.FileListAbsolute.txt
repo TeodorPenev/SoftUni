@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\12. ZeroSubset\bin\Debug\_12.ZeroSubset.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\12. ZeroSubset\obj\Debug\12. ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\12. ZeroSubset\obj\Debug\_12.ZeroSubset.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\12. ZeroSubset\obj\Debug\_12.ZeroSubset.pdb

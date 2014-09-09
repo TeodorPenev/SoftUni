@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\CrossingSequences\bin\Debug\CrossingSequences.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\CrossingSequences\bin\Debug\CrossingSequences.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\CrossingSequences\bin\Debug\CrossingSequences.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\CrossingSequences\obj\Debug\CrossingSequences.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\CrossingSequences\obj\Debug\CrossingSequences.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\CrossingSequences\obj\Debug\CrossingSequences.pdb

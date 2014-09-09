@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

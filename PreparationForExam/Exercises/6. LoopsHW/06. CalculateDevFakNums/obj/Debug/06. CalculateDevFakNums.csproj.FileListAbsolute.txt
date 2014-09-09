@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\06. CalculateDevFakNums\bin\Debug\_06.CalculateDevFakNums.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\06. CalculateDevFakNums\bin\Debug\_06.CalculateDevFakNums.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\06. CalculateDevFakNums\bin\Debug\_06.CalculateDevFakNums.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\06. CalculateDevFakNums\obj\Debug\_06.CalculateDevFakNums.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\06. CalculateDevFakNums\obj\Debug\_06.CalculateDevFakNums.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\06. CalculateDevFakNums\obj\Debug\06. CalculateDevFakNums.csprojResolveAssemblyReference.cache

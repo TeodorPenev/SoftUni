@@ -1,0 +1,6 @@
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsKiller\bin\Debug\BitsKiller.exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsKiller\bin\Debug\BitsKiller.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsKiller\bin\Debug\BitsKiller.pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsKiller\obj\Debug\BitsKiller.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsKiller\obj\Debug\BitsKiller.exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\BitsKiller\obj\Debug\BitsKiller.pdb

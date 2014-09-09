@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.csprojResolveAssemblyReference.cache

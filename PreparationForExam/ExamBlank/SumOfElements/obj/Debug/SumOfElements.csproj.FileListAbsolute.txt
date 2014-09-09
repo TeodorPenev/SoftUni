@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SumOfElements\bin\Debug\SumOfElements.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SumOfElements\bin\Debug\SumOfElements.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SumOfElements\bin\Debug\SumOfElements.pdb
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SumOfElements\obj\Debug\SumOfElements.exe
+C:\Users\Teodor\Desktop\SoftUni\Preparation for exam\ExamBlank\SumOfElements\obj\Debug\SumOfElements.pdb

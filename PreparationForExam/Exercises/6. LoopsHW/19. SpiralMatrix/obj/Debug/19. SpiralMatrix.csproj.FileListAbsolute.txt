@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\6. LoopsHW\19. SpiralMatrix\obj\Debug\19. SpiralMatrix.csprojResolveAssemblyReference.cache

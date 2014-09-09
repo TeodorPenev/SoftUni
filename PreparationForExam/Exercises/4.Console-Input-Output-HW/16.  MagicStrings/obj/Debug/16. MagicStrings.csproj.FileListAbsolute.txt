@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\16.  MagicStrings\bin\Debug\_16.MagicStrings.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\16.  MagicStrings\bin\Debug\_16.MagicStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\16.  MagicStrings\bin\Debug\_16.MagicStrings.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\16.  MagicStrings\obj\Debug\16. MagicStrings.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\16.  MagicStrings\obj\Debug\_16.MagicStrings.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\16.  MagicStrings\obj\Debug\_16.MagicStrings.pdb

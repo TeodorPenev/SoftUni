@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\07. SumOf5Numbers\obj\Debug\_07.SumOf5Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\07. SumOf5Numbers\obj\Debug\_07.SumOf5Numbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\07. SumOf5Numbers\obj\Debug\07. SumOf5Numbers.csprojResolveAssemblyReference.cache

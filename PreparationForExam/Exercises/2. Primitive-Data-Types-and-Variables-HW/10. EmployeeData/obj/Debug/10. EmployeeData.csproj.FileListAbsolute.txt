@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive-Data-Types-and-Variables-HW\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

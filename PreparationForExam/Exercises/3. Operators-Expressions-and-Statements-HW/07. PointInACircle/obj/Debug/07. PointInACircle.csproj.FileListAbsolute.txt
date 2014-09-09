@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\07. PointInACircle\bin\Debug\_07.PointInACircle.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\07. PointInACircle\bin\Debug\_07.PointInACircle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\07. PointInACircle\bin\Debug\_07.PointInACircle.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\07. PointInACircle\obj\Debug\07. PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\07. PointInACircle\obj\Debug\_07.PointInACircle.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\07. PointInACircle\obj\Debug\_07.PointInACircle.pdb

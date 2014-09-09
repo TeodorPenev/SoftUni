@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\15. NewHouse\bin\Debug\_15.NewHouse.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\15. NewHouse\bin\Debug\_15.NewHouse.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\15. NewHouse\bin\Debug\_15.NewHouse.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\15. NewHouse\obj\Debug\15. NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\15. NewHouse\obj\Debug\_15.NewHouse.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\4.Console-Input-Output-HW\15. NewHouse\obj\Debug\_15.NewHouse.pdb

@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\09. PlayWithIntDoubleAndString\obj\Debug\_09.PlayWithIntDoubleAndString.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\5. ConditionalStatementsHW\09. PlayWithIntDoubleAndString\obj\Debug\_09.PlayWithIntDoubleAndString.pdb

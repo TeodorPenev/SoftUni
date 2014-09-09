@@ -1,0 +1,6 @@
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\WeAllLoveBits(InvertBits)\bin\Debug\WeAllLoveBits(InvertBits).exe.config
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\WeAllLoveBits(InvertBits)\bin\Debug\WeAllLoveBits(InvertBits).exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\WeAllLoveBits(InvertBits)\bin\Debug\WeAllLoveBits(InvertBits).pdb
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\WeAllLoveBits(InvertBits)\obj\Debug\WeAllLoveBits(InvertBits).csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\WeAllLoveBits(InvertBits)\obj\Debug\WeAllLoveBits(InvertBits).exe
+C:\Users\Monika\Desktop\SoftUniStuff\SoftUni\Preparation for exam\ExamBlank\WeAllLoveBits(InvertBits)\obj\Debug\WeAllLoveBits(InvertBits).pdb

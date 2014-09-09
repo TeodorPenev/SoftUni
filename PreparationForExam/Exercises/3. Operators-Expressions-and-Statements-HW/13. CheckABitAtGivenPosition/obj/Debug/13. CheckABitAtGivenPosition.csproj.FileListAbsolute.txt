@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\13. CheckABitAtGivenPosition\bin\Debug\_13.CheckABitAtGivenPosition.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\13. CheckABitAtGivenPosition\bin\Debug\_13.CheckABitAtGivenPosition.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\13. CheckABitAtGivenPosition\bin\Debug\_13.CheckABitAtGivenPosition.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\13. CheckABitAtGivenPosition\obj\Debug\13. CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\13. CheckABitAtGivenPosition\obj\Debug\_13.CheckABitAtGivenPosition.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\3. Operators-Expressions-and-Statements-HW\13. CheckABitAtGivenPosition\obj\Debug\_13.CheckABitAtGivenPosition.pdb

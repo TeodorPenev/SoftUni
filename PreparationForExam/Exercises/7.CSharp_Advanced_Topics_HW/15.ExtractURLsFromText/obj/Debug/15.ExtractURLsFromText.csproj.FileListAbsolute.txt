@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb

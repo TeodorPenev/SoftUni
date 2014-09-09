@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\05. SortingNumbers\bin\Debug\_05.SortingNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\05. SortingNumbers\obj\Debug\05. SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\05. SortingNumbers\obj\Debug\_05.SortingNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\7.CSharp_Advanced_Topics_HW\05. SortingNumbers\obj\Debug\_05.SortingNumbers.pdb
