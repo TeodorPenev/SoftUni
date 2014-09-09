@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

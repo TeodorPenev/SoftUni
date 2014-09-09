@@ -1,0 +1,7 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

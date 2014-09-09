@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.pdb

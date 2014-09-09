@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\06.Print Numbers\bin\Debug\06.Print Numbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\06.Print Numbers\bin\Debug\06.Print Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\06.Print Numbers\bin\Debug\06.Print Numbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\06.Print Numbers\obj\Debug\06.PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\06.Print Numbers\obj\Debug\06.Print Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\06.Print Numbers\obj\Debug\06.Print Numbers.pdb

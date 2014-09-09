@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.pdb

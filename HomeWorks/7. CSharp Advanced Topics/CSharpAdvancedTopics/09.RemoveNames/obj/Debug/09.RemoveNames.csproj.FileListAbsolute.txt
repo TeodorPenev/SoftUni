@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

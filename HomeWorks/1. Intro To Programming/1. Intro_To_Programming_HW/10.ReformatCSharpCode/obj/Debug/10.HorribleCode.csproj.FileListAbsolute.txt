@@ -1,0 +1,12 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\10.ReformatCSharpCode\obj\Debug\10.HorribleCode.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro To Programming\1. Intro_To_Programming_HW\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro To Programming\1. Intro_To_Programming_HW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro To Programming\1. Intro_To_Programming_HW\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

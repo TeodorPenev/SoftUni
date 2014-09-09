@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWorks\7. CSharp Advanced Topics\CSharpAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.pdb

@@ -1,0 +1,8 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\1.IntroToProgrammingHW\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\1. Intro_To_Programming_HW\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.pdb
