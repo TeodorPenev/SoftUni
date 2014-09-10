@@ -1,0 +1,8 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

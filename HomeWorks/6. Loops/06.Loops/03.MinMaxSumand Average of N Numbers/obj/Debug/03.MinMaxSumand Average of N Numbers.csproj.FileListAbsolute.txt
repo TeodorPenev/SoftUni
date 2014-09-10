@@ -1,0 +1,1 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\03.MinMaxSumand Average of N Numbers\bin\Debug\03.MinMaxSumand Average of N Numbers.exe.config

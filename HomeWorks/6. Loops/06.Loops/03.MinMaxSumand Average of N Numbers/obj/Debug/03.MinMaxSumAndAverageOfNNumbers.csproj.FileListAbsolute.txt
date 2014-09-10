@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\03.MinMaxSumand Average of N Numbers\bin\Debug\03.MinMaxSumand Average of N Numbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\03.MinMaxSumand Average of N Numbers\bin\Debug\03.MinMaxSumand Average of N Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\03.MinMaxSumand Average of N Numbers\bin\Debug\03.MinMaxSumand Average of N Numbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\03.MinMaxSumand Average of N Numbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\03.MinMaxSumand Average of N Numbers\obj\Debug\03.MinMaxSumand Average of N Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\03.MinMaxSumand Average of N Numbers\obj\Debug\03.MinMaxSumand Average of N Numbers.pdb

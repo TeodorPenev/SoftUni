@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\12.RandomizeTheNumbers1…N\bin\Debug\12.RandomizeTheNumbers1…N.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\12.RandomizeTheNumbers1…N\bin\Debug\12.RandomizeTheNumbers1…N.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\12.RandomizeTheNumbers1…N\bin\Debug\12.RandomizeTheNumbers1…N.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\12.RandomizeTheNumbers1…N\obj\Debug\12.RandomizeTheNumbers1…N.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\12.RandomizeTheNumbers1…N\obj\Debug\12.RandomizeTheNumbers1…N.pdb

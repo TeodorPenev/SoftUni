@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

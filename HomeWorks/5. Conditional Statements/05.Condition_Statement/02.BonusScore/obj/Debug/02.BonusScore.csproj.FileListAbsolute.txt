@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\02.BonusScore\obj\Debug\02.BonusScore.pdb

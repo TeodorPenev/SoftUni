@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

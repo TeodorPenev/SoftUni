@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

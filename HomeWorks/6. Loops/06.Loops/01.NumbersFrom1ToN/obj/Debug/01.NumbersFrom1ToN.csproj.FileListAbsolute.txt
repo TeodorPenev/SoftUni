@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb

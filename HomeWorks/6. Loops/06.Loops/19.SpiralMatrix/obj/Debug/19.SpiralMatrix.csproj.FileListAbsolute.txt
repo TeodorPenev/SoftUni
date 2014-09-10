@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

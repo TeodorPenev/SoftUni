@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

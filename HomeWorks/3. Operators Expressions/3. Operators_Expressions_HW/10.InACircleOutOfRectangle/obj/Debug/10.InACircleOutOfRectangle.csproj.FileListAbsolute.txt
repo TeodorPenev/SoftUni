@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\10.InACircleOutOfRectangle\bin\Debug\10.InACircleOutOfRectangle.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\10.InACircleOutOfRectangle\bin\Debug\10.InACircleOutOfRectangle.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\10.InACircleOutOfRectangle\bin\Debug\10.InACircleOutOfRectangle.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\10.InACircleOutOfRectangle\obj\Debug\10.InACircleOutOfRectangle.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\10.InACircleOutOfRectangle\obj\Debug\10.InACircleOutOfRectangle.pdb

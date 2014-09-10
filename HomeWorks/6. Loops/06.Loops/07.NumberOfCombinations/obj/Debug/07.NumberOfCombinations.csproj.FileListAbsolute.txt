@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\07.NumberOfCombinations\bin\Debug\07.NumberOfCombinations.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\07.NumberOfCombinations\bin\Debug\07.NumberOfCombinations.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\07.NumberOfCombinations\bin\Debug\07.NumberOfCombinations.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\07.NumberOfCombinations\obj\Debug\07.NumberOfCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\07.NumberOfCombinations\obj\Debug\07.NumberOfCombinations.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\07.NumberOfCombinations\obj\Debug\07.NumberOfCombinations.pdb

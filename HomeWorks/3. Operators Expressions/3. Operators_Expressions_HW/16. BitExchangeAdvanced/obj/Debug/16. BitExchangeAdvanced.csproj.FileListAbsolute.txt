@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\16. BitExchangeAdvanced\bin\Debug\_16.BitExchangeAdvanced.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\16. BitExchangeAdvanced\bin\Debug\_16.BitExchangeAdvanced.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\16. BitExchangeAdvanced\bin\Debug\_16.BitExchangeAdvanced.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\16. BitExchangeAdvanced\obj\Debug\16. BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\16. BitExchangeAdvanced\obj\Debug\_16.BitExchangeAdvanced.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\16. BitExchangeAdvanced\obj\Debug\_16.BitExchangeAdvanced.pdb

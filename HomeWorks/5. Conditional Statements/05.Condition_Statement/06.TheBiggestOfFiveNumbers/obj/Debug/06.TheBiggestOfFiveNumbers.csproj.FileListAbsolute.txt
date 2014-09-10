@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\5. Conditional-Statements\05.Condition_Statement\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

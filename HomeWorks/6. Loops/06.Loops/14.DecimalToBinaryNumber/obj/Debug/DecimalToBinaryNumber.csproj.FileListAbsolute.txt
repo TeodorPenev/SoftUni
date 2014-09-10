@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb

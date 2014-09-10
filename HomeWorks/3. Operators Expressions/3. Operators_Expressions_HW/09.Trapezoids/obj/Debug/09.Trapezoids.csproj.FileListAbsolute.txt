@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

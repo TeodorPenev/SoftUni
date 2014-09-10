@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\13.CheckABitAtGivenPos\bin\Debug\13.CheckABitAtGivenPos.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\13.CheckABitAtGivenPos\bin\Debug\13.CheckABitAtGivenPos.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\13.CheckABitAtGivenPos\bin\Debug\13.CheckABitAtGivenPos.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\13.CheckABitAtGivenPos\obj\Debug\13.CheckABitAtGivenPos.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\13.CheckABitAtGivenPos\obj\Debug\13.CheckABitAtGivenPos.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\3. Operators Expressions and Statements\3. Operators_Expressions_HW\13.CheckABitAtGivenPos\obj\Debug\13.CheckABitAtGivenPos.pdb

@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\06.CalculateFacNDevFacK\bin\Debug\06.CalculateFacNDevFacK.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\06.CalculateFacNDevFacK\bin\Debug\06.CalculateFacNDevFacK.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\06.CalculateFacNDevFacK\bin\Debug\06.CalculateFacNDevFacK.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\06.CalculateFacNDevFacK\obj\Debug\06.CalculateFacNDevFacK.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\06.CalculateFacNDevFacK\obj\Debug\06.CalculateFacNDevFacK.pdb

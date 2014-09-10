@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.pdb

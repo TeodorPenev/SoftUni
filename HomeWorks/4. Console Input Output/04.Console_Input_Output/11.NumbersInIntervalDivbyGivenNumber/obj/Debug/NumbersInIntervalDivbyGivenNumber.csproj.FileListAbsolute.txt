@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\NumbersInIntervalDivbyGivenNumber\bin\Debug\NumbersInIntervalDivbyGivenNumber.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\NumbersInIntervalDivbyGivenNumber\bin\Debug\NumbersInIntervalDivbyGivenNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\NumbersInIntervalDivbyGivenNumber\bin\Debug\NumbersInIntervalDivbyGivenNumber.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\NumbersInIntervalDivbyGivenNumber\obj\Debug\NumbersInIntervalDivbyGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\NumbersInIntervalDivbyGivenNumber\obj\Debug\NumbersInIntervalDivbyGivenNumber.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\NumbersInIntervalDivbyGivenNumber\obj\Debug\NumbersInIntervalDivbyGivenNumber.pdb

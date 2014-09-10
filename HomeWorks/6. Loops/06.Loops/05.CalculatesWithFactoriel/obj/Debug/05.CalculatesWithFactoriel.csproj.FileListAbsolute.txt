@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\05.CalculatesWithFactoriel\bin\Debug\05.CalculatesWithFactoriel.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\05.CalculatesWithFactoriel\bin\Debug\05.CalculatesWithFactoriel.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\05.CalculatesWithFactoriel\bin\Debug\05.CalculatesWithFactoriel.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\05.CalculatesWithFactoriel\obj\Debug\05.CalculatesWithFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\05.CalculatesWithFactoriel\obj\Debug\05.CalculatesWithFactoriel.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\05.CalculatesWithFactoriel\obj\Debug\05.CalculatesWithFactoriel.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.pdb

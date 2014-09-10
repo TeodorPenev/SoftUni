@@ -1,0 +1,5 @@
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb

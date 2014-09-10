@@ -1,0 +1,6 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\6. Loops\06.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb
