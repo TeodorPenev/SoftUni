@@ -1,4 +1,4 @@
 SoftUni_CSharp
 ==============
 
-SoftUni_CSharp is a reposiory for my Home Works and Exam preparation in Software University.
+SoftUni_Java is a repository for my Home Works and Exam preparation in Software University.
