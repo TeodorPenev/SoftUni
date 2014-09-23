@@ -1,0 +1,26 @@
+INDEX VERSION 1.127+C:\Users\Teodor\Desktop\SoftUni\Java Basic Course\HomeWorks\4. Java Collections Basics\.metadata\.plugins\org.eclipse.jdt.core
+3609677626.index
+1926144101.index
+4134526084.index
+3038630371.index
+1083996219.index
+2959774643.index
+4170144010.index
+1811389807.index
+251782801.index
+3491804422.index
+377567270.index
+2634579158.index
+3158849313.index
+105210318.index
+1198961354.index
+2248287622.index
+4039342660.index
+2296753541.index
+1636174000.index
+2804169155.index
+2620426498.index
+174553.index
+1657330681.index
+265732991.index
+1667022092.index

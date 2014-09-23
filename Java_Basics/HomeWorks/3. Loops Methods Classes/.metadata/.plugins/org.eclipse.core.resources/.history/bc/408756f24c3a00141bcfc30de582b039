@@ -1,0 +1,25 @@
+public class FullHouse {
+
+	public static void main(String[] args) {
+		String[] card = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J",
+				"Q", "K", "A" };
+		int count = 0;
+		for (int i1 = 0; i1 < card.length; i1++) {
+			for (int i2 = 0; i2 < card.length; i2++) {
+				for (int i3 = 0; i3 < card.length; i3++) {
+					for (int i4 = 0; i4 < card.length; i4++) {
+						for (int i5 = 0; i5 < card.length; i5++) {
+							if ((card[i1].equals(card[i2]) && (card[i2].equals(card[i3])) &&(card[i4].equals(card[i5])) ) {
+		
+										if (!(card[i1].equals(card[i4]))) {
+											count++;
+											System.out.println(count);
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+}

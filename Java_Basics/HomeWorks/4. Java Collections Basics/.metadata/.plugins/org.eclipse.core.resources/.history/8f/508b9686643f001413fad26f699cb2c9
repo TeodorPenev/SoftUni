@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+
+public class Test {
+	public static void main(String[] args) {
+		String[] words ="mama,tati,baba,dqdo,end".split(",");
+		for (int i = 0; i <10; i++) {
+			words[i].matches("sasa");
+			break;
+		}
+		System.out.println(words);
+
+	}
+}

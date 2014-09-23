@@ -1,0 +1,16 @@
+import java.util.List;
+import java.util.Scanner;
+
+public class ThreeLargestNumbers {
+
+	public static void main(String[] args) {
+	
+	Scanner input = new Scanner(System.in);
+	byte count = input.nextByte();
+	List<Integer> numbers = null;
+	for (int i = 0; i <count; i++) {
+		numbers.add(input.nextInt());
+	}
+
+	}
+}

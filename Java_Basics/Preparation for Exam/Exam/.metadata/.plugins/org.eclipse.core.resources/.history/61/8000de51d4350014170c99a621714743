@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class CouplesFrequency {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] numberStr = input.nextLine().split(" ");
+		int[] numbers = new int[numberStr.length];
+		
+		for (int i = 0; i < numberStr.length; i++) {
+		numbers[i] = Integer.parseInt(numberStr[i]);	
+		}
+		
+		
+	}
+}

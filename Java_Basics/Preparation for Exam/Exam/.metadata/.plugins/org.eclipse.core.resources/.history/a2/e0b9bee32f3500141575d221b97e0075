@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class VideoDurations {
+
+	public static void main(String[] args) {
+
+		Scanner input = new Scanner(System.in);
+		String[] inputs= new String[999];
+		String regInput ="";
+		int hours =0;
+		int minutes = 0;
+		
+		
+		for (int i = 0; i < inputs.length; i++) {
+			 inputs[i] =input.next().replaceAll(":", " ");
+			 if (inputs[i].equals("End")) {
+				break;
+			}
+		}
+		
+		for (int i = 0; i < regInput.length(); i++) {
+			regInput ="" + Integer.parseInt(inputs[i]);
+		}
+		
+		
+	}
+
+}

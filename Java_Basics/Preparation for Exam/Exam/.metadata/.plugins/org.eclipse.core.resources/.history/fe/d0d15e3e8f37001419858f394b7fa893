@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+import java.util.HashSet;
+
+public class Test {
+	public static void main(String[] args) {
+		HashSet<String> names = new HashSet<>();
+		names.add("Teddy");
+		names.add("Teddy");
+		names.add("Moni");
+		names.add("Moni");
+		names.add("Teddy");{
+			System.out.println(names);
+		}
+		HashSet<String> my = new HashSet<>();
+		names.add("Teddy");
+		System.out.println(names.contains(my.));
+
+	}
+}

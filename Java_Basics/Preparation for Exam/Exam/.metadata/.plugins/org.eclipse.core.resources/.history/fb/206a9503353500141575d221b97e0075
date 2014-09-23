@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class VideoDurations {
+
+	public static void main(String[] args) {
+
+		Scanner input = new Scanner(System.in);
+		String inputs ="";
+	   for (int i = 0; i < 999; i++) {
+		   inputs=input.next().replace(":"," ");
+		   
+	   }
+	}
+
+}

@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class Largest3Rectangles {
+
+	public static void main(String[] args) {
+		@SuppressWarnings("resource")
+		Scanner input = new Scanner(System.in);
+		String reg = input.nextLine().replace("["," ").replace("]", " ").replace("x", " ").trim();
+		String[] values= reg.split("");
+	}
+}

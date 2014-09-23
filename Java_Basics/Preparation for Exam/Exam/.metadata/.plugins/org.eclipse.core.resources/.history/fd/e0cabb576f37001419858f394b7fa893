@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+
+public class SumCards {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String faces = input.nextLine().replace("S", "").replace("H", "").replace("D", "").replace("C", "").replace("J", "12").replace("Q", "13").replace("K", "14").replace("A", "15");
+		System.out.println(faces);
+	}
+
+}

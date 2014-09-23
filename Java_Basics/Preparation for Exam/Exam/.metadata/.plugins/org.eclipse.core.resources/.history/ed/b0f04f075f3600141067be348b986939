@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class LongestOddEvenSequence {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String inputStr = input.nextLine().replace("(", " ").replace(")", " ").replaceAll("\\s+"," ").trim();
+        String[] inputStrRex = inputStr.split(" ");
+        int[] numsArr =new int[inputStrRex.length];
+        
+        for (int i = 0; i < inputStrRex.length; i++) {
+			numsArr[i]= Integer.parseInt(inputStrRex[i]);
+		}
+        
+	}
+	}

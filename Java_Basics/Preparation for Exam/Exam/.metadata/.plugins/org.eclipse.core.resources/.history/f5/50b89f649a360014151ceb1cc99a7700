@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+
+public class Test {
+	public static void main(String[] args) {
+		ArrayList<String> names = new ArrayList<>();
+		names.add("Teddy");
+		names.add("Teddy");
+		names.add("Moni");
+		names.add("Moni");
+		names.add("Teddy");
+		System.out.println(names);
+		String sort = "Teddy,! Moni ! Danni";
+		String[] sorted = sort.split(" ,!");
+		for (int i = 0; i < sorted.length; i++) {
+			System.out.printf("/s ",sorted[i]);
+		}
+		
+	}
+}

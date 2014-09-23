@@ -1,0 +1,5 @@
+Comands for compile
+C:\...\javac SumTwoNumbers.java
+
+Comands for run
+C:\...\java SumTwoNumbers

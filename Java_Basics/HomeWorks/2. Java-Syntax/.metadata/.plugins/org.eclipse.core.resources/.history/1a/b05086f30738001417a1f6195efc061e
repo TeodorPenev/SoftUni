@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class _9_PointsInsideTheHouse {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		float px = input.nextFloat();
+		float py = input.nextFloat();
+		
+		float triX1=(float) 12.5;
+		float triY1=(float) 8.5;
+		float triX2=(float) 17.5;
+		float triY2=(float) 3.5;
+		float triX3=(float) 22.5;
+		float triY3=(float) 8.5;
+		
+		float k1 = (px-triX1)*(triY2-triY1)-(py-triY1)*(triX2-triX1);
+		float k2 = (px-triX2)*(triY3-triY2)-(py-triY2)*(triX3-triX2);
+		float k3 = (px-triX3)*(triY1-triY3)-(py-triY3)*(triX1-triX3);
+		if ((k1>=0 && k2>=0 && k3>=0) || (k1<=0 && k2<=0 && k3<=0)) {
+			System.out.println("Inside");
+		}
+	}
+
+}

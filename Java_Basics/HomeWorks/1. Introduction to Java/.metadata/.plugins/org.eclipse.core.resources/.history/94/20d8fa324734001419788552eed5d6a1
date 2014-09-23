@@ -1,0 +1,11 @@
+import java.time.LocalDateTime;
+
+public class _5_PrintTheCurrentDateAndTime {
+
+	public static void main(String[] args) {
+ LocalDateTime currentTime = null;
+ currentTime = LocalDateTime.now();
+ System.out.println(currentTime);
+	}
+
+}

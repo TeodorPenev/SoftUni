@@ -1,0 +1,51 @@
+import java.util.Scanner;
+
+public class SumCards {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String faces = input.nextLine().replace("S", "").replace("H", "")
+				.replace("D", "").replace("C", "").replace("J", "12")
+				.replace("Q", "13").replace("K", "14").replace("A", "15");
+		String[] faceArr = faces.split(" ");
+		int[] card = new int[faceArr.length];
+		boolean exist = false;
+		int sequence = 0;
+		int result = 0;
+
+		for (int i = 0; i < faceArr.length; i++) {
+			card[i] = Integer.parseInt(faceArr[i]);
+		}
+
+		for (int i = 0; i < card.length - 1; i++) {
+
+			if (card[i] == card[i + 1]) {
+				exist = true;
+				sequence = sequence + card[i];
+				if (i == card.length - 2) {
+					result = (sequence + card[i]) * 2;
+				}
+				continue;
+			}
+
+			if (card[i] != card[i + 1] && exist == true) {
+				result = result + (card[i] + sequence) * 2;
+				exist = false;
+				sequence = 0;
+			} else {
+				result = result + card[i];
+				if (i == card.length - 2) {
+					result = result + card[i + 1];
+				}
+			}
+
+		}
+
+		if (card.length == 1) {
+			result = card[0];
+		}
+		
+		System.out.println(result);
+	}
+
+}

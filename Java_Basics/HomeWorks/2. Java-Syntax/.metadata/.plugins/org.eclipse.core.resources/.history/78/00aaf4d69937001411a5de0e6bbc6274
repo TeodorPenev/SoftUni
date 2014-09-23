@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+
+public class _2_TriangleArea {
+
+	public static void main(String[] args) {
+	Scanner input = new Scanner(System.in);
+	int point1Cord1 = input.nextInt();
+	int point1Cord2 = input.nextInt();
+	int point2Cord1 = input.nextInt();
+	int point2Cord2 = input.nextInt();
+	int point3Cord1 = input.nextInt();
+	int point3Cord2 = input.nextInt();
+	}
+
+}

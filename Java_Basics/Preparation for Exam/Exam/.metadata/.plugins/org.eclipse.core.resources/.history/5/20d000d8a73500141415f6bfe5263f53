@@ -1,0 +1,39 @@
+import java.util.Scanner;
+
+public class PythagoreanNumbers {
+
+	public static void main(String[] args) {
+		@SuppressWarnings("resource")
+		Scanner input = new Scanner(System.in);
+		int numsCount = input.nextInt();
+		int num = 0;
+		int productA = 0;
+		int productB =0;
+		boolean exist = false;
+		int[] allNums = new int[100];
+
+		for (int i = 0; i < numsCount; i++) {
+			allNums[i] = input.nextInt();
+		}
+
+		for (int i = 0; i < numsCount; i++) {
+			for (int j = 0; j < numsCount; j++) {
+				productA = allNums[i] * allNums[i];
+				productB = allNums[j] * allNums[j];
+				if (productA <= productB) {
+					for (int k = 0; k < numsCount; k++) {
+			             if (productA + productB == allNums[k]*allNums[k]) {
+							System.out.printf("%d*%d + %d*%d = %d*%d",allNums[i],allNums[i],allNums[j],allNums[j],allNums[k],allNums[k]);
+							System.out.println();
+							exist = true;
+						}
+						}
+				}
+			}
+			
+		}
+		if (exist = false) {
+			System.out.println("No");
+		}
+	}
+}

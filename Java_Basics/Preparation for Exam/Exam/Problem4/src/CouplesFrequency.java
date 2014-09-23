@@ -1,0 +1,38 @@
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Scanner;
+
+public class CouplesFrequency {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] numberStr = input.nextLine().split(" ");
+		int[] numbers = new int[numberStr.length];
+        HashMap<String,Integer > couples = new HashMap<>();
+		
+		for (int i = 0; i < numberStr.length-1; i++) {
+			numbers[i] = Integer.parseInt(numberStr[i]);
+			String key =numberStr[i] + " " + numberStr[i + 1];
+			Integer count = couples.get(key);
+			if (count ==null) {
+				count =0;
+			}
+			count++;
+			couples.put(key, count);
+		}
+			HashSet<String> printedCouples = new HashSet<>();
+			for (int i = 1; i < numbers.length; i++) {
+				int first = numbers[i-1];
+				int second = numbers[i];
+				String keyE = first + " " + second;
+				if (! printedCouples.contains(keyE)) {
+					int countE = couples.get(keyE);
+					float frequency = (float)countE / (numbers.length - 1);
+					System.out.printf("%s -> %.2f%%\n", keyE, frequency*100);
+					printedCouples.add(keyE);
+				}			
+		}
+
+	}
+	}
+

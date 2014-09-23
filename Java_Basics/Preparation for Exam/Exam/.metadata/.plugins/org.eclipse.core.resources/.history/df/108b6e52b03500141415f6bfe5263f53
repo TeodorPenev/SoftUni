@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Largest3Rectangles {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String reg = " ";
+		for (int i = 0; i < 100; i++) {
+			reg = input.next().toString();
+			if (input.next()=="") {
+				break;
+			}
+		}
+	}
+}
