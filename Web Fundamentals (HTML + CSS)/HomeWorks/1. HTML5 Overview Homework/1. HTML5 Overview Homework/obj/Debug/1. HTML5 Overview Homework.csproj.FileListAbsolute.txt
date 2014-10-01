@@ -1,0 +1,12 @@
+C:\Users\Teodor\Desktop\1. HTML5 Overview Homework\1. HTML5 Overview Homework\bin\_1.HTML5_Overview_Homework.dll.config
+C:\Users\Teodor\Desktop\1. HTML5 Overview Homework\1. HTML5 Overview Homework\bin\_1.HTML5_Overview_Homework.dll
+C:\Users\Teodor\Desktop\1. HTML5 Overview Homework\1. HTML5 Overview Homework\bin\_1.HTML5_Overview_Homework.pdb
+C:\Users\Teodor\Desktop\1. HTML5 Overview Homework\1. HTML5 Overview Homework\obj\Debug\1. HTML5 Overview Homework.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\1. HTML5 Overview Homework\1. HTML5 Overview Homework\obj\Debug\_1.HTML5_Overview_Homework.dll
+C:\Users\Teodor\Desktop\1. HTML5 Overview Homework\1. HTML5 Overview Homework\obj\Debug\_1.HTML5_Overview_Homework.pdb
+C:\Users\Teodor\Desktop\SoftUni\Level 1\Web Fundamentals (HTML + CSS)\HomeWorks\1. HTML5 Overview Homework\1. HTML5 Overview Homework\bin\_1.HTML5_Overview_Homework.dll.config
+C:\Users\Teodor\Desktop\SoftUni\Level 1\Web Fundamentals (HTML + CSS)\HomeWorks\1. HTML5 Overview Homework\1. HTML5 Overview Homework\bin\_1.HTML5_Overview_Homework.dll
+C:\Users\Teodor\Desktop\SoftUni\Level 1\Web Fundamentals (HTML + CSS)\HomeWorks\1. HTML5 Overview Homework\1. HTML5 Overview Homework\bin\_1.HTML5_Overview_Homework.pdb
+C:\Users\Teodor\Desktop\SoftUni\Level 1\Web Fundamentals (HTML + CSS)\HomeWorks\1. HTML5 Overview Homework\1. HTML5 Overview Homework\obj\Debug\1. HTML5 Overview Homework.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\Level 1\Web Fundamentals (HTML + CSS)\HomeWorks\1. HTML5 Overview Homework\1. HTML5 Overview Homework\obj\Debug\_1.HTML5_Overview_Homework.dll
+C:\Users\Teodor\Desktop\SoftUni\Level 1\Web Fundamentals (HTML + CSS)\HomeWorks\1. HTML5 Overview Homework\1. HTML5 Overview Homework\obj\Debug\_1.HTML5_Overview_Homework.pdb
