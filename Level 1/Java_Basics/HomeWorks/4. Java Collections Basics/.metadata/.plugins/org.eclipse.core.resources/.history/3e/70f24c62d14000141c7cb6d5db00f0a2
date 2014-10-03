@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class AddingAngles {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int n = Integer.parseInt(input.nextLine());
+		String tempStr[] = input.nextLine().split(" ");
+		int[] digits = new int[n];
+		for (int i = 0; i < tempStr.length; i++) {
+			digits[i] = Integer.parseInt(tempStr[i]);
+		}
+		
+	}
+}
