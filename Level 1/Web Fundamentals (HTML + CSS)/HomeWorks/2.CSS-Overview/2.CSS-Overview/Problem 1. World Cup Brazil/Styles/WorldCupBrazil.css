@@ -1,0 +1,127 @@
+﻿div {
+    background: green;
+    width: 573px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+}
+table {
+    border-collapse: collapse;
+    margin: 15px;
+    border: solid;
+    overflow:hidden;
+    border-radius: 25px;
+}
+th {
+    font-weight: bold;
+}
+tr, th, td{
+    border: solid black;
+}
+th {
+    background: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.team1 {
+    text-align: right;
+}
+.team2 {
+    text-align: left;
+}
+.team3 {
+    text-align: right;
+}
+.whiteBack {
+    background: white;
+    font-size: 12px;
+}
+.greyBack {
+    background: #aeadad;
+    font-size: 12px;
+}
+.team {
+    width: 80px;
+}
+.score {
+    text-align: center;
+}
+.whiteBack:first-child {
+    text-align: right;
+}
+.firstCol {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.brasil{
+    content : url(../Images/brasil.png);
+    float: right;
+    width: 25%;
+}
+.spain {
+    content : url(../Images/spain.png);
+    float: right;
+    width: 25%;
+}
+.italy {
+    content : url(../Images/italy.png);
+    float: right;
+    width: 25%;
+}
+.argentina {
+    content : url(../Images/argentina.png);
+    float: right;
+    width: 25%;
+}
+.germany {
+    content : url(../Images/germany.png);
+    float: right;
+    width: 25%;
+}
+.mexico {
+     content : url(../Images/mexico.png);
+    float: left;
+    width: 15%;
+}
+.netherlands {
+    content : url(../Images/netherlands.png);
+    float: left;
+    width: 15%;
+}
+.england {
+     content : url(../Images/england.png);
+    float: left;
+    width: 15%;
+}
+.bosnia {
+    content : url(../Images/bosnia-herz.png);
+    float: left;
+    width: 15%;
+}
+.portugal {
+    content : url(../Images/portugal.png);
+    float: left;
+    width: 15%;
+}
+select[disabled] {
+    color: red;
+    background: lightgrey;
+}
+select {
+    color: green;
+}
+.endCol {
+    width: 30px;
+}
+.betRed {
+    content: url(../Images/betRed.png);
+    width: 80%;
+    padding-left: 3px;
+}
+.betGreen {
+    content: url(../Images/betGreen.png);
+    width: 80%;
+    padding-left: 3px;
+}
