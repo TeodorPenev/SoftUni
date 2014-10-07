@@ -58,6 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Problem 1. World Cup Brazil\Styles\WorldCupBrazil.css" />
+    <Content Include="Problem 2. Color Kitchen\ColorKitchen.html" />
+    <Content Include="Problem 2. Color Kitchen\Images\colorful_dots_on_black.jpg" />
+    <Content Include="Problem 2. Color Kitchen\Styles\Main.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -3,3 +3,6 @@ C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_
 C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
 C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
 C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb
+D:\Documents\GitHub Depo\SoftUni\Level 0\C#_Basics\HomeWorks\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\Documents\GitHub Depo\SoftUni\Level 0\C#_Basics\HomeWorks\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\Documents\GitHub Depo\SoftUni\Level 0\C#_Basics\HomeWorks\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

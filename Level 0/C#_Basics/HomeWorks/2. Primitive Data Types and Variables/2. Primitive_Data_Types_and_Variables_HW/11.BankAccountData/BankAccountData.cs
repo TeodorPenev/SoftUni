@@ -3,7 +3,7 @@
     {
         static void Main()
         {
-            string holderName = ("Ivan, Petrov, Ivanov");
+            string holderName = ("Ivancho, Petrov, Ivanov");
             decimal mBalance = 911.10M;
             string bankName = "PostBank";
             string iBan = "IT96W0585611601050570111111";

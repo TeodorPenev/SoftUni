@@ -7,3 +7,6 @@ C:\Users\Teodor\Desktop\SoftUni\Exercises\2. Primitive_Data_Types_and_Variables_
 C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
 C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
 C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
+D:\Documents\GitHub Depo\SoftUni\Level 0\C#_Basics\HomeWorks\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
+D:\Documents\GitHub Depo\SoftUni\Level 0\C#_Basics\HomeWorks\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+D:\Documents\GitHub Depo\SoftUni\Level 0\C#_Basics\HomeWorks\2. Primitive Data Types and Variables\2. Primitive_Data_Types_and_Variables_HW\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
