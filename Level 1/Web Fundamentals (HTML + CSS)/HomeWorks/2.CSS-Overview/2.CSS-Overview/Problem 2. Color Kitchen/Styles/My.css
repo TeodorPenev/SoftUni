@@ -4,74 +4,92 @@
     width: 1582px;
     height: 2536px;
 }
+
 body>header {
     color: yellow;
     font-family: sans-serif;
     font-size: 72px;
     text-align: center;
     background: linear-gradient(to right, red 33.3%, green 33.3%, green 66.7%, blue 66.7%);
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     font-weight: bold;
 }
+
 aside {
     background-color: rgba(255, 255, 255, 0.9);
     width: 20%;
+    height: 13%;
     border-radius: 18px;
     margin-top: 30px;
     margin-left: 10px;
     float: left;
     padding-top: 15px;
 }
+
 nav>header {
     font-family: sans-serif;
     text-decoration: underline;
-    font-size: 38px;
-    padding-left: 30px;
+    font-size: 32px;
+    padding-left:20px;
 }
+
 ul {
+   padding-bottom: 35px;
     color: black;
     list-style-type: none;
     font-size: 24px;
+    margin: 0;
 }
+
 li:before{
     content: url(../Images/checkSymbol.png);
     padding-right: 10px;
     padding-left: 10px;
 }
+
 li {
+
+    width: 90%;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 8px 8px 8px 8px;
-    border-right-width: 15px;
-    margin-right: 40px;
+    margin-left: -20px;
+    padding-right: 20px;
 }
+
 section { 
     margin: 30px 25px 30px 350px;
     font-size: 28px;
 }
+
 article{
      background-color:rgba(255,255,255, 0.9);
      border-radius: 18px 18px 18px 18px;
      padding: 15px 15px;
      margin-bottom: 20px; 
 }
+
 div {
     font-size: 28px;
 }
+
 div::first-letter {
     font-size: 62px;
     font-style: italic;
     
 }
+
 div::first-line {
      font-style: italic;
      margin-bottom: 100px;
 }
+
 article a {
     color: gray;
     font-style: italic;
     margin-top: 10px;
 }
+
 #webColors {
     background-color: red;
     color: white;
@@ -81,6 +99,7 @@ article a {
     font-family: sans-serif;
 
 }
+
 #webSafeColors {
     background-color: orange;
     color: black;
@@ -89,6 +108,7 @@ article a {
     font-size: 36px;
     font-family: sans-serif;
 }
+
 #RGB {
     background-color: yellow;
     color: black;
@@ -97,6 +117,7 @@ article a {
     font-size: 36px;
     font-family: sans-serif;
 }
+
 #RGBA {
     background-color: green;
     color: white;
@@ -105,6 +126,7 @@ article a {
     font-size: 36px;
     font-family: sans-serif;
 }
+
 #HSLHSV {
     background-color: blue;
     color: white;
@@ -113,6 +135,7 @@ article a {
     font-size: 36px;
     font-family: sans-serif;
 }
+
 #lorem {
     background-color: purple;
     color: white;
@@ -121,6 +144,7 @@ article a {
     font-size: 36px;
     font-family: sans-serif;
 }
+
 span:lang(la) {
     color: blue;
     font-style: italic;
