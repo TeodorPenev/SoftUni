@@ -1,0 +1,117 @@
+﻿#container {
+    height: 250px;
+    width: 570px;
+    height: 250px;
+    width: 570px;
+    margin: 10px auto;
+    border-top: 8px dotted #ffff00;
+    border-right: 8px solid #008000;
+    border-bottom: 8px double #0000ff;
+    border-left: 8px dashed #ff0000;
+    box-shadow: 17px 17px 12px#3F3F3F;
+}
+
+h1 {
+    text-align: center;
+    font-size: 38px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-shadow: 15px 15px 20px #778899;
+}
+
+#fields {
+    border-radius: 80px;
+    box-shadow: 0 0 0 4px #f00, 0 0 0 8px #ff0, 0 0 0 12px #008000, 0 0 0 16px #00f;
+    height: 90px;
+    margin: 50px 
+}
+
+p {
+    padding: 18px;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: center;
+    text-shadow: 10px 10px 15px gray;
+}
+
+#field1 {
+    width: 140px;
+    height: 10px;
+    background-color: #D8921A;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+    border-style: solid;
+    border-bottom-color: #b17918;
+    border-top-color: #edad3e;
+    border-right-color: #b17918;
+    border-left-color: #edad3e;
+    border-width: 4px;
+    margin: -25px 50px;
+    position: absolute; 
+}
+
+#field2 {
+   width: 140px;
+    height: 10px;
+    background-color: #D8921A;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+    border-style: solid;
+    border-bottom-color: #b17918;
+    border-top-color: #edad3e;
+    border-right-color: #b17918;
+    border-left-color: #edad3e;
+    border-width: 4px;
+    margin: -25px 235px;
+    position: absolute;
+}
+
+#small-bubble {
+    height: 16px;
+    width: 16px;
+    background-color: rgba(158, 158, 158, 0.8);
+    border-color: white;
+    border-style: dashed;
+    border-radius: 90px;
+    box-shadow: 0 0 0 6px rgba(158, 158, 158, 0.8);
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 390px;
+
+}
+ #normal-bubble {
+    height: 24px;
+    width: 24px;
+    background-color: rgba(158, 158, 158, 0.8);
+    border-color: white;
+    border-style: dashed;
+    border-radius: 90px;
+    box-shadow: 0 0 0 6px rgba(158, 158, 158, 0.8);
+    position: absolute;
+    margin-top: -85px;
+    margin-left: 430px;
+ }
+
+ #big-bubble {
+    color: white;
+    height: 50px;
+    width: 107px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: rgba(158, 158, 158, 0.8);
+    border-color: white;
+    border-style: dashed;
+    border-radius: 90px;
+    box-shadow: 0 0 0 6px rgba(158, 158, 158, 0.8);
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 480px;
+    font-size: 20px;
+     font-weight: bold;
+ }
+
+
