@@ -1,0 +1,84 @@
+﻿#container {
+    width: 775px;
+    height: 422px;    
+}
+
+div {
+    background-color: #eeeeee;
+}
+
+#first {
+    float: left;
+}
+
+#second {
+    float: left;
+}
+
+legend {
+    border: none;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #234465;
+}
+
+p {
+    color: #545454;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+span {
+    color: #234465;
+     font-weight: bold;
+    font-family: sans-serif;
+}
+
+input {
+    padding: 10px;
+    width: 340px;
+    margin-bottom: 10px;
+}
+
+input[type=submit] {
+    width: 125px;
+    float: right;
+    border-color: #234465;
+    color: #234465;
+    font-weight: bold;
+}
+
+#second {
+    background-color: #234465;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    padding-bottom: 50px;
+}
+#second p {
+    color: white;
+}
+
+input[type=checkbox] {
+    float: left;
+    width: 15px;
+}
+
+label {
+    font-size: 12px;
+    padding-right: 45px;
+}
+
+#second input:last-of-type{
+    background-color: #234465;
+    color: white;
+    border-color: yellow;
+}
+
+a {
+    float: right;
+    color: white;
+    font-size: 13px;
+}
