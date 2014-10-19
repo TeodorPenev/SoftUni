@@ -59,6 +59,21 @@
   <ItemGroup>
     <Content Include="01.SimpleForm\index.html" />
     <Content Include="01.SimpleForm\Style.css" />
+    <Content Include="02.FlightOrder\index.html" />
+    <Content Include="02.FlightOrder\style.css" />
+    <Content Include="03.WordPressTheme\index.html" />
+    <Content Include="03.WordPressTheme\style.css" />
+    <Content Include="04.FakebookRegisterForm\Images\Logo.png" />
+    <Content Include="04.FakebookRegisterForm\index.html" />
+    <Content Include="04.FakebookRegisterForm\style.css" />
+    <Content Include="05.LaptopChoice\Images\apple1.png" />
+    <Content Include="05.LaptopChoice\Images\apple2.png" />
+    <Content Include="05.LaptopChoice\Images\apple3.png" />
+    <Content Include="05.LaptopChoice\Images\apple4.png" />
+    <Content Include="05.LaptopChoice\Images\apple5.png" />
+    <Content Include="05.LaptopChoice\Images\apple6.png" />
+    <Content Include="05.LaptopChoice\index.html" />
+    <Content Include="05.LaptopChoice\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -71,6 +86,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="03.WordPressTheme\Images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

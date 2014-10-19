@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>FlightOrder</title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="container">
+        <h1>FLIGHT ORDER</h1>
+        <div id="from">
+            <form>
+                <label for="fromCity">From <br />
+                    <select id="fromCity">
+                        <option value="EAC" selected="selected">enter a city</option>
+                        <option>Svishtov</option>
+                        <option>Sofiq</option>
+                    </select>
+                </label>
+                <br />
+                <p></p>
+                <label for="fromDepDate">Departure Date <br />
+                    <input id="fromDepDate" type="date" value="2014-06-09" />
+                </label>
+                <br />
+                <label for="fromRetDate">
+                    Return Date <br />
+                    <input id="fromRetDate" type="date" value="2014-06-13"/>
+                </label>
+                <br />
+                <label for="twelwePlus">
+                    <span>12+</span><span>2-12</span><span>0-2</span><br />
+                    <input id="twelwePlus" type="number" min="12" max="100" value="0"/>
+                    <input type="number" min="2" max="12" value="0" />
+                    <input type="number" min="0" max="2" value="0" />
+                </label>
+            </form>
+        </div>
+        
+        <div id="to">
+            <form>
+                <label for="toCity">
+                    To <br />
+                    <select id="toCity">
+                        <option value="EAC" selected="selected">enter a city</option>
+                        <option>Svishtov</option>
+                        <option>Sofiq</option>
+                    </select>
+                </label>
+                <br />
+                <input id="checkBox" type="checkbox" value="Prefer" />
+                <label for="checkBox">Prefer directs</label>
+                <br />
+                <label for="TimeInt">
+                    Time Interval <br />
+                    <input id="TimeInt" type="time" value="00:20"/>
+                    <input id="TimeInt" type="time" value="05:00" />
+                </label>
+                <br />
+                <label for="TimeInt">
+                    Time Interval <br />
+                    <input id="TimeInt" type="time" value="16:00" />
+                    <input id="TimeInt" type="time" value="22:00" />
+                </label>
+                <br />
+                <label for="chooseClass">
+                    Choose class <br />
+                    <select id="chooseClass">
+                        <option selected="selected">Economy</option>
+                        <option>First</option>
+                    </select>
+                </label>
+                <br />
+                <input type="submit" value="Search" />
+            </form>
+        </div>
+    </div>
+</body>
+</html>

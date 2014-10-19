@@ -1,0 +1,25 @@
+﻿
+#laptops {
+    float: left;
+    color: #2C425A;
+   
+}
+
+#specifications {
+    float: left;
+    background-color: #F7FCFF;
+    color: #2C425A;
+    text-align: center;
+    border: 1px solid;
+    border-color: #c0d6ef;
+   
+}
+
+span {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 13px;
+}
+input[type=range] {
+    margin-bottom: 27px;
+}

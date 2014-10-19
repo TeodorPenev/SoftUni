@@ -1,0 +1,9 @@
+﻿input[type=text] {
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+#logo {
+    position: absolute;
+    top: 110px;
+}

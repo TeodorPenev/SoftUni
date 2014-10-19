@@ -1,0 +1,60 @@
+﻿body {
+    font-size: 13px;
+    font-style: italic;
+}
+
+div {
+     background-color: pink;
+
+}
+#container {
+    width:375px;
+    height: 250px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#from {
+    float: left;
+    margin: 5px;
+}
+
+#to {
+    float: left;
+    margin: 5px;
+}
+
+#chooseClass {
+    padding: 2px;
+}
+
+select {
+    width: 157px;
+}
+
+span {
+    padding-right: 43px;
+}
+
+#fromDepDate {
+    width: 153px;
+    margin-top: 8px;
+}
+
+#fromRetDate {
+    width: 153px;
+}
+
+input[type=submit] {
+    width: 156px;
+    margin-top: 5px;
+}
+
+#fromCity {
+    position: absolute;
+    top: 85px;
+}
+
