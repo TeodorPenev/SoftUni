@@ -1,0 +1,48 @@
+﻿.container-fluid{
+    background-color: green;
+}
+header h1{
+    display: inline-block;
+    font-size: 25px;
+    vertical-align: middle;
+}
+ul{
+    list-style-type:none;
+    padding:0;
+    display: inline-block;
+    margin:0 0 0 10%;
+    width: 50%;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+    font-size: 18px;
+    padding-right: 5%;
+    color: black;
+}
+#container{
+    width: 70%;
+    margin: 2% auto;
+}
+#aside{
+    float: right;
+    width: 18%;
+    vertical-align: top;
+}
+.jumbotron{
+    width: 80%;
+    display: inline-block;
+}
+.btn-group-vertical{
+    width: 100%;
+}
+button[type=button]{
+    text-align: left;
+}
+button[type=button]:hover{
+    background-color: rgba(255, 127, 80, 0.62);
+}
+.row{
+    width: 82%;
+    display: inline-block;
+}
