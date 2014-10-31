@@ -13,10 +13,18 @@ body,div, header, img, a, p, nav, ul, li, aside, footer, input {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
 body header {
     width: 564px;
     text-align: center;
     margin: 0 auto;
+}
+
+body header>img {
+    position: relative;
+    width: 50px;
+    top: 10px;
+
 }
 
 body div#cover {
