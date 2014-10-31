@@ -1,0 +1,58 @@
+﻿body, div, section, article, h1, a, p, img {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    padding:10px;
+}
+
+body div header h1{
+    font-family:Verdana, Helvetica;
+    font-size:23px;
+    color: #0E5371;
+    background-color: #E9F5FE;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+body div section {
+    margin-bottom: 20px;
+}
+
+body div p {
+    margin-bottom: 15px;
+}
+
+body div section>p {
+    font-family:Verdana, Helvetica;
+    font-size:15px;
+    color: #27B8F4;
+    font-weight: bold;
+}
+
+body div section article{
+    font-family:Verdana, Helvetica;
+    font-size:14px;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+body div section article a p{
+    color: #4787CA;
+}
+
+body div section article a {
+    text-decoration: none;
+}
+
+body div section article:hover{
+    background-color: #D0E0EC;
+    border-radius: 4px;  
+}

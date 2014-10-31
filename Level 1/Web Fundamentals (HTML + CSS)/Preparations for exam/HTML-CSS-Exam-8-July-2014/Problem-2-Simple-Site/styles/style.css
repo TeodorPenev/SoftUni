@@ -1,0 +1,143 @@
+﻿@font-face {
+  font-family: 'Patua One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Patua One'), local('PatuaOne-Regular'), url(http://fonts.gstatic.com/s/patuaone/v6/yAXhog6uK3bd3OwBILv_SBJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+body,div, header, img, a, p, nav, ul, li, aside, footer, input {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body header {
+    width: 564px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+body div#cover {
+    width: 940px;
+    margin: 0 auto;
+}
+
+body div#content {
+    width: 940px;
+    margin: 0 auto;
+}
+
+body header p {
+   color: #808080;
+    padding: 10px;
+    margin-left: 45px;
+    font-style: italic;
+}
+
+body header>a {
+    font-family: Patua One;
+    font-size: 45px;
+    text-decoration: none;
+    color: #555050;
+}
+
+body header nav {
+    padding: 10px;
+    border-top: 1px dashed #808080;
+    border-bottom: 1px dashed #808080;
+    margin-bottom: 30px;
+}
+
+body header nav ul li {
+    display: inline-block;
+    padding: 10px;
+    color: #808080;
+    
+}
+
+body header nav ul li a {
+    text-decoration: none;
+    color: #808080;
+}
+
+body div#content-center {
+    font-family: Georgia, italic;
+    font-size: 12px;
+    text-align: center;
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom:20px;
+    margin-left: 100px;
+    border-bottom: 1px #808080 dashed;
+    border-top: 1px #808080 dashed;
+    color: #808080;
+    float: left;
+    }
+
+
+body div#content aside {
+    width: 250px;
+    float: right;
+    margin-left: 10px;
+}
+
+body div#content-left {
+    width: 700px;
+     font-family: Georgia, italic;
+}
+
+body div#content #aside-box1, body div#content #aside-box2  {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #F9F9F9;
+    border: 1px dotted #808080;
+}
+
+body div#content aside p {
+    padding: 5px 25px;
+}
+
+.Links a {
+    color: #3087D7;
+    text-decoration: none;
+    padding: -3px;
+}
+
+footer {
+    text-align: center;
+    background-color: #EEEEEE;
+    color: #808080;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+body header nav ul li:hover {
+    background-color: #EEEEEE;
+}
+
+body header>a:hover {
+    color: #767173;
+}
+
+.Links a:visited {
+    color: #8F8EC3;
+}
+
+.Links a:hover {
+    text-decoration: underline;
+}
+
+body aside div#aside-box1 input[type="search"] {
+    margin:10px;
+    width: 120px;
+    height: 25px;
+}
+
+body aside div#aside-box1 input[type="button"] {
+    width: 60px;
+    height: 25px;
+    margin-top: 1px;
+}
