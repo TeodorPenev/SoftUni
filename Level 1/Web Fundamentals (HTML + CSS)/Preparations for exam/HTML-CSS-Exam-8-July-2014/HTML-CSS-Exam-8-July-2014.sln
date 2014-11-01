@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-1-Projects-and-Grou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-2-Simple-Site", "Problem-2-Simple-Site\Problem-2-Simple-Site.csproj", "{639818A2-262B-4035-94AD-5EC3E7F43DF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-3-Registration-Form", "Problem-3-Registration-Form\Problem-3-Registration-Form.csproj", "{8648F6B1-0C27-4FA3-B880-7C3BEC37A1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-4-Responsive-Web-Site", "Problem-4-Responsive-Web-Site\Problem-4-Responsive-Web-Site.csproj", "{678902B9-7C4F-4B64-B313-AD2A2DA6CA5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{639818A2-262B-4035-94AD-5EC3E7F43DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{639818A2-262B-4035-94AD-5EC3E7F43DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{639818A2-262B-4035-94AD-5EC3E7F43DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8648F6B1-0C27-4FA3-B880-7C3BEC37A1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8648F6B1-0C27-4FA3-B880-7C3BEC37A1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8648F6B1-0C27-4FA3-B880-7C3BEC37A1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8648F6B1-0C27-4FA3-B880-7C3BEC37A1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678902B9-7C4F-4B64-B313-AD2A2DA6CA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678902B9-7C4F-4B64-B313-AD2A2DA6CA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678902B9-7C4F-4B64-B313-AD2A2DA6CA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678902B9-7C4F-4B64-B313-AD2A2DA6CA5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

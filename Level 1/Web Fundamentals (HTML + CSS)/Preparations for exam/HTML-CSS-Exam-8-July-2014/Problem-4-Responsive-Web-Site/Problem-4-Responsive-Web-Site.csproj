@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8648F6B1-0C27-4FA3-B880-7C3BEC37A1B2}</ProjectGuid>
+    <ProjectGuid>{678902B9-7C4F-4B64-B313-AD2A2DA6CA5A}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem_3_Registration_Form</RootNamespace>
-    <AssemblyName>Problem-3-Registration-Form</AssemblyName>
+    <RootNamespace>Problem_4_Responsive_Web_Site</RootNamespace>
+    <AssemblyName>Problem-4-Responsive-Web-Site</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -57,17 +57,16 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\field-icon.png" />
-    <Content Include="images\password-icon.png" />
-    <Content Include="images\username-icon.png" />
+    <Content Include="cover.jpg" />
     <Content Include="index.html" />
-    <Content Include="styles\style.css" />
+    <Content Include="styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Fairview_Regular.otf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -88,9 +87,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>49905</DevelopmentServerPort>
+          <DevelopmentServerPort>62096</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:49905/</IISUrl>
+          <IISUrl>http://localhost:62096/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

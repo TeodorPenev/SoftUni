@@ -1,0 +1,129 @@
+﻿body, div, h1, h2, form, fieldset, legend, label, input, br, aside {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F7F7F7;
+}
+
+body div#container h1 {
+    color: #514033;
+}
+
+body div#container {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
+    margin: auto;
+}
+form {
+    width: 460px;
+    float: left;
+}
+
+aside {
+    width: 250px;
+    float: left;
+}
+
+body div form fieldset {
+    border: 1px dashed #808080;
+    margin-top: 15px;
+}
+
+body div form fieldset legend {
+    background-color: #666666;
+    color: #ffffff;
+    padding: 5px;
+}
+
+body div form fieldset label {
+    background-color: #CCCCCC;
+    color: #666666;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    display: inline-block;
+    width: 150px;
+
+}
+body div form fieldset input {
+    height: 25px;
+    width:250px;
+    margin: 7px;
+    outline: 5px solid #E6E6E6;
+}
+
+body div form fieldset input[type=text]:nth-of-type(1) {
+    background-image: url(../images/username-icon.png);
+    background-position-y: 2px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+body div form fieldset input[type=password]:nth-of-type(2) {
+    background-image: url(../images/password-icon.png);
+    background-position-y: 2px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+body div form fieldset#second input[type=text]:nth-of-type(1), body div form fieldset#second input[type=text]:nth-of-type(2), body div form fieldset#second input[type=text]:nth-of-type(3), body div form fieldset#second input[type=text]:nth-of-type(4) {
+    background-image: url(../images/field-icon.png);
+    background-position-y: 2px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+body div form fieldset div#field {
+    width: 260px;
+    margin-left: 157px;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    border: 1px solid #808080;
+}
+
+body div form fieldset div#field input[type=submit] {
+    width: 70px;
+    height: 25px;
+    outline: none;
+    margin-left: 160px;
+    margin-top: 15px;
+    padding: 3px 10px;
+    font-size: 10px;
+    background-color: #E3E3DB;
+    color: #A99574;
+}
+
+body div form fieldset div#field input[type=submit]:hover {
+    background-color:#CCCCCC;
+    color: #59595A;
+}
+
+body div form fieldset div#field input[type=submit]:hover, body div form fieldset input[type=text]:hover, body div form fieldset input[type=password]:hover {
+    cursor:pointer
+}
+
+body div aside {
+    margin-left: 10px;
+    padding: 15px;
+    border: 1px solid #808080;
+    margin-top: 28px;
+    font-size: 13px;
+    background-color: #ffffff;
+}
+
+body div aside h2 {
+    color: #333333;
+}
+
+body div form fieldset input[type=text]:hover, body div form fieldset input[type=password]:hover {
+    background-color: #F7F5D2;
+}
+
+body div form fieldset input[type=text]:active, body div form fieldset input[type=password]:active{
+    background-color: #F7F5D2;
+}
