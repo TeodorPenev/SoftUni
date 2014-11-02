@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C3A73A96-27BF-4DAD-B633-CAD5E3DC3575}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_1.HTML5_Overview</RootNamespace>
+    <AssemblyName>_1.HTML5_Overview</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Responsive-Design\2. fluid-layout.css" />
+    <Content Include="Responsive-Design\2. fluid-layout.html" />
+    <Content Include="Responsive-Design\3. fluid-images.css" />
+    <Content Include="Responsive-Design\3. fluid-images.html" />
+    <Content Include="Responsive-Design\4. flexible-fonts.css" />
+    <Content Include="Responsive-Design\4. flexible-fonts.html" />
+    <Content Include="Responsive-Design\5. media-queries.css" />
+    <Content Include="Responsive-Design\5. media-queries.html" />
+    <Content Include="Responsive-Design\6. media-queries-flexbox.css" />
+    <Content Include="Responsive-Design\6. media-queries-flexbox.html" />
+    <Content Include="Responsive-Design\css3.jpg" />
+    <Content Include="Flex.html" />
+    <Content Include="Positioning-rules.html" />
+    <Content Include="Alignments-and-z-index-rules.html" />
+    <Content Include="Float-rules.html" />
+    <Content Include="images\images\arrow.gif" />
+    <Content Include="images\images\CSS3.jpg" />
+    <Content Include="images\images\logocss.gif" />
+    <Content Include="Form-Input-Fields.html" />
+    <Content Include="Forms-Validation.html" />
+    <Content Include="styles\Styling-Forms.css" />
+    <Content Include="Forms-Styling.html" />
+    <Content Include="Import Fonts.html" />
+    <Content Include="Gradient-Backgrounds.html" />
+    <Content Include="Multiple-Backgrounds.html" />
+    <Content Include="Styling-Lists.html" />
+    <Content Include="images\diamond.png" />
+    <Content Include="images\dot.png" />
+    <Content Include="images\gradient.png" />
+    <Content Include="images\grass.png" />
+    <Content Include="images\sheep.png" />
+    <Content Include="Table-Complete.html" />
+    <Content Include="Table-Cells-Spacing-Padding.html" />
+    <Content Include="Table-Colspan-Rowspan.html" />
+    <Content Include="selectors\CSS-selectors.html" />
+    <Content Include="selectors\attribute-selectors input[type=text].html" />
+    <Content Include="selectors\pseudo-selectors %28hover-after-before-first letter%29.html" />
+    <Content Include="selectors\lamp.gif" />
+    <Content Include="selectors\Other Selectors %28not%29.html" />
+    <Content Include="selectors\Other Selectors %28target%29.html" />
+    <Content Include="selectors\Other Selectors %28~%29.html" />
+    <Content Include="selectors\Structural Selectors %28empty%29.html" />
+    <Content Include="selectors\Structural Selectors %28first-of-type%29.html" />
+    <Content Include="selectors\Structural Selectors %28nth-child%29.html" />
+    <Content Include="selectors\Structural Selectors %28nth-child-odd-even.html" />
+    <Content Include="selectors\Structural Selectors %28only-child%29.html" />
+    <Content Include="selectors\Structural Selectors %28root%29.html" />
+    <Content Include="selectors\UI Selectors %28checked%29.html" />
+    <Content Include="selectors\UI Selectors %28enabled, disabled%29.html" />
+    <Content Include="Semantic-structural-tags%28clear after float%29.html" />
+    <Content Include="styles\semantic-tags.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\SketchRockwell-Bold.ttf" />
+    <Content Include="Responsive-Design\2. fluid-layout.less" />
+    <Content Include="Responsive-Design\3. fluid-images.less" />
+    <Content Include="Responsive-Design\4. flexible-fonts.less" />
+    <Content Include="Responsive-Design\5. media-queries.less" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2456</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:2456/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
