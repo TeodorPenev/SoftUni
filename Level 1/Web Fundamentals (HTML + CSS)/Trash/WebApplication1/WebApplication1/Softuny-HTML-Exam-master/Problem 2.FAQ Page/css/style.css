@@ -1,0 +1,117 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: Lobster, sans-serif;
+}
+
+body>header, main, footer {
+    width: 920px;
+    margin: auto;
+}
+
+body>header {
+    position: relative;
+    height: 350px;
+    background-image: url("../img/got-dolls.jpg"), url("../img/bgr.jpg");
+    background-repeat: repeat-x;
+}
+
+h1 {
+    position: relative;
+    left: 50%;
+    top: 65%;
+    font-size: 72px;
+    width: 345px;
+    display: block;
+    background-color: rgba(95, 95, 96, .8);
+    color: white;
+    padding: 10px;
+}
+
+main {
+    background-color: #F3F3F5;
+    margin-top: 10px;
+}
+
+main:after {
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+aside {
+    margin-left: 125px;
+    width: 150px;
+    float: left;
+}
+
+section {
+    background-color: white;
+    border-top: 2px solid #BBBABF;
+    padding: 20px 15px 15px 15px;
+    margin-bottom: 10px;
+}
+
+section h2{
+    color: #D0C7C4;
+    font-size: 14px;
+}
+
+article {
+    margin: 10px 0;
+}
+
+article header a {
+    font-weight: bold;
+    color: blue;
+}
+
+article p {
+    color: #B29D9F;
+}
+
+img {
+    width: 150px;
+}
+
+nav ul {
+    width: 150px;
+    list-style: none;
+}
+
+nav a {
+	display: block;
+    padding: 10px;
+    color: white;
+    background-color: #42464B;
+}
+
+nav ul li:first-child a {
+    border-left: 2px solid #22DBA5;
+}
+
+nav a:hover {
+    background-color: #5D6167;
+    border-left: 2px solid #2F6D6C;
+}
+
+footer {
+    background-color: #C9C7CC;
+    height: 100px;
+    padding: 10px 0 0 40px;
+    box-sizing: border-box;
+}
+
+#main-content {
+    width: 500px;
+    float: right;
+    margin-right: 125px;
+}

@@ -1,0 +1,119 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 800px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+body {
+    background-color: #EEEEEE;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    border-top: 1px solid silver;
+    width: 700px;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+main:after {
+    content: "";
+    height: 0;
+    clear: both;
+    display: block;
+}
+
+form {
+    width: 300px;
+}
+
+form a {
+    color: red;
+    text-decoration: none;
+}
+
+form a:hover {
+    text-decoration: underline;
+}
+
+fieldset {
+    border: none;
+}
+
+label {
+    color: #807C7D;
+}
+
+input[type="submit"] {
+    background-color: #EEEEEE;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+input[type="submit"]:hover {
+    background-color: #AFDF67;
+}
+
+input[type="text"], input[type="password"] {
+    padding: 3px;
+    border: none;
+    width: 250px;
+}
+
+#register-form {
+    float: left;
+}
+
+#login-form {
+    float: right;
+}
+
+.input-wrapper {
+    border: 1px solid silver;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+.valid {
+    display: inline-block;
+    background-image: url("../img/ok.png");
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+.invalid {
+    display: inline-block;
+    background-image: url("../img/no.png");
+    width: 21px;
+    height: 21px;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
