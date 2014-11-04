@@ -1,0 +1,117 @@
+#container {
+    position: fixed;
+    background-color: #EEEEEE;
+    height: 425px;
+    width: 830px;
+}
+
+h1 {
+    padding-left: 1rem;
+    color: #2D4C6C;
+}
+
+#paragraph {
+    padding-left: 0.5rem;
+}
+
+span {
+    color: darkblue;
+}
+
+#first {
+    background-color: #EEEEEE;
+    width: 400px;
+    height: 290px;
+    float: left;
+    border: none;
+    position: fixed;
+}
+
+#first input {
+    display: block;
+    margin-top: 10px;
+    width: 23rem;
+    height: 2rem;
+
+    margin-left: 15px;
+}
+
+#first p {
+
+    color: grey;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+#register {
+    margin-top: 13px;
+    margin-left: 14rem;
+    width: 40%;
+    height: 12%;
+    border: 2px solid darkblue;
+    color: darkblue;
+    font-weight: bold;
+
+}
+
+#second {
+    background-color: darkblue;
+    width: 400px;
+    height: 280px;
+    float: right;
+    border: none;
+    position: fixed;
+    margin-left: 25rem;
+}
+
+#second input {
+    display: block;
+    padding-top: 10px;
+    width: 23rem;
+    height: 2rem;
+    margin-left: 15px;
+    margin-top: 15px;
+
+}
+
+#second p {
+    color: white;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+#leftSide{
+    float: left;
+}
+
+#remember[type="checkbox"] {
+    width: 15px;
+    float: left;
+}
+
+#text {
+    float: left;
+    margin-top: 20px;
+    color: white;
+}
+
+#login {
+    float: right;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    border: 2px solid darkgoldenrod;
+    width: 35%;
+    height: 15%;
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+}
+
+#link {
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-top: 4rem;
+    margin-right: -130px;
+    font-size: 15px;
+}

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Flight Order</title>
+</head>
+<body>
+
+        <div id="container">
+        <h1>FLIGHT ORDER</h1>
+
+            <div id="from">
+                <label id="firstLabel">From</label>
+                <select id="first">
+                    <option value="Value 1">enter a city</option>
+                </select>
+            </div>
+
+            <div id="to">
+                <label id="secondLabel">To</label>
+                <select id="second">
+                    <option value="Value 1">enter a city</option>
+                </select>
+            </div>
+
+            <div id="directs">
+                <input type="checkbox" name="remember"/>
+                <label>Prefer directs</label>
+            </div>
+
+            <div id="departureDate">
+                 <label>Departure Date</label>
+                 <input type="text" value="09.06.2014" id="dep"/>
+            </div>
+
+            <div id="returnDate">
+                <label>Return Date</label>
+                <input type="text" value="13.06.2014" id="ret"/>
+            </div>
+
+            <div id="timeFirst">
+                <label>Time Inerval</label>
+                <input type="text" value="00:20" class="left"/>
+                <input type="text" value="05:00" class="right"/>
+            </div>
+
+            <div id="timeSecond">
+                <label>Time Inerval</label>
+                <input type="text" value="16:00" class="left"/>
+                <input type="text" value="22:00" class="right"/>
+            </div>
+
+
+            <div id="ChooseClass">
+                <label id="chooseLabel">Choose class</label>
+                <select id="choice">
+                    <option value="Value 1">Economy</option>
+                </select>
+            </div>
+
+            <button id="search">Search</button>
+
+
+            <div id="choiceOne">
+                <label>12+</label>
+                <input type="text" value="0" class="size"/>
+
+            </div>
+
+            <div id="choiceTwo">
+                <label>2-12</label>
+                <input type="text" value="0" class="size"/>
+            </div>
+
+            <div id="choiceThree">
+                <label>0-2</label>
+                <input type="text" value="0" class="size"/>
+            </div>
+
+
+        </div>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+body {
+    font-size: 14px;
+    font-family: sans-serif;
+}
+input[type="image"] {
+    vertical-align: middle;
+}
+div {
+    padding: 5px;
+}

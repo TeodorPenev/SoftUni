@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+.enterBox {
+    padding: 8px;
+    background: #EEE;
+    width: 720px;
+    margin: 0 auto;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.5em;
+    color: #234465;
+}
+p {
+    color: #595959;
+    margin: 1em 0;
+}
+.registerFormHolder {
+    width: 49%;
+    margin-right: 8px;
+    float: left;
+    height: 100%;
+}
+.loginFormHolder {
+    background: #234465;
+    width: 49%;
+    float: left;
+    height: 100%;
+}
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+#register {
+    padding: 8px;
+}
+#register header {
+    font-weight: bold;
+    color: #595959;
+    text-transform: uppercase;
+}
+#register header a {
+    text-decoration: none;
+    color: #234465;
+}
+#username, #email, #pass, #passConfirm {
+    width: 96%;
+    margin-top: 8px;
+    padding: 4px;
+    border: 1px solid rgba(89, 89, 89, 0.3);
+}
+#registerBtn {
+    width: 50%;
+    float: right;
+    margin-top: 8px;
+    margin-right: 4px;
+    padding: 5px 30px;
+    background: none;
+    border: 2px solid #234465;
+    color: #234465;
+    font-size: 1.2em;
+}
+#login {
+    padding: 8px;
+    height: 190px;
+}
+#login header {
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+#usernameLogin, #passwordLogin {
+    width: 96%;
+    margin-top: 8px;
+    padding: 4px;
+    border: 1px solid rgba(89, 89, 89, 0.3);
+}
+#passwordLogin {
+    margin-bottom: 8px;
+}
+label {
+    color: white;
+}
+#loginBtn {
+    padding: 5px 30px;
+    background: #234465;
+    border: 2px solid #E1900E;
+    color: white;
+    font-size: 1.2em;
+    margin-left: 96px;
+}
+#forgotPassword {
+    display: block;
+    text-align: right;
+    color: white;
+    margin-top: 8px;
+}

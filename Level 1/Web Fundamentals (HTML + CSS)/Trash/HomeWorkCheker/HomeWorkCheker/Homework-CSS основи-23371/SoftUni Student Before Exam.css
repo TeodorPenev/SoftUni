@@ -1,0 +1,90 @@
+﻿body
+{
+    /*background-color:purple;*/
+}
+#big{
+    width:290px;
+    height:290px;
+    border-radius:50%;
+    line-height:1px;
+    background-color:yellow;
+    position:absolute;
+    right:550px;
+    top:150px;
+    border:2px solid black;
+    
+}
+#eyeLeft{
+    width:58px;
+    height:58px;
+    border-radius:50%;
+    line-height:1px;
+    background-color:white;
+    position:absolute;
+    right:175px;
+    top:52px;
+    border:2px solid black;
+}
+#eyeRight{
+    width:58px;
+    height:58px;
+    border-radius:50%;
+    line-height:1px;
+    background-color:white;
+    position:absolute;
+    right:60px;
+    top:52px;
+    border:2px solid black;
+}
+#nose{
+    width:46px;
+    height:46px;
+    border-radius:50%;
+    line-height:1px;
+    background-color:red;
+    position:absolute;
+    right:122px;
+    top:120px;
+    border:2px solid black;
+}
+#mouth{
+    width:142px;
+    height:55px;
+    border-radius:30px;
+    border:2px solid black;
+    position:absolute;
+    top:182px;
+    right:70px;
+    background-color:white;
+    
+}
+#left{
+    position:absolute;
+    left:31px;
+    top:30px;
+}
+.Black{
+    width:18px;
+    height:18px;
+    border-radius:50%;
+    line-height:1px;
+    background-color:black;
+}
+#Tleft{
+    position:absolute;
+    left:38px;
+    top:0px;
+}
+#TRight{
+    position:absolute;
+    left:69px;
+    top:0px;
+}
+.Teeth{
+    width:27px;
+    height:27px;
+    border-bottom-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border:2px solid black;
+    border-top:none;
+}

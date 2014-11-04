@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Problem 4. Fakebook Register Form</title>
+    <link href="css/04.fakebookregisterform.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <h1>Fakebook</h1>
+        <h2>Registration</h2>
+        <h3>It is safe and it will always be!</h3>
+    </header>
+    <main>
+        <form method="post" action="#">
+            <fieldset id="non-important">
+                <legend>None-important information</legend>
+                <div class="row">
+                    <input class="long" type="text" placeholder="First Name" name="first" />
+                    <input class="long" type="text" placeholder="Last Name" name="last" />
+                </div>
+                <div class="row">
+                    <input class="long" type="text" placeholder="Your Email" title="Please enter valid email adress." name="email" pattern="\b[A-z0-9._%+-]+@[A-z0-9.-]+\.[A-z]{2,4}\b" />
+                    <input class="long" type="text" placeholder="Phone Number" title="Please enter valid phone number." name="number" pattern="[0-9+ ]+" />
+                </div>
+                <div class="row">
+                    <input class="long" type="password" placeholder="Your Password" name="pass" />
+                    <input class="long" type="text" placeholder="Website" name="website" />
+                </div>
+                <div class="row">
+                    <label class="block" for="birthday">Birthday</label>
+                    <input type="datetime-local" name="birthday" id="birthday" value="2014-05-09T01:58"
+                </div>
+                <div class="row">
+                    <input type="radio" name="gender" value="Female" id="female" />
+                    <label for="female">Female</label>
+                    <input type="radio" name="gender" value="Male" id="male" />
+                    <label for="male">Male</label>
+                    <input checked type="radio" name="gender" value="Other" id="other" />
+                    <label for="other">Other</label>
+                </div>
+            </fieldset>
+            <fieldset id="important">
+                <legend>Important Information *required</legend>
+                <div class="row">
+                    <input class="long" list="countries" name="country" placeholder="Country" required />
+                    <datalist id="countries">
+                        <option>Bulgaria</option>
+                        <option>European Union</option>
+                        <option>Asia</option>
+                        <option>North America</option>
+                    </datalist>
+                    <input class="long" type="text" name="village" placeholder="Village" required />
+                    <input class="long" type="text" name="district" placeholder="District" required />
+                </div>
+                <div class="row">
+                    <input class="long" type="text" name="street" placeholder="Street" required />
+                    <input class="short" type="text" name="number" placeholder="Nr" required />
+                    <input class="short" type="text" name="floor" placeholder="Floor" required />
+                    <input class="short" type="text" name="apartment" placeholder="Ap Nr" required />
+                </div>
+                <div class="row">
+                    <label class="block" for="dcolor">Door Color</label>
+                    <input class="long" type="color" name="dcolor" id="dcolor" value="#FF80C0" required />
+                    <input class="long" type="text" name="wmr" placeholder="Water Meter Nr" required />
+                    <input class="long" list="pantiessize" name="pantsize" placeholder="Aunt Panties' Size" required />
+                    <datalist id="pantiessize">
+                        <option>Malki</option>
+                        <option>Golemi</option>
+                        <option>Lud li si? :D</option>
+                    </datalist>
+                </div>
+                <div class="row">
+                    <label class="block" for="info">More Personal Information</label>
+                    <textarea id="info" name="moreinfo" placeholder="Give us more information !!!"></textarea>
+                </div>
+            </fieldset>
+            <input type="reset" value="Clear Form" id="clear" />
+            <input type="submit" value="Register" id="register" />
+        </form>
+    </main>
+</div>
+</body>
+</html>

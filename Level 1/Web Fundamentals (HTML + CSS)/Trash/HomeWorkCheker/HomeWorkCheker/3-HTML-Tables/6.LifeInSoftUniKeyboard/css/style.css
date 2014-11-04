@@ -1,0 +1,28 @@
+body {
+	font-family: 'Tahoma';
+}
+
+button {
+	color: #0000EE;
+	width: 100%;
+	height: 100%;
+	font-size: 20px;
+	background: linear-gradient(#EFEFEF 50%, #D8D8D8 50.01%);
+}
+
+.nested {
+	height: 48%;
+	font-size: 0.8em;
+	margin-top: 5px;
+}
+
+td, th {
+	width: 100px;
+	height: 100px;
+	padding: 5px;
+}
+
+th button {
+	font-size: 3em;
+}
+

@@ -1,0 +1,60 @@
+
+.click span{
+    border:  solid 1px goldenrod;
+    border-radius: 15px;
+    background: #670213;
+    color: goldenrod;
+    margin-left: 20%;
+    font-size: 40px;
+
+}
+.click span:hover{
+    border:  solid 1px forestgreen;
+    border-radius: 15px;
+    background: chocolate;
+    color: darkorange;
+    margin-left: 20%;
+    font-size: 40px;
+}
+h1{
+    border: solid 1px antiquewhite;
+    border-radius: 25px;
+    background: #670213;
+    padding-left: 2%;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: goldenrod;
+    font-size: 50px;
+}
+p1{
+    margin-bottom: 1%;
+    border: solid 1px;
+    border-radius: 15px;
+    background: #670213;
+    color: goldenrod;
+    font-size: 45px;
+}
+img{
+    border: solid 1px #000000;
+}
+div{
+    border: solid 1px goldenrod;
+    border-radius: 15px;
+    background: blanchedalmond;
+    opacity: 0.9;
+    color: #000000;
+    font: fantasy;
+    font-size: 30px;
+}
+pre{
+    font: full-width;
+}
+p2{
+    margin-bottom: 1%;
+    border: solid 1px;
+    border-radius: 15px;
+    background: #670213;
+    color: goldenrod;
+    font-size: 75px;
+    margin-left: 22%;
+}

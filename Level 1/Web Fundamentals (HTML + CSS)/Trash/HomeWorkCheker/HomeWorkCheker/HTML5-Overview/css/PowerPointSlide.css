@@ -1,0 +1,42 @@
+.header{
+    font: Calibri;
+    font-size: 52px;
+    color: goldenrod;
+    background: url('../images/Capture.PNG') no-repeat;
+    background-size: cover;
+}
+.header li{
+    margin-top: 1%;
+}
+h1{
+    font-size: 58px;
+    margin-left: 1.5%;
+}
+span{
+    color: #ffffff;
+}
+.header p{
+    opacity: 1.8;
+    margin-top: 1%;
+    font-size: 42px;
+    margin-left: 1%;
+    color: #ffe7ce;
+}
+.header pre{
+    opacity: 1.8;
+    margin-top: 1%;
+    font-size: 42px;
+    color: #ffe7ce;
+
+}
+.header div{
+    margin-top: 1%;
+    border: solid 1px gray;
+    background: #23231c;
+    opacity: 0.7;
+    margin-right: 9%;
+    margin-left: 2.5%;
+    line-height: 0%;
+    padding-bottom: 0%;
+    padding-top: 1%;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Calculator</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="wrapper">
+		<table>
+			<tbody>
+				<tr>
+					<td colspan="4">
+						<input type="text" id="expression" />
+					</td>
+				</tr>
+				<tr>
+					<td><button type="button" onclick="addToExpression(1)">1</button></td>
+					<td><button type="button" onclick="addToExpression(2)">2</button></td>
+					<td><button type="button" onclick="addToExpression(3)">3</button></td>
+					<td><button type="button" onclick="addToExpression('+')">+</button></td>
+				</tr>
+				<tr>
+					<td><button type="button" onclick="addToExpression(4)">4</button></td>
+					<td><button type="button" onclick="addToExpression(5)">5</button></td>
+					<td><button type="button" onclick="addToExpression(6)">6</button></td>
+					<td><button type="button" onclick="addToExpression('-')">-</button></td>
+				</tr>
+				<tr>
+					<td><button type="button" onclick="addToExpression(7)">7</button></td>
+					<td><button type="button" onclick="addToExpression(8)">8</button></td>
+					<td><button type="button" onclick="addToExpression(9)">9</button></td>
+					<td><button type="button" onclick="addToExpression('*')">*</button></td>
+				</tr>
+				<tr>
+					<td><button type="button" onclick="clearExpression()">C</button></td>
+					<td><button type="button" onclick="addToExpression(0)">0</button></td>
+					<td><button type="button" onclick="evaluateExpression()">=</button></td>
+					<td><button type="button" onclick="addToExpression('/')">/</button></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>

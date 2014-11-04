@@ -1,0 +1,167 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 24, 2014, 3:33:16 AM
+    Author     : peter-lap
+*/
+#wrapper {
+    width: 1200px;
+    font-family: Comic Sans MS;
+    margin-left: 30px;
+}
+h1 {
+    margin-left: 40px;
+}
+hr {
+    width: 96%;
+    margin-left:0;
+}
+#lefthr {
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.righthr {
+    width: 80%;
+}
+section hr {
+    width: 99%;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+nav li {
+    list-style-type: none;
+    display: inline; 
+    color: #9E9E9E;
+    text-transform: uppercase;
+    padding-right: 80px;
+}
+section {
+    float: left;
+    width: 600px;
+    margin-left: 40px;
+    margin-right:0;
+}
+#search {
+    float: right;
+    padding: 0;
+    margin-right: 50px;
+    height: 30px;
+    border: 0;
+    border-top: 1.5px solid #9E9E9E;
+    border-left: 1.5px solid #9E9E9E;
+    border-bottom: 1.5px solid #9E9E9E;
+    margin-bottom: 10px;
+
+} 
+#searchButton {
+  width: 32px;
+  height: 30px;
+  float: left;
+  vertical-align: top;
+  margin: 0;
+  border: 0;
+  border-right: 1.5px solid #9E9E9E;
+  background: transparent;
+  background-image: url(images/lupa.png);
+  background-repeat: no-repeat;
+}
+input {
+    float: left;
+    width: 200px;
+    height: 30px;
+    font-size: 16px;
+    border: 0;
+    background-color: #F7F7F7;
+
+}
+ul li {
+    list-style-type: none;
+}
+#leftmenu {
+    float: left;
+    width: 250px;
+    color: #355D9C;
+    margin: 0;
+}
+#rightmenu {
+    width: 300px;
+    float: right;
+}
+.gray-text {
+    color: #9E9E9E;
+    margin-top: -20px;
+    margin-bottom: 20px;
+
+}
+.blue-text {
+    color: #355D9C;
+}
+#language {
+    color: #9E9E9E;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+select {
+    width: 120px;
+    font-size: 18px;
+}
+#blogroll {
+    letter-spacing: 2px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    color: #9E9E9E;
+}
+#twitter {
+    display: inline-block;
+    width: 1200px;
+    height:50px;
+    background-color: #F7F7F7;
+
+}
+#twitter-text {
+    color: gray;
+    font-style: italic;
+    font-size:16px;
+    margin-left: 0px;
+    padding: 0;
+    margin-left: 40px;
+    margin-top: -35px;
+}
+footer {
+    background-color: black;
+    color: white;
+    width: 1200px;
+    height: 230px;
+}
+#table-header {
+    padding-left: 50px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+table th, td {
+    width: 15%;
+    text-align: left;
+    vertical-align: top;
+    padding-right: 10px;
+    padding-left: 40px;
+
+}
+table th {
+    padding-top: 20px;
+}
+table ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#java {
+    padding-right: 30px;
+    padding-left: 10px;
+    color: #9E9E9E;
+    font-size: 16px;
+    font-weight: normal;
+}

@@ -1,0 +1,19 @@
+body {
+	background-color: #eee;
+	font-family: 'Arial', sans-serif;
+}
+
+.wrapper {
+	width: 390px;
+	margin: auto;
+	border: 1px solid #BFBFBF;
+}
+
+h1 {
+	text-align: left;
+}
+
+img {
+	width: 160px;
+	margin: 8px;
+}

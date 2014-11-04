@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Problem 2. Flight Order</title>
+    <link href="css/02.flightorder.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="wrapper">
+    <div class="orderHolder">
+        <h1>Flight Order</h1>
+        <form id="order" method="post" action="#" class="">
+            <div class="row clearfix">
+                <div class="half">
+                    <label for="fromCity">From</label>
+                    <input list="fromCity" name="fromCity" placeholder="enter a city">
+                    <datalist id="fromCity">
+                        <option value="Sofia">
+                        <option value="Plovdiv">
+                        <option value="Burgas">
+                    </datalist>
+                </div>
+                <div class="half">
+                    <label for="toCity">To</label>
+                    <input list="toCity" name="toCity" placeholder="enter a city">
+                    <datalist id="toCity">
+                        <option value="Sofia">
+                        <option value="Plovdiv">
+                        <option value="Burgas">
+                    </datalist>
+                    <input type="checkbox" name="preferDirects" id="directs" />
+                    <label for="directs">Prefer directs</label>
+                </div>
+            </div>
+            <div class="row clearfix">
+                <div class="half">
+                    <label for="depDate">Departure Date</label>
+                    <input type="text" name="depDate" id="depDate" value="09.06.2014"/>
+                </div>
+                <div class="half clearfix">
+                    <label for="timeIntMin">Time Interval</label>
+                    <div class="quarter">
+                        <input type="text" name="timeIntMin" id="timeIntMin" value="00:20" />
+                    </div>
+                    <div class="quarter">
+                        <input type="text" name="timeIntMax" id="timeIntMax" value="05:00" />
+                    </div>
+                </div>
+            </div>
+            <div class="row clearfix">
+                <div class="half">
+                    <label for="returnDate">Return Date</label>
+                    <input type="text" name="returnDate" id="returnDate" value="13.06.2014" />
+                </div>
+                <div class="half clearfix">
+                    <label for="timeIntMinOne">Time Interval</label>
+                    <div class="quarter">
+                        <input type="text" name="timeIntMinOne" id="timeIntMinOne" value="16:00" />
+                    </div>
+                    <div class="quarter">
+                        <input type="text" name="timeIntMaxOne" id="timeIntMaxOne" value="22:00" />
+                    </div>
+                </div>
+            </div>
+            <div class="row clearfix">
+                <div class="half clearfix">
+                    <div class="third">
+                        <label for="adults">12+</label>
+                        <input type="number" name="adults" min="0" max="9" id="adults" />
+                    </div>
+                    <div class="third">
+                        <label for="children">2-12</label>
+                        <input type="number" name="children" min="0" max="9" id="children" />
+                    </div>
+                    <div class="third">
+                        <label for="babys">0-2</label>
+                        <input type="number" name="babys" min="0" max="9" id="babys" />
+                    </div>
+                </div>
+                <div class="half">
+                    <label for="class">Choose class</label>
+                    <select name="class" id="class" />
+                        <option value="Economy">Economy</option>
+                        <option value="Business">Business</option>
+                        <option value="FirstClass">First Class</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row clearfix">
+                <div class="half right">
+                    <input type="button" value="Search" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>

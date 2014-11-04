@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Problem 1. Simple Form</title>
+    <link href="css/01.simpleform.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="wrapper">
+    <div class="enterBox">
+        <h1>Enter the system</h1>
+        <p>It is necessary to login in Your account in order to sign in for a course.</p>
+        <div class="row clearfix">
+            <div class="registerFormHolder">
+                <form id="register" method="post" action="#" class="clearfix">
+                    <header>
+                        Are you new? <a href="#">Register</a>
+                    </header>
+                    <input type="text" name="username" id="username" placeholder="User name" required />
+                    <input type="email" name="email" id="email" placeholder="Email" required />
+                    <input type="password" name="pass" id="pass" placeholder="Password" required />
+                    <input type="password" name="passConfirm" id="passConfirm" placeholder="Confirm Password" required />
+                    <input type="submit" value="Register" id="registerBtn"/>
+                </form>
+            </div>
+            <div class="loginFormHolder">
+                <form id="login" method="post" action="#">
+                    <header>
+                        Already a student? Login
+                    </header>
+                    <input type="text" name="username" id="usernameLogin" required />
+                    <input type="password" name="password" id="passwordLogin" required />
+                    <input type="checkbox" name="remember" id="rememberMe" />
+                    <label for="rememberMe">Remember me?</label>
+                    <input type="submit" value="Login" id="loginBtn" />
+                    <a href="#" id="forgotPassword">Forgot Password</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 835px;
+    margin: 0 auto;
+    background: #3B5997;
+    padding: 10px;
+}
+h1, h2, h3 {
+    color: white;
+    text-align: center;
+}
+#non-important {
+    width: 300px;
+}
+#important {
+    width: 455px;
+}
+fieldset {
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 8px;
+    height: 100%;
+    margin-bottom: 1em;
+}
+fieldset:nth-of-type(1) {
+    margin-right: 30px;
+    height: 201px;
+}
+legend {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+input, select {
+    border-radius: 5px;
+    border: 1px solid #808080;
+    height: 1.5em;
+    background: white;
+}
+input {
+    padding-left: 5px;
+}
+.long {
+    width: 140px;
+}
+.short {
+    width: 80px;
+}
+.row {
+    margin-bottom: 5px;
+}
+label {
+    font-weight: bold;
+    color: white;
+}
+.block {
+    display: block;
+}
+input[type="datetime-local"] {
+    width: 220px;
+}
+textarea {
+    width: 98%;
+    height: 4em;
+}
+#clear {
+    width: 318px;
+    margin-right: 35px;
+    font-size: 1.2em;
+}
+#register {
+    width: 473px;
+    font-size: 1.4em;
+}
+#clear, #register {
+    background: #DDD;
+    color: #234465;
+    font-weight: bold;
+    height: 50px;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 6em;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,28 @@
+.duck{
+    margin-top: -1%;
+    margin-bottom: -2%;
+    color: green;
+    border: solid 1px;
+    background: yellow;
+}
+.bath{
+    margin-top: -2%;
+    margin-bottom: -2%;
+    color: blue;
+    border: crimson 1px;
+    background: lightblue;
+}
+.sponge{
+    margin-top: -2.5%;
+    margin-bottom: -2.5%;
+    color: goldenrod;
+    border: groove 1px;
+    background: orchid;
+}
+img {
+    width:304px;
+    height:228px
+}
+p{
+    font-size: 40px;
+}

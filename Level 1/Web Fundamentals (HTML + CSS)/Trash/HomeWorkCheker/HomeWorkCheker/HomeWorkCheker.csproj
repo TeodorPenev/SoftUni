@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1891B6EA-7FDC-4564-86F4-6D7E45FABC69}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HomeWorkCheker</RootNamespace>
+    <AssemblyName>HomeWorkCheker</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HTML5-Overview\.idea\.name" />
+    <Content Include="HTML5-Overview\.idea\HTML5-Overview.iml" />
+    <Content Include="HTML5-Overview\Fonts\ShadowsIntoLight.ttf" />
+    <Content Include="HTML5-Overview\Fonts\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="01 The Jantry Text Field\01 The Jaunty Text Field.html" />
+    <Content Include="01 The Jantry Text Field\stylesheet.css" />
+    <Content Include="01-Homework-HTML-Forms\.idea\encodings.xml" />
+    <Content Include="01-Homework-HTML-Forms\.idea\misc.xml" />
+    <Content Include="01-Homework-HTML-Forms\.idea\modules.xml" />
+    <Content Include="01-Homework-HTML-Forms\.idea\scopes\scope_settings.xml" />
+    <Content Include="01-Homework-HTML-Forms\.idea\vcs.xml" />
+    <Content Include="01-Homework-HTML-Forms\.idea\workspace.xml" />
+    <Content Include="01-Homework-HTML-Forms\index.html" />
+    <Content Include="01-Homework-HTML-Forms\style.css" />
+    <Content Include="01-UnresponsiveHomework\images\softuni.png" />
+    <Content Include="01-UnresponsiveHomework\index.html" />
+    <Content Include="01-UnresponsiveHomework\styles\styles.css" />
+    <Content Include="01Unresponsiv Homework.html" />
+    <Content Include="02 SoftUni Hawaii Vacation\02 SoftUni Hawaii Vacation.html" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\AlexHula.png" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\formBackground.jpg" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\HawaiiBackground.png" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\NakovHula.png" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\PetiaHula.png" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\TediHula.png" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\VladoGHula.png" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\VladoKHula.png" />
+    <Content Include="02 SoftUni Hawaii Vacation\stylesheet.css" />
+    <Content Include="02-FlowersHome\images\background-flowers.jpg" />
+    <Content Include="02-FlowersHome\images\flower-logo.png" />
+    <Content Include="02-FlowersHome\images\orchid01.jpg" />
+    <Content Include="02-FlowersHome\images\orchid02.jpg" />
+    <Content Include="02-FlowersHome\images\orchid03.jpg" />
+    <Content Include="02-FlowersHome\images\orchid04.jpg" />
+    <Content Include="02-FlowersHome\images\orchid05.jpg" />
+    <Content Include="02-FlowersHome\images\orchid06.jpg" />
+    <Content Include="02-FlowersHome\images\orchid07.jpg" />
+    <Content Include="02-FlowersHome\images\orchid08.jpg" />
+    <Content Include="02-FlowersHome\images\social_facebook.png" />
+    <Content Include="02-FlowersHome\images\social_google.png" />
+    <Content Include="02-FlowersHome\images\social_linkedin.png" />
+    <Content Include="02-FlowersHome\images\social_myspace.png" />
+    <Content Include="02-FlowersHome\images\social_twitter_box.png" />
+    <Content Include="02-FlowersHome\index.html" />
+    <Content Include="02-FlowersHome\styles\styles-02.css" />
+    <Content Include="02-Homework-HTML-Forms\.idea\encodings.xml" />
+    <Content Include="02-Homework-HTML-Forms\.idea\misc.xml" />
+    <Content Include="02-Homework-HTML-Forms\.idea\modules.xml" />
+    <Content Include="02-Homework-HTML-Forms\.idea\scopes\scope_settings.xml" />
+    <Content Include="02-Homework-HTML-Forms\.idea\vcs.xml" />
+    <Content Include="02-Homework-HTML-Forms\.idea\workspace.xml" />
+    <Content Include="02-Homework-HTML-Forms\index.html" />
+    <Content Include="02-Homework-HTML-Forms\style.css" />
+    <Content Include="02Flower%27s Home.html" />
+    <Content Include="03 Styling a HTML Form\03 Styling a HTML Form.html" />
+    <Content Include="03 Styling a HTML Form\resources\formBackground.jpg" />
+    <Content Include="03 Styling a HTML Form\stylesheet.css" />
+    <Content Include="03-Bootstrap-Boot-Camp\index.html" />
+    <Content Include="03-Bootstrap-Boot-Camp\js\bootstrap.min.js" />
+    <Content Include="03-Bootstrap-Boot-Camp\styles\bootstrap.min.css" />
+    <Content Include="03-Bootstrap-Boot-Camp\styles\styles.css" />
+    <Content Include="03-Homework-HTML-Forms\.idea\encodings.xml" />
+    <Content Include="03-Homework-HTML-Forms\.idea\misc.xml" />
+    <Content Include="03-Homework-HTML-Forms\.idea\modules.xml" />
+    <Content Include="03-Homework-HTML-Forms\.idea\scopes\scope_settings.xml" />
+    <Content Include="03-Homework-HTML-Forms\.idea\vcs.xml" />
+    <Content Include="03-Homework-HTML-Forms\.idea\workspace.xml" />
+    <Content Include="03-Homework-HTML-Forms\index.html" />
+    <Content Include="03-Homework-HTML-Forms\logo.jpg" />
+    <Content Include="03-Homework-HTML-Forms\style.css" />
+    <Content Include="03-Homework-HTML-Forms\wplogo.png" />
+    <Content Include="04-Homework-HTML-Forms\.idea\encodings.xml" />
+    <Content Include="04-Homework-HTML-Forms\.idea\misc.xml" />
+    <Content Include="04-Homework-HTML-Forms\.idea\modules.xml" />
+    <Content Include="04-Homework-HTML-Forms\.idea\scopes\scope_settings.xml" />
+    <Content Include="04-Homework-HTML-Forms\.idea\vcs.xml" />
+    <Content Include="04-Homework-HTML-Forms\.idea\workspace.xml" />
+    <Content Include="04-Homework-HTML-Forms\index.html" />
+    <Content Include="04-Homework-HTML-Forms\style.css" />
+    <Content Include="04HTML5Tables\01SimpleTable.html" />
+    <Content Include="04HTML5Tables\02ExamResults.html" />
+    <Content Include="04HTML5Tables\03NestedTables.html" />
+    <Content Include="04HTML5Tables\05LifeInSoftUni.html" />
+    <Content Include="04HTML5Tables\images\SoftUniLogo.png" />
+    <Content Include="04HTML5Tables\styles\01SimpleTable.css" />
+    <Content Include="04HTML5Tables\styles\02ExamResults.css" />
+    <Content Include="04HTML5Tables\styles\03NestedTables.css" />
+    <Content Include="04HTML5Tables\styles\05LifeInSoftUni.css" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\encodings.xml" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\misc.xml" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\modules.xml" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\scopes\scope_settings.xml" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\vcs.xml" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\workspace.xml" />
+    <Content Include="05-Homework-HTML-FormsV2\1.jpg" />
+    <Content Include="05-Homework-HTML-FormsV2\index.html" />
+    <Content Include="05-Homework-HTML-FormsV2\new.png" />
+    <Content Include="05-Homework-HTML-FormsV2\style.css" />
+    <Content Include="08SemanticHTMLandOtherTags\01RefactorWebpage.html" />
+    <Content Include="08SemanticHTMLandOtherTags\02KentsMediaProfile.html" />
+    <Content Include="08SemanticHTMLandOtherTags\03MagicCarGallery.html" />
+    <Content Include="08SemanticHTMLandOtherTags\04BGJUGWebPageWithFrames.html" />
+    <Content Include="08SemanticHTMLandOtherTags\04BGJUGWebPageWithoutFrames.html" />
+    <Content Include="08SemanticHTMLandOtherTags\audio\SneezeRingtone.mp3" />
+    <Content Include="08SemanticHTMLandOtherTags\frames\footer.html" />
+    <Content Include="08SemanticHTMLandOtherTags\frames\header.html" />
+    <Content Include="08SemanticHTMLandOtherTags\frames\main.html" />
+    <Content Include="08SemanticHTMLandOtherTags\images\FordMustang.jpg" />
+    <Content Include="08SemanticHTMLandOtherTags\images\Kent.jpg" />
+    <Content Include="08SemanticHTMLandOtherTags\images\logo.jpg" />
+    <Content Include="08SemanticHTMLandOtherTags\images\search.png" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\02KentsMediaProfile.css" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\03MagicCarGallery.css" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\04BGJUGWebPage.css" />
+    <Content Include="08SemanticHTMLandOtherTags\video\video.mp4" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\encodings.xml" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\misc.xml" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\modules.xml" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\scopes\scope_settings.xml" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\vcs.xml" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\workspace.xml" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\01-UnresponsiveHomework\images\softuni.png" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\01-UnresponsiveHomework\index.html" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\01-UnresponsiveHomework\styles\styles.css" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\background-flowers.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\flower-logo.png" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid01.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid02.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid03.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid04.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid05.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid06.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid07.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\orchid08.jpg" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\social_facebook.png" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\social_google.png" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\social_linkedin.png" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\social_myspace.png" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\images\social_twitter_box.png" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\index.html" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\02-FlowersHome\styles\styles-02.css" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\03-Bootstrap-Boot-Camp\index.html" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\03-Bootstrap-Boot-Camp\js\bootstrap.min.js" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\03-Bootstrap-Boot-Camp\styles\bootstrap.min.css" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\03-Bootstrap-Boot-Camp\styles\styles.css" />
+    <Content Include="1RefactorHTML\01-Refactor-Webpage.html" />
+    <Content Include="1WebsiteHeader\bell.png" />
+    <Content Include="1WebsiteHeader\logo.png" />
+    <Content Include="1WebsiteHeader\search.png" />
+    <Content Include="1WebsiteHeader\WebsiteHeader.css" />
+    <Content Include="1WebsiteHeader\WebsiteHeader.html" />
+    <Content Include="2Kent%27sMediaProfile\Kent%27sMediaProfile.css" />
+    <Content Include="2Kent%27sMediaProfile\Kent%27sMediaProfile.html" />
+    <Content Include="2Kent%27sMediaProfile\kent.png" />
+    <Content Include="2WebsiteFooter\facebook-block.png" />
+    <Content Include="2WebsiteFooter\facebook.png" />
+    <Content Include="2WebsiteFooter\googleplus.png" />
+    <Content Include="2WebsiteFooter\twitter.png" />
+    <Content Include="2WebsiteFooter\WebsiteFooter.css" />
+    <Content Include="2WebsiteFooter\WebsiteFooter.html" />
+    <Content Include="3-HTML-Tables\1.SimpleHTML\css\style.css" />
+    <Content Include="3-HTML-Tables\1.SimpleHTML\img\softuni-logo.png" />
+    <Content Include="3-HTML-Tables\1.SimpleHTML\index.html" />
+    <Content Include="3-HTML-Tables\2.ExamResults\css\style.css" />
+    <Content Include="3-HTML-Tables\2.ExamResults\index.html" />
+    <Content Include="3-HTML-Tables\3.NestedTables\css\style.css" />
+    <Content Include="3-HTML-Tables\3.NestedTables\img\softuni-logo.png" />
+    <Content Include="3-HTML-Tables\3.NestedTables\index.html" />
+    <Content Include="3-HTML-Tables\5.LifeInSoftUni\css\style.css" />
+    <Content Include="3-HTML-Tables\5.LifeInSoftUni\index.html" />
+    <Content Include="3-HTML-Tables\6.LifeInSoftUniKeyboard\css\style.css" />
+    <Content Include="3-HTML-Tables\6.LifeInSoftUniKeyboard\index.html" />
+    <Content Include="3-HTML-Tables\7.Calculator\css\style.css" />
+    <Content Include="3-HTML-Tables\7.Calculator\index.html" />
+    <Content Include="3-HTML-Tables\7.Calculator\js\script.js" />
+    <Content Include="3MagicCarGallery\ford.png" />
+    <Content Include="3MagicCarGallery\MagicCarGallery.css" />
+    <Content Include="3MagicCarGallery\MagicCarGallery.html" />
+    <Content Include="3TheSoftUniNews\calendar.png" />
+    <Content Include="3TheSoftUniNews\conf.png" />
+    <Content Include="3TheSoftUniNews\summer.png" />
+    <Content Include="3TheSoftUniNews\TheSoftUniNews.css" />
+    <Content Include="3TheSoftUniNews\TheSoftUniNews.html" />
+    <Content Include="4BGJUGWebPage - Frames\BGJUGWebPage.css" />
+    <Content Include="4BGJUGWebPage - Frames\BGJUGWebPage.html" />
+    <Content Include="4BGJUGWebPage - Frames\content.html" />
+    <Content Include="4BGJUGWebPage - Frames\footer.css" />
+    <Content Include="4BGJUGWebPage - Frames\footer.html" />
+    <Content Include="4BGJUGWebPage - Frames\header.html" />
+    <Content Include="4BGJUGWebPage - Frames\search.png" />
+    <Content Include="4PrettyWebsite\0003.jpg" />
+    <Content Include="4PrettyWebsite\0004.jpg" />
+    <Content Include="4PrettyWebsite\0005.jpg" />
+    <Content Include="4PrettyWebsite\headerBackground.jpg" />
+    <Content Include="4PrettyWebsite\PrettyWebsite.css" />
+    <Content Include="4PrettyWebsite\PrettyWebsite.html" />
+    <Content Include="5BGJUGWebPage - Semantic\BGJUGWebPage.css" />
+    <Content Include="5BGJUGWebPage - Semantic\BGJUGWebPage.html" />
+    <Content Include="5BGJUGWebPage - Semantic\search.png" />
+    <Content Include="5PrettyResponsiveWebsite\0003.jpg" />
+    <Content Include="5PrettyResponsiveWebsite\0004.jpg" />
+    <Content Include="5PrettyResponsiveWebsite\0005.jpg" />
+    <Content Include="5PrettyResponsiveWebsite\headerBackground.jpg" />
+    <Content Include="5PrettyResponsiveWebsite\PrettyResponsiveWebsite.css" />
+    <Content Include="5PrettyResponsiveWebsite\PrettyResponsiveWebsite.html" />
+    <Content Include="6. HtmlForms\.idea\encodings.xml" />
+    <Content Include="6. HtmlForms\.idea\misc.xml" />
+    <Content Include="6. HtmlForms\.idea\modules.xml" />
+    <Content Include="6. HtmlForms\.idea\scopes\scope_settings.xml" />
+    <Content Include="6. HtmlForms\.idea\vcs.xml" />
+    <Content Include="6. HtmlForms\.idea\workspace.xml" />
+    <Content Include="6. HtmlForms\01. SimpleForm.html" />
+    <Content Include="6. HtmlForms\02. FlightOrder.html" />
+    <Content Include="6. HtmlForms\03. WordPressTheme.html" />
+    <Content Include="6. HtmlForms\04.FakebookRegisterForm.html" />
+    <Content Include="6. HtmlForms\css\01.simpleform.css" />
+    <Content Include="6. HtmlForms\css\02.flightorder.css" />
+    <Content Include="6. HtmlForms\css\03.wordpresstheme.css" />
+    <Content Include="6. HtmlForms\css\04.fakebookregisterform.css" />
+    <Content Include="6. HtmlForms\img\wordpress.png" />
+    <Content Include="6. HtmlForms\img\wp-button.png" />
+    <Content Include="6JavaScriptWorship\JavaScriptWorship.css" />
+    <Content Include="6JavaScriptWorship\JavaScriptWorship.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\01.Refactor-Webpage.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\02.KentsMediaProfile.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\03.MagicCarGallery.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-1-BGJUGWebPage-Semantic\index.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-1-BGJUGWebPage-Semantic\style.css" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-2-BGJUGWebPage-Frames\footer.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-2-BGJUGWebPage-Frames\header.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-2-BGJUGWebPage-Frames\index.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-2-BGJUGWebPage-Frames\main.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-2-BGJUGWebPage-Frames\style.css" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\05.JavaScriptWorship.html" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\audi.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\benz.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\bmw.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\kent.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\lorem.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\lupa.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\mustang.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\mustang1.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\porsche.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\retrobuilt-1969-mustang-fastback-fd.jpg" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\twitter.png" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\styles\02.style.css" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\styles\03.style.css" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\styles\04.style.css" />
+    <Content Include="bell.png" />
+    <Content Include="calendar.jpg" />
+    <Content Include="CSS-Layout\.idea\encodings.xml" />
+    <Content Include="CSS-Layout\.idea\misc.xml" />
+    <Content Include="CSS-Layout\.idea\modules.xml" />
+    <Content Include="CSS-Layout\.idea\scopes\scope_settings.xml" />
+    <Content Include="CSS-Layout\.idea\vcs.xml" />
+    <Content Include="CSS-Layout\.idea\workspace.xml" />
+    <Content Include="CSS-Layout\01WebsiteHeader.html" />
+    <Content Include="CSS-Layout\02WebsiteFooter.html" />
+    <Content Include="CSS-Layout\03TheSoftUniNews.html" />
+    <Content Include="CSS-Layout\04PrettyWebsite.html" />
+    <Content Include="CSS-Layout\recources\0003.jpg" />
+    <Content Include="CSS-Layout\recources\0004.jpg" />
+    <Content Include="CSS-Layout\recources\0005.jpg" />
+    <Content Include="CSS-Layout\recources\bell123.png" />
+    <Content Include="CSS-Layout\recources\bell123134.png" />
+    <Content Include="CSS-Layout\recources\calendar.jpg" />
+    <Content Include="CSS-Layout\recources\conf.jpg" />
+    <Content Include="CSS-Layout\recources\facebook-block.png" />
+    <Content Include="CSS-Layout\recources\facebook.png" />
+    <Content Include="CSS-Layout\recources\googleplus.png" />
+    <Content Include="CSS-Layout\recources\headerBackground.jpg" />
+    <Content Include="CSS-Layout\recources\logo1234.png" />
+    <Content Include="CSS-Layout\recources\search.png" />
+    <Content Include="CSS-Layout\recources\summer.jpg" />
+    <Content Include="CSS-Layout\recources\twitter.png" />
+    <Content Include="CSS-Layout\styles\01style.css" />
+    <Content Include="CSS-Layout\styles\02style.css" />
+    <Content Include="CSS-Layout\styles\03style.css" />
+    <Content Include="CSS-Layout\styles\04style.css" />
+    <Content Include="CSS-Presentation\.idea\encodings.xml" />
+    <Content Include="CSS-Presentation\.idea\misc.xml" />
+    <Content Include="CSS-Presentation\.idea\modules.xml" />
+    <Content Include="CSS-Presentation\.idea\scopes\scope_settings.xml" />
+    <Content Include="CSS-Presentation\.idea\vcs.xml" />
+    <Content Include="CSS-Presentation\.idea\workspace.xml" />
+    <Content Include="CSS-Presentation\creditcard-images\amex.png" />
+    <Content Include="CSS-Presentation\creditcard-images\credit.png" />
+    <Content Include="CSS-Presentation\creditcard-images\dankort.png" />
+    <Content Include="CSS-Presentation\creditcard-images\diners.png" />
+    <Content Include="CSS-Presentation\creditcard-images\discover.png" />
+    <Content Include="CSS-Presentation\creditcard-images\forbru.png" />
+    <Content Include="CSS-Presentation\creditcard-images\google.png" />
+    <Content Include="CSS-Presentation\creditcard-images\jcb.png" />
+    <Content Include="CSS-Presentation\creditcard-images\laser.png" />
+    <Content Include="CSS-Presentation\creditcard-images\maestro.png" />
+    <Content Include="CSS-Presentation\creditcard-images\mastercard.png" />
+    <Content Include="CSS-Presentation\creditcard-images\money.png" />
+    <Content Include="CSS-Presentation\creditcard-images\paypa.png" />
+    <Content Include="CSS-Presentation\creditcard-images\shopify.png" />
+    <Content Include="CSS-Presentation\creditcard-images\solo.png" />
+    <Content Include="CSS-Presentation\creditcard-images\visa.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._amex.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._credit.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._dankort.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._diners.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._discover.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._forbru.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._google.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._jcb.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._laser.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._maestro.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._mastercard.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._money.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._paypa.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._shopify.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._solo.png" />
+    <Content Include="CSS-Presentation\creditcard-images\__MACOSX\._visa.png" />
+    <Content Include="CSS-Presentation\images\AlexHula.png" />
+    <Content Include="CSS-Presentation\images\amex.png" />
+    <Content Include="CSS-Presentation\images\formBackground.jpg" />
+    <Content Include="CSS-Presentation\images\HawaiiBackground.png" />
+    <Content Include="CSS-Presentation\images\mastercard.png" />
+    <Content Include="CSS-Presentation\images\NakovHula.png" />
+    <Content Include="CSS-Presentation\images\PetiaHula.png" />
+    <Content Include="CSS-Presentation\images\TediHula.png" />
+    <Content Include="CSS-Presentation\images\visa.png" />
+    <Content Include="CSS-Presentation\images\VladoGHula.png" />
+    <Content Include="CSS-Presentation\images\VladoKHula.png" />
+    <Content Include="CSS-Presentation\Nested-div-Elements.html" />
+    <Content Include="CSS-Presentation\SoftUni-Hawaii-Vacation.html" />
+    <Content Include="CSS-Presentation\style\Nested-div-Elements.css" />
+    <Content Include="CSS-Presentation\style\SoftUni-Hawaii-Vacation.css" />
+    <Content Include="CSS-Presentation\style\Styling-a-HTML-Form.css" />
+    <Content Include="CSS-Presentation\style\The-Jauntry-Text-Field.css" />
+    <Content Include="CSS-Presentation\Styling-a-HTML-Form.html" />
+    <Content Include="CSS-Presentation\The-Jaunty-Text-Field.html" />
+    <Content Include="CSSOverview\argentina.png" />
+    <Content Include="CSSOverview\bosnia.png" />
+    <Content Include="CSSOverview\brazil.png" />
+    <Content Include="CSSOverview\colorful_dots_on_black.jpg" />
+    <Content Include="CSSOverview\ColorKitchen.html" />
+    <Content Include="CSSOverview\england.png" />
+    <Content Include="CSSOverview\germany.png" />
+    <Content Include="CSSOverview\greenbet.png" />
+    <Content Include="CSSOverview\italy.png" />
+    <Content Include="CSSOverview\mexico.png" />
+    <Content Include="CSSOverview\netherlands.png" />
+    <Content Include="CSSOverview\portugal.png" />
+    <Content Include="CSSOverview\redbet.png" />
+    <Content Include="CSSOverview\spain.png" />
+    <Content Include="CSSOverview\style.css" />
+    <Content Include="CSSOverview\style_kitchen.css" />
+    <Content Include="CSSOverview\WorldCupBrazil.html" />
+    <Content Include="CSSPresentationHomework\01JauntyTextField.html" />
+    <Content Include="CSSPresentationHomework\02SoftUniHawaiVacation.html" />
+    <Content Include="CSSPresentationHomework\03StylingHTMLForm.html" />
+    <Content Include="CSSPresentationHomework\04NestedDivElements.html" />
+    <Content Include="CSSPresentationHomework\05ProgrammerCalculator.html" />
+    <Content Include="CSSPresentationHomework\images\AlexHula.png" />
+    <Content Include="CSSPresentationHomework\images\favicon.ico" />
+    <Content Include="CSSPresentationHomework\images\formBackground.jpg" />
+    <Content Include="CSSPresentationHomework\images\HawaiiBackground.png" />
+    <Content Include="CSSPresentationHomework\images\NakovHula.png" />
+    <Content Include="CSSPresentationHomework\images\PetiaHula.png" />
+    <Content Include="CSSPresentationHomework\images\TediHula.png" />
+    <Content Include="CSSPresentationHomework\images\VladoGHula.png" />
+    <Content Include="CSSPresentationHomework\images\VladoKHula.png" />
+    <Content Include="CSSPresentationHomework\styles\jaunty-text-field.css" />
+    <Content Include="CSSPresentationHomework\styles\nested-div-elements.css" />
+    <Content Include="CSSPresentationHomework\styles\programmer-calculator.css" />
+    <Content Include="CSSPresentationHomework\styles\softuni-hawai-vacation.css" />
+    <Content Include="CSSPresentationHomework\styles\styling-a-html-form.css" />
+    <Content Include="css\01Unresponsiv Homework.css" />
+    <Content Include="css\02Flower%27s Home.css" />
+    <Content Include="HeaderWebsite-layout.jpg" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\01.World Cup Brasil.html" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\Color Kitchen.css" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\ColorKitchen.html" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\argentina.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\bosnia-herz.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\brasil.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\bullet02.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\colorful_dots_on_black.jpg" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\ColorKitchen.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\england.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\germany.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\green-btn-pressed %281%29.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\green-btn-pressed.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\green-btn.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\italy.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\mexico.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\netherlands.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\portugal.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\red-btn.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\images\spain.png" />
+    <Content Include="Homework-CSS основи-23053\6. CSS Overview\styles\style01.css" />
+    <Content Include="Homework-CSS основи-23371\Argentina.jpg" />
+    <Content Include="Homework-CSS основи-23371\Bosna.jpg" />
+    <Content Include="Homework-CSS основи-23371\Brazil.jpg" />
+    <Content Include="Homework-CSS основи-23371\colorful_dots_on_black.jpg" />
+    <Content Include="Homework-CSS основи-23371\ColorKitchen.css" />
+    <Content Include="Homework-CSS основи-23371\ColorKitchen.html" />
+    <Content Include="Homework-CSS основи-23371\CSSOverview.sln" />
+    <Content Include="Homework-CSS основи-23371\England.jpg" />
+    <Content Include="Homework-CSS основи-23371\Germany.jpg" />
+    <Content Include="Homework-CSS основи-23371\Italy.png" />
+    <Content Include="Homework-CSS основи-23371\Mexico.jpg" />
+    <Content Include="Homework-CSS основи-23371\Net.jpg" />
+    <Content Include="Homework-CSS основи-23371\Portugal.jpg" />
+    <Content Include="Homework-CSS основи-23371\skype.jpg" />
+    <Content Include="Homework-CSS основи-23371\Skype2.jpg" />
+    <Content Include="Homework-CSS основи-23371\SoftUni Student Before Exam.css" />
+    <Content Include="Homework-CSS основи-23371\SoftUni Student Before Exam.html" />
+    <Content Include="Homework-CSS основи-23371\Spain.jpg" />
+    <Content Include="Homework-CSS основи-23371\WorldCupBrazil.css" />
+    <Content Include="Homework-CSS основи-23371\WorldCupBrazil.html" />
+    <Content Include="Homework-CSS основи-23371\yToe5q94c.png" />
+    <Content Include="Homework-HTML основи-21670\css.jpg" />
+    <Content Include="Homework-HTML основи-21670\image.png" />
+    <Content Include="Homework-HTML основи-21670\Problem 1..html" />
+    <Content Include="Homework-HTML основи-21670\Problem 2..html" />
+    <Content Include="Homework-HTML основи-21670\Problem 3..html" />
+    <Content Include="Homework-HTML основи-21670\Problem 4.html" />
+    <Content Include="Homework-HTML основи-21670\Problem 5.html" />
+    <Content Include="Homework-HTML основи-21670\Problem 6\doge.png" />
+    <Content Include="Homework-HTML основи-21670\Problem 6\friends.html" />
+    <Content Include="Homework-HTML основи-21670\Problem 6\home.html" />
+    <Content Include="Homework-HTML основи-21670\Problem 6\profile.html" />
+    <Content Include="HTML-Forms-Homework\_1_Simple-Form\_1_Simple-Form.html" />
+    <Content Include="HTML-Forms-Homework\_1_Simple-Form\_1_styles.css" />
+    <Content Include="HTML-Forms-Homework\_2_Flight-Order\_2_Flight-Order.html" />
+    <Content Include="HTML-Forms-Homework\_2_Flight-Order\_2_styles.css" />
+    <Content Include="HTML-Forms-Homework\_3_WordPress-Theme\smaller.JPG" />
+    <Content Include="HTML-Forms-Homework\_3_WordPress-Theme\wordpress.jpg" />
+    <Content Include="HTML-Forms-Homework\_3_WordPress-Theme\_3_styles.css" />
+    <Content Include="HTML-Forms-Homework\_3_WordPress-Theme\_3_WordPress-Theme.html" />
+    <Content Include="HTML-Forms-Homework\_4_Fakebook-Register-Form\_4_Fakebook-Register-form.html" />
+    <Content Include="HTML-Forms-Homework\_4_Fakebook-Register-Form\_4_styles.css" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\img\fifth.JPG" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\img\first.JPG" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\img\fourth.JPG" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\img\second.JPG" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\img\sixth.JPG" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\img\third.JPG" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\_5_Laptop-Choice.html" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\_5_styles.css" />
+    <Content Include="HTML5-Overview\.idea\encodings.xml" />
+    <Content Include="HTML5-Overview\.idea\misc.xml" />
+    <Content Include="HTML5-Overview\.idea\modules.xml" />
+    <Content Include="HTML5-Overview\.idea\scopes\scope_settings.xml" />
+    <Content Include="HTML5-Overview\.idea\vcs.xml" />
+    <Content Include="HTML5-Overview\.idea\workspace.xml" />
+    <Content Include="HTML5-Overview\css\DogSN.css" />
+    <Content Include="HTML5-Overview\css\Paragraphs.css" />
+    <Content Include="HTML5-Overview\css\PowerPointSlide.css" />
+    <Content Include="HTML5-Overview\Fonts\banq1.jpg" />
+    <Content Include="HTML5-Overview\Fonts\banq2.jpg" />
+    <Content Include="HTML5-Overview\Fonts\Duck.jpg" />
+    <Content Include="HTML5-Overview\Fonts\OFL.txt" />
+    <Content Include="HTML5-Overview\html\DogSocialNetwork.html" />
+    <Content Include="HTML5-Overview\html\DogSocialNetwork1.html" />
+    <Content Include="HTML5-Overview\html\DogSocialNetwork2.html" />
+    <Content Include="HTML5-Overview\html\Hello-HTML.html" />
+    <Content Include="HTML5-Overview\html\HTML-Lists.html" />
+    <Content Include="HTML5-Overview\html\Paragraphs-and-Images-of-Text.html" />
+    <Content Include="HTML5-Overview\html\PowerPoint-Slide.html" />
+    <Content Include="HTML5-Overview\html\Runners-Home.html" />
+    <Content Include="HTML5-Overview\images\Capture.PNG" />
+    <Content Include="HTML5-Overview\images\Dog.jpg" />
+    <Content Include="HTML5-Overview\images\dogs.jpg" />
+    <Content Include="HTML5-Overview\images\kokal1.jpg" />
+    <Content Include="HTML5-Tables-Homework\ExamResults\ExamResults.html" />
+    <Content Include="HTML5-Tables-Homework\ExamResults\styles.css" />
+    <Content Include="HTML5-Tables-Homework\LifeInSoftUni\LifeInSoftUni.html" />
+    <Content Include="HTML5-Tables-Homework\LifeInSoftUni\styles.css" />
+    <Content Include="HTML5-Tables-Homework\NestedTables\NestedTables.html" />
+    <Content Include="HTML5-Tables-Homework\NestedTables\SoftUni.PNG" />
+    <Content Include="HTML5-Tables-Homework\NestedTables\styles.css" />
+    <Content Include="HTML5-Tables-Homework\SimpleTable\SimpleTable.html" />
+    <Content Include="HTML5-Tables-Homework\SimpleTable\SoftUni.PNG" />
+    <Content Include="HTML5-Tables-Homework\SimpleTable\styles.css" />
+    <Content Include="images\0003.jpg" />
+    <Content Include="images\0004.jpg" />
+    <Content Include="images\0005.jpg" />
+    <Content Include="images\background-flowers.jpg" />
+    <Content Include="images\bell.png" />
+    <Content Include="images\calendar.jpg" />
+    <Content Include="images\Facebook.htm" />
+    <Content Include="images\facebook.png" />
+    <Content Include="images\Facebook_files\10256495_577106945720551_2181324906363170461_n.jpg" />
+    <Content Include="images\Facebook_files\10262122_697994256956212_9150610003911116834_n.jpg" />
+    <Content Include="images\Facebook_files\10417584_10150004166814104_470499672042020938_n.png" />
+    <Content Include="images\Facebook_files\10592895_810762018944860_4520986207531350147_n.jpg" />
+    <Content Include="images\Facebook_files\10671293_1532332766984002_8345233573774846860_n.jpg" />
+    <Content Include="images\Facebook_files\10704030_1506042992968974_2784821897465864371_n.jpg" />
+    <Content Include="images\Facebook_files\1380255_886109254755183_9188792468080360826_n.jpg" />
+    <Content Include="images\Facebook_files\1901241_578587235561827_2140008955_n.jpg" />
+    <Content Include="images\Facebook_files\36893_128791927161205_7137783_n.jpg" />
+    <Content Include="images\Facebook_files\988559_459673037458662_1407154338_n.jpg" />
+    <Content Include="images\Facebook_files\9988_10151403325753553_1486509350_n.png" />
+    <Content Include="images\Facebook_files\J9MLBTvkVaN.js" />
+    <Content Include="images\flower-logo.png" />
+    <Content Include="images\googleplus.png" />
+    <Content Include="images\headerBackground.jpg" />
+    <Content Include="images\HeaderWebsite-layout.jpg" />
+    <Content Include="images\logo-softuni2.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\orchid01.jpg" />
+    <Content Include="images\orchid02.jpg" />
+    <Content Include="images\orchid03.jpg" />
+    <Content Include="images\orchid04.jpg" />
+    <Content Include="images\orchid05.jpg" />
+    <Content Include="images\orchid06.jpg" />
+    <Content Include="images\orchid07.jpg" />
+    <Content Include="images\orchid08.jpg" />
+    <Content Include="images\social_facebook.png" />
+    <Content Include="images\social_google.png" />
+    <Content Include="images\social_linkedin.png" />
+    <Content Include="images\social_myspace.png" />
+    <Content Include="images\social_twitter_box.png" />
+    <Content Include="images\softuni-conf.jpg" />
+    <Content Include="images\softuni.png" />
+    <Content Include="images\summer-break.jpg" />
+    <Content Include="images\twitter.png" />
+    <Content Include="logo-softuni.png" />
+    <Content Include="logo-softuni2.png" />
+    <Content Include="softuni-conf.jpg" />
+    <Content Include="T01-WebsiteHeader-O1.css" />
+    <Content Include="T01-WebsiteHeader-O1.html" />
+    <Content Include="T02-WebsiteFooter-O1.css" />
+    <Content Include="T02-WebsiteFooter-O1.html" />
+    <Content Include="T03-SoftUniNews-O1.css" />
+    <Content Include="T03-SoftUniNews-O1.html" />
+    <Content Include="T04-PrettyWebsite-O2.css" />
+    <Content Include="T04-PrettyWebsite-O2.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CSSOverview\Web.config" />
+    <Content Include="CSS-Presentation\.idea\.name" />
+    <Content Include="CSS-Presentation\.idea\CSS-Presentation.iml" />
+    <Content Include="CSS-Presentation\fonts\Animated.ttf" />
+    <Content Include="02 SoftUni Hawaii Vacation\resources\Animated.ttf" />
+    <Content Include="03 Styling a HTML Form\resources\Animated.ttf" />
+    <Content Include="6. HtmlForms\.idea\.name" />
+    <Content Include="6. HtmlForms\.idea\6. HtmlForms.iml" />
+    <Content Include="01-Homework-HTML-Forms\.idea\.name" />
+    <Content Include="01-Homework-HTML-Forms\.idea\01-Homework-HTML-Forms.iml" />
+    <Content Include="02-Homework-HTML-Forms\.idea\.name" />
+    <Content Include="02-Homework-HTML-Forms\.idea\02-Homework-HTML-Forms.iml" />
+    <Content Include="03-Homework-HTML-Forms\.idea\.name" />
+    <Content Include="03-Homework-HTML-Forms\.idea\03-Homework-HTML-Forms.iml" />
+    <Content Include="04-Homework-HTML-Forms\.idea\.name" />
+    <Content Include="04-Homework-HTML-Forms\.idea\04-Homework-HTML-Forms.iml" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\.name" />
+    <Content Include="05-Homework-HTML-FormsV2\.idea\05-Homework-HTML-FormsV2.iml" />
+    <Content Include="CSS-Layout\.idea\.name" />
+    <Content Include="CSS-Layout\.idea\CSS-Layout.iml" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\.DS_Store" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\.project" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-1-BGJUGWebPage-Semantic\.DS_Store" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\04-2-BGJUGWebPage-Frames\.DS_Store" />
+    <Content Include="8. Semantic-HTML-and-Other-Tags-Homework\images\.DS_Store" />
+    <Content Include="08SemanticHTMLandOtherTags\audio\hangouts_incoming_call.ogg" />
+    <Content Include="08SemanticHTMLandOtherTags\audio\hangouts_message.ogg" />
+    <Content Include="08SemanticHTMLandOtherTags\audio\hangouts_video_call.ogg" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\02KentsMediaProfile.css.map" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\02KentsMediaProfile.sass" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\03MagicCarGallery.css.map" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\03MagicCarGallery.sass" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\04BGJUGWebPage.css.map" />
+    <Content Include="08SemanticHTMLandOtherTags\styles\04BGJUGWebPage.sass" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\.name" />
+    <Content Include="09-Responsive-Design-Bootstrap-Homework\.idea\09-Responsive-Design-Bootstrap-Homework.iml" />
+    <None Include="CSSOverview\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="web.config" />
+    <Content Include="Homework-CSS основи-23371\Thumbs.db" />
+    <Content Include="CSSPresentationHomework\fonts\Animated.ttf" />
+    <Content Include="HTML-Forms-Homework\_3_WordPress-Theme\Thumbs.db" />
+    <Content Include="HTML-Forms-Homework\_5_Laptop-Choice\img\Thumbs.db" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>60397</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:60397/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

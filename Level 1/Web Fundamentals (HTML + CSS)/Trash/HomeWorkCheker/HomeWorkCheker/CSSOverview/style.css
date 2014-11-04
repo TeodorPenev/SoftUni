@@ -1,0 +1,145 @@
+﻿body {
+    background-color: #00923e;
+    font-family: Calibri;
+}
+
+
+.top-left {
+    border-top-left-radius: 25px; 
+}
+
+.top-right {
+    border-top-right-radius: 25px;  
+}
+
+.bottom-right {
+    border-bottom-right-radius: 25px; 
+}
+
+.bottom-left {
+    border-bottom-left-radius: 25px;   
+}
+
+th {
+    background-color: #f8c711;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    text-align: right;
+    padding: 0px 30px;
+}
+
+.white {
+    background-color: #fff;
+}
+
+.grey {
+    background-color: #c8c8c8;
+}
+
+.brazil {
+    width: 30px;
+    height: 20px;
+    background: url('brazil.png') 0 0;
+    float: right;
+}
+
+.spain {
+    width: 30px;
+    height: 20px;
+    background: url('spain.png') 0 0;
+    float: right;
+}
+
+.italy {
+    width: 30px;
+    height: 20px;
+    background: url('italy.png') 0 0;
+    float: right;
+}
+.argentina {
+    width: 30px;
+    height: 20px;
+    background: url('argentina.png') 0 0;
+    float: right;
+}
+.germany {
+    width: 30px;
+    height: 20px;
+    background: url('germany.png') 0 0;
+    float: right;
+}
+
+.mexico {
+    width: 30px;
+    height: 20px;
+    background: url('mexico.png') 0 0;
+    float: left;
+}
+
+.netherlands {
+    width: 30px;
+    height: 20px;
+    background: url('netherlands.png') 0 0;
+    float: left;
+}
+
+.england {
+    width: 30px;
+    height: 20px;
+    background: url('england.png') 0 0;
+    float: left;
+}
+.bosnia {
+    width: 30px;
+    height: 20px;
+    background: url('bosnia.png') 0 0;
+    float: left;
+}
+.portugal {
+    width: 30px;
+    height: 20px;
+    background: url('portugal.png') 0 0;
+    float: left;
+}
+
+.greyb {
+    background-color: #c8c8c8;
+}
+
+select{
+    height: 35px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+.redbet {
+    width: 52px;
+    height: 52px;
+    background: url('redbet.png') 0 0; 
+}
+
+.greenbet {
+    width: 52px;
+    height: 52px;
+    background: url('greenbet.png') 0 0;
+}
