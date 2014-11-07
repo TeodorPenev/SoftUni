@@ -1,0 +1,10 @@
+{
+  "name": "_01.Home_Town",
+  "version": "0.0.0",
+  "description": "01.Home Town",
+  "main": "server.js",
+  "author": {
+    "name": "Teodor",
+    "email": ""
+  }
+}
