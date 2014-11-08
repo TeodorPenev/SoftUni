@@ -3,17 +3,17 @@
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
-    <Name>01.HomeTown</Name>
-    <RootNamespace>01.Home Town</RootNamespace>
+    <Name>demo test</Name>
+    <RootNamespace>demo test</RootNamespace>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>cec338bf-210e-4110-9e83-8ad792221fa6</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
-    <StartupFile>server.js</StartupFile>
+    <ProjectGuid>c945607b-e8e9-4f43-b1ff-66ba604c6692</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,14 +31,19 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="scripts\hometown.js" />
-    <Compile Include="server.js" />
-    <Content Include="hometown.html" />
-    <Content Include="package.json" />
-    <Content Include="README.md" />
+    <Content Include="2. JavaScript-Syntax-Demos\1. Data-Types-and-Variables.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\10. Accessing-Form-Fields.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\2. Undefined-Null-TypeOf.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\3. Unresolvable-Variables.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\4. Strict-Syntax.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\5. Operators.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\6. Other-Operators.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\7. If-Else.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\8. Switch-Case.html" />
+    <Content Include="2. JavaScript-Syntax-Demos\9. False-like-Conditions.html" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="scripts\" />
+    <Folder Include="2. JavaScript-Syntax-Demos\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsTools.targets" />
   <ProjectExtensions>

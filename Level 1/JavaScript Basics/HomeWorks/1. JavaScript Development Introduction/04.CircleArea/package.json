@@ -1,0 +1,10 @@
+{
+  "name": "_04.CircleArea",
+  "version": "0.0.0",
+  "description": "04.CircleArea",
+  "main": "server.js",
+  "author": {
+    "name": "Teodor",
+    "email": ""
+  }
+}

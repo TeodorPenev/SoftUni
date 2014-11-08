@@ -1,0 +1,10 @@
+{
+  "name": "_02.Numbers_1to10",
+  "version": "0.0.0",
+  "description": "02.Numbers 1to10",
+  "main": "app.js",
+  "author": {
+    "name": "Teodor",
+    "email": ""
+  }
+}

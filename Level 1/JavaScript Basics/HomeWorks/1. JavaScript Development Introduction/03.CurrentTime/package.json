@@ -1,0 +1,10 @@
+{
+  "name": "_03.CurrentTime",
+  "version": "0.0.0",
+  "description": "03.CurrentTime",
+  "main": "app.js",
+  "author": {
+    "name": "Teodor",
+    "email": ""
+  }
+}

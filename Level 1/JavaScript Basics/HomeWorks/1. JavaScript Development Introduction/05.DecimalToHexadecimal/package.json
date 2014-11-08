@@ -1,0 +1,10 @@
+{
+  "name": "_05.DecimalToHexadecimal",
+  "version": "0.0.0",
+  "description": "05.DecimalToHexadecimal",
+  "main": "server.js",
+  "author": {
+    "name": "Teodor",
+    "email": ""
+  }
+}

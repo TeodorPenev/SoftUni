@@ -1,0 +1,10 @@
+{
+  "name": "debug_test",
+  "version": "0.0.0",
+  "description": "debug test",
+  "main": "app.js",
+  "author": {
+    "name": "Teodor",
+    "email": ""
+  }
+}
