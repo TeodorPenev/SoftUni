@@ -4,6 +4,9 @@
     var arrTemp = [];
     var tempSum = 0;
     for (var i = 0; i < arr.length; i++) {
+        if (arr[i] !== parseInt(arr[i])) {
+            return undefined;
+        }
         arrTemp[i] = Math.abs(arr[i]);
         if (arrTemp[i]>9) {
             var tempF = String(arrTemp[i]);
