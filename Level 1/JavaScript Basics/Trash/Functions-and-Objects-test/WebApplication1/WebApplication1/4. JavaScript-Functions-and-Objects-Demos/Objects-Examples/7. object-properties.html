@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+</head>
+<body>
+    <script>
+        function haha() {
+            var tom = {
+                firstName: 'Tom',
+                lastName: 'Miller',
+                toString: function() {
+                    console.log(this.firstName + " " + this.lastName);
+                }
+            }
+
+            var kate = {
+                firstName: 'Kate',
+                lastName: 'Brown',
+                toString: function() {
+                    return this.firstName + " " + this.lastName;
+                }
+            }
+        }
+
+        haha();
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+﻿﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>JS Console - Example</title>
+</head>
+
+<body>
+    <script>
+    	// Primitive types have a reference type wrapper
+		var number = 5;
+		var numberObj = new Number(5);
+
+		console.log('(number == numberObj) = ' + (number == numberObj));
+		console.log('(number === numberObj) = ' + (number === numberObj));
+		console.log('typeof number = ' + typeof number);
+		console.log('typeof numberObj = ' + typeof numberObj);
+		console.log('(typeof number === typeof numberObj) = ' + (typeof number === typeof numberObj));
+
+		//Primitive types are passed by value
+		console.log("-------------------");
+
+		var fname = 'Peter';
+		var lname = 'Ivanov';
+		var person = {
+		    firstName: fname,
+		    lastName: lname,
+		    toString: function() {
+		        return this.firstName + " " + this.lastName;
+		    }
+		}
+
+
+		console.log('Changing the last name to Petrov');
+		person.lastName = "dsd";
+		
+		lname = "sasa";
+		console.log(person); // still "Ivanov"
+		console.log(lname);
+		console.log();
+    </script>
+</body>
+
+</html>
