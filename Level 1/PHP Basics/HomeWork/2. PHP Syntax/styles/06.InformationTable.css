@@ -1,0 +1,16 @@
+table {
+   border-collapse: collapse;
+}
+
+table tr td{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+table tr td:first-child{
+    background-color: orange;
+    text-align: left;
+}
+table tr td:nth-child(2){
+    text-align: right;
+}
