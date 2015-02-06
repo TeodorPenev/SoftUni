@@ -22,7 +22,7 @@ namespace _03.PC_Catalog
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentException("Component Name can not be null or empty"); 
+                    throw new ArgumentException("Component Name cannot be empty"); 
                 }
                 this.name = value;
             }
@@ -49,7 +49,7 @@ namespace _03.PC_Catalog
             }
             set
             {
-                if (value <= 0)
+                if (value < 0)
                 {
                     throw new ArgumentException("Price cannot be negative!");
                 }
@@ -73,11 +73,12 @@ namespace _03.PC_Catalog
         public override string ToString()
         {
             string result = String.Format("Component: (Name: {0}", this.name);
-            if (details != null)
+            if (this.details != null)
             {
                 result += String.Format(", Details: {0}",this.details);
             }
-            result += String.Format(", Price: {0} lv.)", this.price);
+
+            result += String.Format(", Price: {0:F2} lv.)", this.price);
 
             return result;
         }
