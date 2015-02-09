@@ -12,6 +12,13 @@
             this.Age = age;
             this.Email = email;
         }
+
+        public Person(string name, byte age)
+            : this(name, age, null)
+        {
+
+        }
+        
        
         public string Name
         {
@@ -64,7 +71,12 @@
 
         public override string ToString()
         {
-            return string.Format("Name: {0}, Age: {1}, Email: {2}", this.name, this.age, this.email);
+            String result = String.Format("Name: {0}, Age: {1}", this.name, this.age);
+            if (this.email != "")
+            {
+                result += String.Format(" Email: {0}", this.email);
+            }
+            return result;
         }
     }
 
