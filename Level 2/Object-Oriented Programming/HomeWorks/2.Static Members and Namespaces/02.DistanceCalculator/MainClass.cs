@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace _02.DistanceCalculator
 {
     class MainClass

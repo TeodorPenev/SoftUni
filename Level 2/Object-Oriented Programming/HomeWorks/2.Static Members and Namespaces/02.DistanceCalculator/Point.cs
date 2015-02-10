@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace _02.DistanceCalculator
+﻿namespace _02.DistanceCalculator
 {
     public class Point3D
     {
