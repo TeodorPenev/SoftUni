@@ -1,12 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01.School
 {
-    class Teacher
+    class Teacher : People
     {
+        private List<string> disciplines;
+
+        public Teacher(string name,List<string> disciplines,string details) : base(name,details)
+        {
+            Disciplines = this.disciplines;
+        }
+
+        public List<string> Disciplines
+        {
+            get { return disciplines; }
+            set { disciplines = value; }
+        }
     }
 }

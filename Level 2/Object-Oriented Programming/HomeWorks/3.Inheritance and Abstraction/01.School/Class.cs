@@ -5,21 +5,33 @@ namespace _01.School
 {
     class Class
     {
-        public string uniqueIdentifier;
-        public List<string> teachers;
+        private string uniqueIdentifier;
+        public List<Teacher> teachers;
         public string details;
 
-        public Class(string uniqueIdentifier,List<string> teachers,string details=null)
+        public Class(string uniqueIdentifier,List<Teacher> teachers,string details=null)
         {
-            this.uniqueIdentifier = uniqueIdentifier;
-            this.teachers = teachers;
-            this.details = details;
+            this.UniqueIdentifier = uniqueIdentifier;
+            this.Teachers = teachers;
+            this.Details = details;
         }
 
-        public override string ToString()
+        public string UniqueIdentifier
         {
-            string result = String.Format("Test {0} {1} {2}", this.uniqueIdentifier, this.teachers[1], this.details);
-            return result;
+            get { return this.uniqueIdentifier; }
+            set { value = this.uniqueIdentifier; }
         }
+
+        public List<Teacher> Teachers
+        {
+            get { return this.teachers; }
+            set { value = this.teachers; }
+        }
+
+        public string Details
+        {
+            get { return this.details; }
+            set { value = this.details; }
+        }      
     }
 }
