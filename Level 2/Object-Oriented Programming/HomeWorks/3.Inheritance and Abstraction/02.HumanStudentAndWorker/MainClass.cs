@@ -23,10 +23,11 @@ namespace _02.HumanStudentAndWorker
                 new Student("Liliq", "Petkova", "113110"),
             };
 
+            Console.WriteLine("\n Sorted students by faculty number: \n");
             var sortByFaultyNumb = students.OrderBy(x => x.FaultyNumber);
             foreach (var student in sortByFaultyNumb)
             {
-                Console.WriteLine(string.Format("First and last name:{0} {1} ;Faulty number:{2}",student.FirstName,student.LastName,student.FaultyNumber));
+                Console.WriteLine("First and last name: {0} {1}",student.FirstName,student.LastName);
             }
 
             List<Worker> workers = new List<Worker>()
@@ -43,7 +44,32 @@ namespace _02.HumanStudentAndWorker
                 new Worker("Narlen", "Chatmalieva", 850.69 , 8),
             };
 
+            Console.WriteLine("\n Sorted workers by payment per hour: \n");
+            var sortDescPayPerHour = workers.OrderByDescending(x => x.MoneyPerHour());
+            foreach (var worker in sortDescPayPerHour)
+            {
+                Console.WriteLine("First and last name: {0} {1}",worker.FirstName,worker.LastName);
+            }
 
+
+            var sortByFirstName = (from stud in students
+                                   select new
+                                   {
+                                       FirstName = stud.FirstName,
+                                       LastName = stud.LastName,
+                                   }
+                                        ).Union(from worker in workers
+                                                select new
+                                                {
+                                                    FirstName = worker.FirstName,
+                                                    LastName = worker.LastName,
+                                                }).OrderBy(x => x.FirstName).ThenBy(x=>x.LastName);
+
+            Console.WriteLine("\n Sorted by first and last name: \n");
+            foreach (var human in sortByFirstName)
+            {
+                Console.WriteLine("First and last name: {0} {1}", human.FirstName, human.LastName);
+            }
         }
     }
 }
