@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Animals
 {
@@ -11,39 +7,33 @@ namespace Animals
     {
         static void Main(string[] args)
         {
-            Animal[] animals =
+            Dog[] dogs =
             {
                 new Dog("Teodor", 27, "male"),
-                new Dog("Desi", 23, "female"),
-                new Frog("Zara",16,"femele"), 
-                new Frog("Petq",12,"femele"), 
+                new Dog("Desi", 23, "female")
+            };
+
+            Frog[] frogs =
+            {
+                new Frog("Zara", 16, "femele"),
+                new Frog("Petq", 12, "femele")
+            };
+
+            Kitten[] kittens =
+            {
                 new Kitten("Silviq", 20),
-                new Kitten("Nikoleta", 19),
+                new Kitten("Nikoleta", 19)
+            };
+
+            Tomcat[] tomcats={
                 new Tomcat("Milen", 30), 
                 new Tomcat("Tihomir", 28), 
             };
-            var averageAge = (from creature in animals select new {Age = creature.Age}).OrderBy(x => x.Age);
 
-            foreach (var crea in averageAge)
-            {
-                Console.WriteLine(crea);
-            }
+            var averageDogs = dogs.Average(r => r.age);
+            var averageFrogs = frogs.Average(r => r.age);
+            var averageKittens = kittens.Average(r => r.age);
+            var averageTomcats = tomcats.Average(r => r.age);
         }
-
-
-        //var sortByFirstName = (from stud in students
-        //                       select new
-        //                       {
-        //                           FirstName = stud.FirstName,
-        //                           LastName = stud.LastName,
-        //                       }
-        //                            ).Union(from worker in workers
-        //                                    select new
-        //                                    {
-        //                                        FirstName = worker.FirstName,
-        //                                        LastName = worker.LastName,
-        //                                    }).OrderBy(x => x.FirstName).ThenBy(x => x.LastName);
-        
-        
     }
 }
