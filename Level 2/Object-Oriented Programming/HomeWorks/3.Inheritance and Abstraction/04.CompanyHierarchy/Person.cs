@@ -9,9 +9,9 @@ namespace _04.CompanyHierarchy
 {
     class Person
     {
-        private string ID { get; set; }
-        private string FirstName { get; set;}
-        private string LastName { get; set; }
+        public string ID { get; set; }
+        public string FirstName { get; set;}
+        public string LastName { get; set; }
 
         public Person(string id,string firstName,string lastName)
         {

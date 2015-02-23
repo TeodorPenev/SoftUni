@@ -10,8 +10,16 @@ namespace _04.CompanyHierarchy
     {
         static void Main(string[] args)
         {
+            List<Employee> employees = new List<Employee>();
+
             Employee Tedy = new Employee("115033","Teodor","Penev",800,Department.Production);
-            Console.WriteLine(Tedy.Department);  
+            Console.WriteLine(Tedy.Department);
+            Employee Dani = new Employee("115033", "Teodor", "Penev", 800, Department.Production);
+            employees.Add(Tedy);
+            employees.Add(Dani);
+            Manager Teo = new Manager("115033", "Teodor", "Penev", 800, Department.Accounting,employees);
+            Console.WriteLine(Teo);
+
         }
     }
 }
