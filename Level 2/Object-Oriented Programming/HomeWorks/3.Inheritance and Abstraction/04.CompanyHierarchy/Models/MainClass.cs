@@ -10,7 +10,7 @@ namespace _04.CompanyHierarchy
     {
         static void Main(string[] args)
         {
-            List<Employee> employees = new List<Employee>();
+            ISet<Employee> employees = new ISet<Employee>();
 
             Employee Tedy = new Employee("115033","Teodor","Penev",800,Department.Production);
             Console.WriteLine(Tedy.Department);

@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace _04.CompanyHierarchy.Interfaces
 {
-    interface ISaleEmployee
+    interface IEmployee
     {
-        ISet<Sale>  
+        double Salary { get; set; }
+        Department Department { get; set; }
+        string ToString();
     }
 }

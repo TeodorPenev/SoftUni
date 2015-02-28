@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace _04.CompanyHierarchy.Interfaces
 {
-    interface ISaleEmployee
+    interface IManager
     {
-        ISet<Sale>  
+        ISet<Employee> ListOfEmployees { get; set; }
+
+        void addEmployee(ISet<Employee> employees);
+
+        string ToString();
     }
 }

@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
+using System;
 namespace _04.CompanyHierarchy.Interfaces
 {
-    interface ISale
+    public interface ISale
     {
+        string ProductName { get; set; }
+        DateTime SaleDate { get; set; }
+        decimal Price { get; set; }
     }
 }
