@@ -1,5 +1,5 @@
-﻿
-using System;
+﻿using System;
+
 namespace _04.CompanyHierarchy.Interfaces
 {
     public interface ISale

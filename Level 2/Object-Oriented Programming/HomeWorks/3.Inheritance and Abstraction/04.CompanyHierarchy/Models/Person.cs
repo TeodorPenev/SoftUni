@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Dynamic;
-using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using _04.CompanyHierarchy.Interfaces;
 
 namespace _04.CompanyHierarchy
@@ -24,19 +20,16 @@ namespace _04.CompanyHierarchy
     
         public string ID
         {
-	       get 
-	       { 
-		{ return this.id; }
-	       }
+	       get { return this.id; }
 	       set 
-	       { 
-		if(!Regex.IsMatch(value, @"^[a-zA-Z\d]{6}$")) 
-            {
+	           { 
+		        if(!Regex.IsMatch(value, @"^[a-zA-Z\d]{6}$")) 
+                 {
                     throw new ArgumentOutOfRangeException("id", "Id should be 6 symbols long and contain only letters and digits.");
-                }
+                 }
 
                 this.id = value;
-            }
+               }
 	    }       
 
          public string FirstName
@@ -76,4 +69,4 @@ namespace _04.CompanyHierarchy
         }
 }
 }
-}
+

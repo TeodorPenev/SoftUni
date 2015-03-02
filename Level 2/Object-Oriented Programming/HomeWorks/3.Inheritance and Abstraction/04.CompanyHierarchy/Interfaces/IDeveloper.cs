@@ -3,8 +3,8 @@ using _04.CompanyHierarchy.Models;
 
 namespace _04.CompanyHierarchy.Interfaces
 {
-    interface ISaleEmployee
+    interface IDeveloper
     {
-        ISet<Sale> ListOfSales { get; set; }
+        ISet<Project> Project { get; set; } 
     }
 }
