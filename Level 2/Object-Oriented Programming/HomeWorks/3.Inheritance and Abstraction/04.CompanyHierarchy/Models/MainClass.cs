@@ -23,7 +23,6 @@ namespace _04.CompanyHierarchy
             saaale.Add(first);
             saaale.Add(second);
 
-           
             Employee Dani1 = new Employee("ddgfg0","ddd","d",22,Department.Marketing);
             SalesEmployee Cveti = new SalesEmployee("des1wd", "dsfsd", "fdsfd", 212, Department.Marketing, saaale);
 
@@ -33,12 +32,16 @@ namespace _04.CompanyHierarchy
             }
 
             ISet<Project> starShips =new HashSet<Project>();
+
             Project alpha = new Project("StarShips",new DateTime(2015,1,15),"Some fantastic RPG",State.open);
             Project beta = new Project("StarShips", new DateTime(2015, 2, 20), "Some fantastic RPG gone wild", State.close);
             starShips.Add(alpha);
             starShips.Add(beta);
             Developer Tedo = new Developer("115018","Teodor","Penev",1500,Department.Production,starShips);
             
+            Person pesho = new Person("112233","Peho","Goshov");
+            pesho.ID = "222222";
+            Console.WriteLine(pesho);
         }
     }
 }
