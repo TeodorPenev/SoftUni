@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using _01.Shapes.Models;
 
 namespace _01.Shapes
 {
@@ -10,6 +8,11 @@ namespace _01.Shapes
     {
         static void Main(string[] args)
         {
+            var shapes = new List<BasicShape>();
+            BasicShape triangle1 = new Triangle(1,2,3,33,33);
+            BasicShape rectangle1 = new Rectangle(12,12);
+            Console.WriteLine(triangle1.CalculateArea());
+            Console.WriteLine(rectangle1.CalculateArea());
         }
     }
 }

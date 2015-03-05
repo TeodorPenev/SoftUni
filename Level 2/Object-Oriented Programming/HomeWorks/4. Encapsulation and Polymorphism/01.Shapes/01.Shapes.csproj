@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Interfaces\IShape.cs" />
+    <Compile Include="MainClass.cs" />
+    <Compile Include="Models\BasicShape.cs" />
+    <Compile Include="Models\Rectangle.cs" />
+    <Compile Include="Models\Triangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
