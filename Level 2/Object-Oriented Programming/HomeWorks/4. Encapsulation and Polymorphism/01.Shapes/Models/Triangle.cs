@@ -8,8 +8,8 @@ namespace _01.Shapes.Models
         private double sideB;
         private double sideC;
 
-        public Triangle(double width, double height, double sideA, double sideB, double sideC)
-            : base(width, height)
+        public Triangle(double sideA, double sideB, double sideC)
+            : base(1, 1)
         {
             this.SideA = sideA;
             this.SideB = sideB;
