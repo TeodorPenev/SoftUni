@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Runtime.InteropServices;
 using _01.Shapes.Models;
 
 namespace _01.Shapes

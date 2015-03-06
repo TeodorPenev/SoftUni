@@ -1,5 +1,4 @@
 ﻿using System;
-using _01.Shapes.Interfaces;
 
 namespace _01.Shapes.Models
 {
