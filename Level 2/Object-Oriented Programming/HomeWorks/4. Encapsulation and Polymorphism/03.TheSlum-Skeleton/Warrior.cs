@@ -26,29 +26,11 @@ namespace TheSlum
         public override void AddToInventory(Item item)
         {
             this.Inventory.Add(item);
-            this.HealthPoints += item.HealthEffect;
-            this.DefensePoints += item.DefenseEffect;
-            this.AttackPoints += item.AttackEffect;
         }
 
         public override void RemoveFromInventory(Item item)
         {
             this.Inventory.Remove(item);
-            this.HealthPoints -= item.HealthEffect;
-            if (this.HealthPoints<1)
-            {
-                this.HealthPoints = 1;
-            }
-            this.DefensePoints -= item.DefenseEffect;
-            if (this.DefensePoints<1)
-            {
-                this.DefensePoints = 1;
-            }
-            this.AttackPoints -= item.AttackEffect;
-            if (this.AttackPoints<1)
-            {
-                this.AttackPoints = 1;
-            }
         }
 
         protected override void ApplyItemEffects(Item item)
@@ -67,7 +49,7 @@ namespace TheSlum
 
         public override string ToString()
         {
-            return base.ToString() + "Attack:"+this.AttackPoints;
+            return base.ToString() + " Attack:"+this.AttackPoints;
         }
     }
 }

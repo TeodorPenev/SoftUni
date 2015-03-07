@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using TheSlum.Interfaces;
@@ -74,14 +75,20 @@ namespace TheSlum.GameEngine
                 case "status":
                     PrintCharactersStatus(characterList);
                     break;
-                default:
+                case "create":
+                    CreateCharacter(inputParams);
                     break;
             }
         }
         
         protected virtual void CreateCharacter(string[] inputParams)
         {
-            throw new NotImplementedException();
+            switch (inputParams[1])
+            {
+                case "mage":
+                    characterList.Add(new Mage(inputParams[2],Int32.Parse(inputParams[3]),Int32.Parse(inputParams[4]),this.GetTeam(inputParams[5])));;
+            }
+            
         }
 
         protected void AddItem(string[] inputParams)
@@ -165,6 +172,16 @@ namespace TheSlum.GameEngine
             }
             var aliveCharacters = characterList.Where(c => c.IsAlive);
             PrintCharactersStatus(aliveCharacters);
+        }
+
+        private Team GetTeam(string team)
+        {
+            Team currentTeam = Team.Blue;
+            if (team != "Blue")
+            {
+                currentTeam = Team.Red;
+            }
+            return currentTeam;
         }
     }
 }

@@ -1,33 +1,58 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using TheSlum.Interfaces;
 
 namespace TheSlum
 {
-    class Mage:Character
+    class Mage:Character,IAttack
     {
         public Mage(string id, int x, int y, Team team, int range = 5, int attackPoint = 300, int defensePoints = 50, int healthPoints = 150) : base(id, x, y, healthPoints, defensePoints, team, range)
         {
-            this.AttackPoint = attackPoint;
+            this.AttackPoints= attackPoint;
         }
 
-        public int AttackPoint { get; set; }
+        public int AttackPoints { get; set; }
 
         public override Character GetTarget(IEnumerable<Character> targetsList)
         {
-            throw new NotImplementedException();
+            foreach (var character in targetsList)
+            {
+                if (character.IsAlive && character.Team!=this.Team)
+                {
+                    return character;
+                }
+                ;    
+            }
+            return null;
         }
 
         public override void AddToInventory(Item item)
         {
-            throw new NotImplementedException();
+            Inventory.Add(item);
         }
 
         public override void RemoveFromInventory(Item item)
         {
-            throw new NotImplementedException();
+            Inventory.Remove(item);
+        }
+
+        protected override void ApplyItemEffects(Item item)
+        {
+            this.Inventory.Remove(item);
+            this.HealthPoints += item.HealthEffect;
+            this.DefensePoints += item.DefenseEffect;
+            this.AttackPoints += item.AttackEffect;
+        }
+
+        protected override void RemoveItemEffects(Item item)
+        {
+            base.RemoveItemEffects(item);
+            this.AttackPoints -= item.AttackEffect;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + " Attack:" +
+            this.AttackPoints;
         }
     }
 }
