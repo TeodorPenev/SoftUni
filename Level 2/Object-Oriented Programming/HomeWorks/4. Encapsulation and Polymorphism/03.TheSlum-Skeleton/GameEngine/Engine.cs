@@ -78,6 +78,9 @@ namespace TheSlum.GameEngine
                 case "create":
                     CreateCharacter(inputParams);
                     break;
+                case "add":
+                    AddItem(inputParams);
+                    break;
             }
         }
         
@@ -85,15 +88,37 @@ namespace TheSlum.GameEngine
         {
             switch (inputParams[1])
             {
+                case "warrior":
+                    characterList.Add(new Warrior(inputParams[2],Int32.Parse(inputParams[3]),Int32.Parse(inputParams[4]),GetTeam(inputParams[5])));
+                    break;
                 case "mage":
-                    characterList.Add(new Mage(inputParams[2],Int32.Parse(inputParams[3]),Int32.Parse(inputParams[4]),this.GetTeam(inputParams[5])));;
+                    characterList.Add(new Mage(inputParams[2],Int32.Parse(inputParams[3]),Int32.Parse(inputParams[4]),this.GetTeam(inputParams[5])));
+                    break;
+                case "healer":
+                    characterList.Add(new Healer(inputParams[2], Int32.Parse(inputParams[3]), Int32.Parse(inputParams[4]), this.GetTeam(inputParams[5])));
+                    break;
             }
             
         }
 
         protected void AddItem(string[] inputParams)
         {
-            throw new NotImplementedException();
+            Character current = GetCharacterById(inputParams[1]);
+            switch (inputParams[2])
+            {
+                case "axe":
+                    current.AddToInventory(new Axe(inputParams[3]));
+                    break;
+                case "shield":
+                    current.AddToInventory(new Shield(inputParams[3]));
+                    break;
+                case "pill":
+                    current.AddToInventory(new Pill(inputParams[3]));
+                    break;
+                case "injection":
+                    current.AddToInventory(new Injection(inputParams[3]));
+                    break;
+            }
         }
 
         protected void ProcessTargetSearch(Character currentCharacter)
