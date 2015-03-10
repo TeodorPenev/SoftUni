@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.SqlServer.Server;
 using MultimediaStore.Interfaces;
 
 namespace MultimediaStore.Models
@@ -10,8 +11,23 @@ namespace MultimediaStore.Models
     class Rent:IRent
     {
         private Item item;
-        private RentState state;
-        private decimal rentFine;
+
+        public Rent(Item item, DateTime dateOfRent, DateTime deadLine)
+        {
+            this.Item = item;
+            this.DateOfRent = dateOfRent;
+            this.DeadLine = deadLine;
+        }
+
+        public Rent(Item item, DateTime dateOfRent):this(item,dateOfRent,dateOfRent.AddDays(30))
+        {
+            
+        }
+
+        public Rent(Item item):this(item,DateTime.Now,DateTime.Now.AddDays(30))
+        {
+            
+        }
 
         public Item Item
         {
@@ -26,20 +42,25 @@ namespace MultimediaStore.Models
             }
         }
 
-        public RentState State
+        public RentState StateRent
         {
-            get { return this.state; }
-            set
+            set { }
+            get
             {
-                if (DeadLine > DateOfReturn)
+                var now = DateTime.Now;
+
+                if (this.IsSetDate(this.DateOfReturn))
                 {
-                    state = RentState.overdue;
+                    return RentState.returned;
                 }
-                if (DateOfReturn < DeadLine)
+                else if (now > this.DeadLine)
                 {
-                    state = RentState.returned;
+                    return RentState.overdue;
                 }
-                this.state = value;
+                else
+                {
+                    return RentState.pending;
+                }
             }
         }
 
@@ -55,14 +76,29 @@ namespace MultimediaStore.Models
 
         public decimal RentFine
         {
-            get { return this.rentFine; }
-            set {
-                if (state==RentState.overdue)
-                {
-                    value = Convert.ToDecimal(DateOfReturn - DeadLine)*0.2m;
-                }
-                this.rentFine = value;
+            set { }
+            get
+            {
+                var date = this.IsSetDate(this.DateOfReturn) ? this.DateOfReturn : DateTime.Now;
+                decimal fine = (date - this.DeadLine).Days * this.Item.Price * 0.01m;
+
+                return Math.Max(fine, 0);
             }
+        }
+
+        private bool IsSetDate(DateTime dateTime)
+        {
+            return dateTime.Year > 1;
+        }
+
+        public void ReturnItem()
+        {
+            this.DateOfReturn = DateTime.Now;
+        }
+
+        public override string ToString()
+        {
+            return String.Format("Item{0}, Date of Rent:{1}, DeadLine:{2}", this.item, this.DateOfRent, this.DeadLine);
         }
     }
 }

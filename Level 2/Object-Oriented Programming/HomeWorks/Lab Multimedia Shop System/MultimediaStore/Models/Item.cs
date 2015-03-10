@@ -69,7 +69,7 @@ namespace MultimediaStore.Models
         public override string ToString()
         {
             StringBuilder result = new StringBuilder();
-            result.Append(String.Format("Id:{0}, Title:{1}, Price:{2:F2}, Genre:{3}", this.id, this.title, this.price, string.Join(", ", this.Genres)));
+            result.Append(String.Format("Id:{0}, Title:{1}, Price:{2:F2}$, Genre:{3}", this.id, this.title, this.price, string.Join(", ", this.Genres)));
 
             return result.ToString();
         }

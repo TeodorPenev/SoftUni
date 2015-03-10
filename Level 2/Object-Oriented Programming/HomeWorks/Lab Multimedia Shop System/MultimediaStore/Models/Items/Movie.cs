@@ -8,7 +8,6 @@ namespace MultimediaStore.Models
 {
     class Movie:Item
     {
-        private string genre;
         private int lenght;
         public Movie(string id, string title, decimal price,int lenght, List<string> genres) : base(id, title, price, genres)
         {
@@ -16,11 +15,16 @@ namespace MultimediaStore.Models
         }
 
         public Movie(string id, string title, decimal price,int lenght, string genre)
-            : base(id, title, price)
+            : base(id, title, price,new List<string>(){genre})
         {
             this.lenght = lenght;
-            this.genre = genre;
         }
 
+        public override string ToString()
+        {
+            StringBuilder result = new StringBuilder();
+            result.Append(String.Format("Lenght:{0}", this.lenght));
+            return base.ToString()+ ", "+result+"min.";
+        }
     }
 }

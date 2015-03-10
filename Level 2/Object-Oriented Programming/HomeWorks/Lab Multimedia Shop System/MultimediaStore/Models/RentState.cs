@@ -8,6 +8,6 @@ namespace MultimediaStore.Models
 {
     enum RentState
     {
-        returned,overdue
+        returned,overdue,pending
     }
 }

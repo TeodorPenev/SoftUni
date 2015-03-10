@@ -8,7 +8,7 @@ namespace MultimediaStore.Models
 {
     class Game:Item
     {
-        private string genre;
+        
         private AgeRestriction ageRestriction;
 
         public Game(string id, string title, decimal price, List<string> genres,AgeRestriction ageRestriction=AgeRestriction.Minor) : base(id, title, price, genres)
@@ -17,10 +17,17 @@ namespace MultimediaStore.Models
         }
 
         public Game(string id, string title, decimal price, string genre, AgeRestriction ageRestriction =AgeRestriction.Minor)
-            : base(id, title, price)
+            : base(id, title, price,new List<string>(){genre})
         {
             this.ageRestriction = ageRestriction;
-            this.genre = genre;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder result = new StringBuilder();
+            result.Append(string.Format("Age Restriction:{0}", ageRestriction));
+
+            return base.ToString() + ", " + result.ToString();
         }
     }
 }

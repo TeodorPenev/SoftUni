@@ -11,6 +11,16 @@ namespace MultimediaStore.Models
     {
         private Item item;
 
+        public Sale(Item item, DateTime dateOfPurchase)
+        {
+            this.Item = item;
+            this.DateOfPurchase = dateOfPurchase;
+        }
+
+        public Sale(Item item) : this(item, DateTime.Now)
+        {            
+        }
+
         public Item Item
         {
             get { return this.item; }
@@ -25,5 +35,11 @@ namespace MultimediaStore.Models
         }
 
         public DateTime DateOfPurchase { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("- {0} {1}\n{2}",
+                this.GetType().Name, this.DateOfPurchase, this.Item);
+        }
     }
 }
