@@ -9,7 +9,7 @@ namespace MultimediaStore.Interfaces
 {
     interface IRent
     {
-        Item Item { get; set; }
+        IItem Item { get; set; }
         RentState StateRent { get; set; }
         DateTime DateOfRent { get; set; }
         DateTime DeadLine { get; set; }

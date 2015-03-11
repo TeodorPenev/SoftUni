@@ -10,26 +10,26 @@ namespace MultimediaStore.Models
 {
     class Rent:IRent
     {
-        private Item item;
+        private IItem item;
 
-        public Rent(Item item, DateTime dateOfRent, DateTime deadLine)
+        public Rent(IItem item, DateTime dateOfRent, DateTime deadLine)
         {
             this.Item = item;
             this.DateOfRent = dateOfRent;
             this.DeadLine = deadLine;
         }
 
-        public Rent(Item item, DateTime dateOfRent):this(item,dateOfRent,dateOfRent.AddDays(30))
+        public Rent(IItem item, DateTime dateOfRent):this(item,dateOfRent,dateOfRent.AddDays(30))
         {
             
         }
 
-        public Rent(Item item):this(item,DateTime.Now,DateTime.Now.AddDays(30))
+        public Rent(IItem item):this(item,DateTime.Now,DateTime.Now.AddDays(30))
         {
             
         }
 
-        public Item Item
+        public IItem Item
         {
             get { return this.item; }
             set

@@ -41,9 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoreLogic\Exeptions\InsufficientSuppliesException.cs" />
     <Compile Include="CoreLogic\RentManager.cs" />
     <Compile Include="CoreLogic\SaleManager.cs" />
-    <Compile Include="CoreLogic\ShopEngine.cs" />
+    <Compile Include="CoreLogic\Engine.cs" />
     <Compile Include="Interfaces\IItem.cs" />
     <Compile Include="Interfaces\IRent.cs" />
     <Compile Include="Interfaces\ISale.cs" />

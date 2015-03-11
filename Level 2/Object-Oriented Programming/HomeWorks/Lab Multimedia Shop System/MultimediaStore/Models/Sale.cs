@@ -9,19 +9,19 @@ namespace MultimediaStore.Models
 {
     class Sale:ISale
     {
-        private Item item;
+        private IItem item;
 
-        public Sale(Item item, DateTime dateOfPurchase)
+        public Sale(IItem item, DateTime dateOfPurchase)
         {
             this.Item = item;
             this.DateOfPurchase = dateOfPurchase;
         }
 
-        public Sale(Item item) : this(item, DateTime.Now)
+        public Sale(IItem item) : this(item, DateTime.Now)
         {            
         }
 
-        public Item Item
+        public IItem Item
         {
             get { return this.item; }
             set

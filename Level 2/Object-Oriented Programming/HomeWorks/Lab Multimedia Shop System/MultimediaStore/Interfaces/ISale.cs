@@ -9,7 +9,7 @@ namespace MultimediaStore.Interfaces
 {
     interface ISale
     {
-        Item Item { get; set; }
+        IItem Item { get; set; }
         DateTime DateOfPurchase { get; set; }
     }
 }
