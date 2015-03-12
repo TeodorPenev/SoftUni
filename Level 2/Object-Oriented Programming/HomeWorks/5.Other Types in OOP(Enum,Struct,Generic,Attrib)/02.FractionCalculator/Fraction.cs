@@ -10,8 +10,6 @@ namespace _02.FractionCalculator
     {
         private long numerator;
         private long denominator;
-        private long result;
-
 
         public Fraction(long numerator,long denominator):this()
         {
