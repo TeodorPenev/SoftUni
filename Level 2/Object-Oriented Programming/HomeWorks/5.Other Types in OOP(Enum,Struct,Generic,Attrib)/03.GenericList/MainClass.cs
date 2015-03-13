@@ -20,7 +20,7 @@ namespace _03.GenericList
             test.RemoveAt(1);
             Console.WriteLine(test);
 
-            var index = test.FindElementIndex(2);
+            test.FindElementIndex(2);
             Console.WriteLine(test);
 
             Console.WriteLine(test.Countains(100));
