@@ -39,7 +39,7 @@ namespace _02.AsynchronousTimer
         public int Ticks
         {
             get { return this.ticks; }
-            set { this.ticks = value; }
+            set { this.ticks=value;}
         }
     }
 }
