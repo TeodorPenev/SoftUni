@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.StringBuilderExtensions"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CustomLINQExtensionMethods", "02.CustomLINQExtensionMethods\02.CustomLINQExtensionMethods.csproj", "{50810CCC-A29D-4B99-828A-25512E5A947F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-14.ClassStudent", "03.ClassStudent\03-14.ClassStudent.csproj", "{4C75D0B0-EF2C-49BE-B864-C0FB8315C57F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50810CCC-A29D-4B99-828A-25512E5A947F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50810CCC-A29D-4B99-828A-25512E5A947F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50810CCC-A29D-4B99-828A-25512E5A947F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C75D0B0-EF2C-49BE-B864-C0FB8315C57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C75D0B0-EF2C-49BE-B864-C0FB8315C57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C75D0B0-EF2C-49BE-B864-C0FB8315C57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C75D0B0-EF2C-49BE-B864-C0FB8315C57F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
