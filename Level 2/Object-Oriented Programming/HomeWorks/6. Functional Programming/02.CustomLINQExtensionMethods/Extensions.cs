@@ -39,16 +39,5 @@ namespace _02.CustomLINQExtensionMethods
 
            return results;
        } 
-
-
-
-
-
-
-
-
-
-
-
     }
 }
