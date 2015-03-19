@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("04.StudentsByGroup")]
+[assembly: AssemblyTitle("15.LINQTOExcel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("04.StudentsByGroup")]
+[assembly: AssemblyProduct("15.LINQTOExcel")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("26f64ec1-9b67-43e3-9115-b3b2d0165e22")]
+[assembly: Guid("77bfb212-4214-4bd9-abba-8e47c31795a2")]
 
 // Version information for an assembly consists of the following four values:
 //

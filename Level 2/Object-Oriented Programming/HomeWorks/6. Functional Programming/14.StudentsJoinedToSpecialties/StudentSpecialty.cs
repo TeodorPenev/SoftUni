@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _14.StudentsJoinedToSpecialties
 {
@@ -17,8 +14,8 @@ namespace _14.StudentsJoinedToSpecialties
 
         public StudentSpecialty(string specialityName, int facultyNumber)
         {
-            this.SpecialityName = specialityName;
-            this.FacultyNumber = facultyNumber;
+            SpecialityName = specialityName;
+            FacultyNumber = facultyNumber;
         }
 
         public string SpecialityName { get; set; }
@@ -26,8 +23,8 @@ namespace _14.StudentsJoinedToSpecialties
 
         public override string ToString()
         {
-            string result = String.Format("Speciality Name: {0}, Faculty Number: {1}", this.SpecialityName,
-                this.FacultyNumber);
+            string result = String.Format("Speciality Name: {0}, Faculty Number: {1}", SpecialityName,
+                FacultyNumber);
             return result;
         }
     }
