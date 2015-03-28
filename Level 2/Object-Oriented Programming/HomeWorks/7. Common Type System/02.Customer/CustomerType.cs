@@ -5,7 +5,11 @@ using System.Text;
 
 namespace _02.Customer
 {
-    class CustomerType
+    enum CustomerType
     {
+        Onetime,
+        Regular,
+        Golden,
+        Diamond
     }
 }

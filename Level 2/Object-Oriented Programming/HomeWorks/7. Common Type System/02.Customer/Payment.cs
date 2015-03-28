@@ -6,8 +6,5 @@ namespace _02.Customer
     {
         private List<payments> paymentses;
 
-        public Payment()
-        {
-        }
     }
 }
