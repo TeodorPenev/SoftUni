@@ -1,0 +1,82 @@
+﻿body{
+    color:white;   
+   background: -webkit-linear-gradient(black 20%, gray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(black 20%, gray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(black 20%,gray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(black 20%,gray); /* Standard syntax (must be last) */
+}
+
+#main-text{
+ position: absolute;
+    top:50px;
+    left:1100px;
+    color: rgba(255, 255, 255,0.7);
+}
+
+#main-image img{
+    width:70%;
+    padding-left:250px;
+    padding-top:20px;
+}
+
+#info-col-1 {
+    float:left;
+    width:100px;
+    padding-left:150px;
+}
+
+#info-col-2 {
+    float:left;
+    width:800px;
+    padding-right:100px;
+    padding-left:100px;
+}
+
+#info-col-3{
+    float:left;
+    width:150px;
+}
+
+hr{
+    float:left;
+    width:100%;
+    color:white;
+}
+
+#skills{
+padding-left:25%;
+
+}
+
+#skills-col-1 {
+    float:left;
+    width:100px;
+    padding-left:150px;
+}
+
+#skills-col-2 {
+    float:left;
+    width:900px;
+    padding-right:100px;
+    padding-left:100px;
+}
+
+#element{
+    float:left;
+    padding-right:30px;
+}
+
+#skill{
+   background-color:white;
+   border:1px solid #278eaa;
+}
+
+footer{
+float:right;
+}
+
+#name{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:larger;
+    color:#ee6d3c;
+}
