@@ -1,4 +1,5 @@
-﻿namespace EnvironmentSystem.Models.Objects
+﻿using System.Collections.Generic;
+namespace EnvironmentSystem.Models.Objects
 {
     public class Snowflake : MovingObject
     {
@@ -23,6 +24,17 @@
             {
                 this.Exists = false;
             }
+        }
+
+        public override IEnumerable<EnvironmentObject> ProduceObjects()
+        {
+            List<EnvironmentObject> producedObjects = new List<EnvironmentObject>();
+            if (!this.Exists)
+            {
+                producedObjects.Add(new Snow(this.Bounds.TopLeft.X, this.Bounds.TopLeft.Y - 1, 1, 1));
+            }
+
+            return producedObjects;
         }
     }
 }
