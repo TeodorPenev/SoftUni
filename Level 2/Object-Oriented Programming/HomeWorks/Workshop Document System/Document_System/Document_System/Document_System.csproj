@@ -47,6 +47,7 @@
     <Compile Include="Element.cs" />
     <Compile Include="Font.cs" />
     <Compile Include="FontStyle.cs" />
+    <Compile Include="IHtmlRenderer.cs" />
     <Compile Include="Paragraph.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="TextElement.cs" />

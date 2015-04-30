@@ -7,11 +7,13 @@ namespace Document_System
 {
     public class Color
     {
-        public static  Color Red {get{return new Color(255, 50, 50);}}
+        public static Color Red { get { return new Color(255, 50, 50); } }
 
-        public static  Color Green {get{return new Color(255, 50, 50);}}
+        public static Color Green { get { return new Color(50, 255, 50); } }
 
-        public static  Color Blue {get{return new Color(255, 50, 50);}}
+        public static Color Blue { get { return new Color(50, 50, 255); } }
+
+        public static Color Black { get { return new Color(0, 0, 0); } }
 
         public byte RedValue { get; set; }
 
@@ -25,6 +27,8 @@ namespace Document_System
             this.GreenValue = green;
             this.BlueValue = blue;
         }
-        
+
+
+
     }
 }

@@ -10,7 +10,7 @@ namespace Document_System
         public const string DefaultFontName = "Arial";
         public const float DefaultFontSize = 12;
         public const FontStyle DefaultFontStyle = FontStyle.Normal;
-        public const Color DefaultFontColor = Color.Black;
+        public static Color DefaultFontColor { get{return Color.Black;}}
 
         public static Font DefaultFont { get { return new Font(DefaultFontName, DefaultFontSize, DefaultFontStyle, DefaultFontColor); } }
 

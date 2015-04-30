@@ -17,6 +17,11 @@ namespace Document_System
             Console.WriteLine(my.GreenValue);
             Color other = Color.Blue;
             Console.WriteLine(other.GreenValue);
+
+            Document doc = new Document();
+            doc.Title = "My First Document";
+            doc.Author = "Tedo";
+            doc.Add(new Paragraph("I am a ninja"),Font.DefaultFont);
         }
     }
 }
