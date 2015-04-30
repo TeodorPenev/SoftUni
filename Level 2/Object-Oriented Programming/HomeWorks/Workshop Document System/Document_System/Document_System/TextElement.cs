@@ -5,7 +5,10 @@ using System.Text;
 
 namespace Document_System
 {
-    class TextElement
+    public class TextElement : Element
     {
+        public string Text { get; set; }
+
+        public Font Font { get; set; }
     }
 }

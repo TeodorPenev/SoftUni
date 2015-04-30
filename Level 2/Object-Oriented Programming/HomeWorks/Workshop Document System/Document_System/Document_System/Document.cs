@@ -5,7 +5,9 @@ using System.Text;
 
 namespace Document_System
 {
-    class Document
+    public class Document : CompositeElement
     {
+        public string Title { get; set; }
+        public string Autour { get; set; }
     }
 }
