@@ -2,10 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Web;
 
 namespace Document_System
 {
-    class StringExtensions
+   public static class StringExtensions
     {
+      public static string HtmlEncode(this string str)
+       {
+           return HttpUtility.HtmlEncode(str);
+       }
     }
 }

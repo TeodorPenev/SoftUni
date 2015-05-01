@@ -9,6 +9,16 @@ namespace Document_System
 {
     public abstract class Element : IHtmlRenderer
     {
-        public abstract void RenderHtml(TextWriter writer);    
+        public abstract void RenderHtml(TextWriter writer);
+
+        public string AsHTML
+        {
+            get
+            {
+                StringWriter writer = new StringWriter();
+                this.RenderHtml(writer);
+                return writer.ToString();
+            }
+        }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 
@@ -27,6 +28,13 @@ namespace Document_System
                 this.ChildElement.Add(element);
             }
         }
-        
+
+        public override void RenderHtml(TextWriter writer)
+        {
+            foreach (var element in this.ChildElement)
+            {
+                element.RenderHtml(writer);
+            }
+        }
     }
 }

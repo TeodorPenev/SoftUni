@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
+using System.Web;
 
 namespace Document_System
 {
@@ -15,6 +17,12 @@ namespace Document_System
         {
             this.Text = text;
             this.Font = font;
+        }
+
+        public override void RenderHtml(TextWriter writer)
+        {
+            writer.Write(this.Text.HtmlEncode());
+            
         }
     }
 }
