@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document_System", "Document_System\Document_System.csproj", "{565B4308-E651-4202-808A-1D55010759DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document_System_Example", "Document-System-Example\Document_System_Example.csproj", "{3254DAEA-6734-4E6F-87D6-F85A70BF3E4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{565B4308-E651-4202-808A-1D55010759DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{565B4308-E651-4202-808A-1D55010759DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{565B4308-E651-4202-808A-1D55010759DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3254DAEA-6734-4E6F-87D6-F85A70BF3E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3254DAEA-6734-4E6F-87D6-F85A70BF3E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3254DAEA-6734-4E6F-87D6-F85A70BF3E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3254DAEA-6734-4E6F-87D6-F85A70BF3E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

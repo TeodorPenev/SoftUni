@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Document_System
+namespace Document_System.Structure
 {
     [Flags]
     public enum FontStyle

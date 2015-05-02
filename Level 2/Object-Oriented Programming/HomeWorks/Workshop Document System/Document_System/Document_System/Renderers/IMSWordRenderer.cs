@@ -4,10 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace Document_System
+namespace Document_System.Renderers
 {
-    public interface IHtmlRenderer
+    public interface IMSWordRenderer
     {
-        void RenderHtml(TextWriter writer);
+        void RenderMsWord(Stream stream);
     }
 }

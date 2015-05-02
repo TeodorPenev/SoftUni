@@ -4,8 +4,10 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using Document_System.Renderers;
 
-namespace Document_System
+
+namespace Document_System.Structure
 {
     public abstract class Element : IHtmlRenderer,ITextRenderer
     {

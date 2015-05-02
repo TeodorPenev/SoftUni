@@ -4,8 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Web;
+using Document_System.Utils;
 
-namespace Document_System
+
+namespace Document_System.Structure
 {
     public class TextElement : Element
     {

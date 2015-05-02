@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Web;
 
-namespace Document_System
+namespace Document_System.Utils
 {
    public static class StringExtensions
     {
