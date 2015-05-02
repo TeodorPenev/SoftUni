@@ -40,11 +40,8 @@ namespace Document_System
             doc.RenderHtml(Console.Out);
             //Console.WriteLine(doc.AsHTML);
 
-            
-
             doc.Add(Image.CreateFromFile("../../logo.png"));
             File.WriteAllText("document.html", doc.AsHTML);
-
         }
     }
 }

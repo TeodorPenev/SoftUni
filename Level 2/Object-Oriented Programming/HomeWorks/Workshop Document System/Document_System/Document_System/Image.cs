@@ -26,7 +26,6 @@ namespace Document_System
            return image;
         }
 
-
        public override void RenderHtml(TextWriter writer)
        {
            writer.Write("<img src='data:{0};base64, {1}'/>", this.Type.ContentType, Convert.ToBase64String(this.Data));
