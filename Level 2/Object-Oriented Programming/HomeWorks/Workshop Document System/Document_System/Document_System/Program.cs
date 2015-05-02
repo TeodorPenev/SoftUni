@@ -42,6 +42,8 @@ namespace Document_System
 
             doc.Add(Image.CreateFromFile("../../logo.png"));
             File.WriteAllText("document.html", doc.AsHTML);
+
+            Console.WriteLine(doc.AsText);
         }
     }
 }

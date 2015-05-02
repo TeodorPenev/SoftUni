@@ -26,5 +26,12 @@ namespace Document_System
             base.RenderHtml(writer);
             writer.Write("</p>");
         }
+
+        public override void RenderText(TextWriter writer)
+        {
+            writer.WriteLine();
+            base.RenderText(writer);
+            writer.WriteLine();
+        }
     }
 }

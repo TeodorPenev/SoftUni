@@ -31,5 +31,18 @@ namespace Document_System
             writer.WriteLine("</body>");
             writer.WriteLine("</html>");
         }
+
+        public override void RenderText(TextWriter writer)
+        {
+            if (this.Title != null)
+            {
+                writer.WriteLine("Title: {0}", this.Title);
+            }
+            if (this.Author != null)
+            {
+                writer.WriteLine("Author: {0}", this.Author);
+            }
+            base.RenderText(writer);
+        }
     }
 }

@@ -8,7 +8,7 @@ namespace Document_System
 {
     public class CompositeElement : Element
     {
-        public IList<Element> ChildElement { get; set; }
+        private IList<Element> ChildElement { get; set; }
 
         public CompositeElement()
         {
@@ -34,6 +34,14 @@ namespace Document_System
             foreach (var element in this.ChildElement)
             {
                 element.RenderHtml(writer);
+            }
+        }
+
+        public override void RenderText(TextWriter writer)
+        {
+            foreach (var element in this.ChildElement)
+            {
+                element.RenderText(writer);
             }
         }
     }

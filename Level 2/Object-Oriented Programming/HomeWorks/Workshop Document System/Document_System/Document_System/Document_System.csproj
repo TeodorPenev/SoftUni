@@ -48,6 +48,8 @@
     <Compile Include="Element.cs" />
     <Compile Include="Font.cs" />
     <Compile Include="FontStyle.cs" />
+    <Compile Include="IMSWordRenderer.cs" />
+    <Compile Include="ITextRenderer.cs" />
     <Compile Include="IHtmlRenderer.cs" />
     <Compile Include="Image.cs" />
     <Compile Include="ImageType.cs" />

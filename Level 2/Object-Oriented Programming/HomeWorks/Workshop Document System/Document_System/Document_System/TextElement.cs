@@ -33,5 +33,10 @@ namespace Document_System
                 writer.Write("</span>");
             }
         }
+
+        public override void RenderText(TextWriter writer)
+        {
+            writer.Write(this.Text);
+        }
     }
 }
