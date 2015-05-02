@@ -49,6 +49,8 @@
     <Compile Include="Font.cs" />
     <Compile Include="FontStyle.cs" />
     <Compile Include="IHtmlRenderer.cs" />
+    <Compile Include="Image.cs" />
+    <Compile Include="ImageType.cs" />
     <Compile Include="Paragraph.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="StringExtensions.cs" />

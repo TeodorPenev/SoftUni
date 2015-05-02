@@ -22,20 +22,25 @@ namespace Document_System
             Document doc = new Document();
             doc.Title = "My First Document";
             doc.Author = "Tedo";
-            doc.Add(new Paragraph("I am a ninja"));
-            doc.Add(new Paragraph("I am programmer ninja"));
+            doc.Add(new Paragraph("I am a ninja."));
+            doc.Add(new Paragraph("I am programmer ninja."));
             doc.RenderHtml(Console.Out);
-            Console.WriteLine(doc.AsHTML);
 
             Paragraph numP = new Paragraph();
-            numP.Add(new TextElement("First"));
-            numP.Add(new TextElement("Second"));
-            numP.Add(new TextElement("Third"));
+            numP.Add(new TextElement("Defaut Font",Font.DefaultFont));
+            numP.Add(new TextElement("Second Red",new Font(color: Color.Red)));
+            numP.Add(new TextElement("Green Bold Italic", 
+                new Font(
+                color: Color.Blue,
+                style: FontStyle.BoldItalic,
+                name: "Consolas")));
             doc.Add(numP);
 
+            Console.WriteLine(doc.AsHTML);
             doc.RenderHtml(Console.Out);
             File.WriteAllText("document.html", doc.AsHTML);
 
+           
 
         }
     }

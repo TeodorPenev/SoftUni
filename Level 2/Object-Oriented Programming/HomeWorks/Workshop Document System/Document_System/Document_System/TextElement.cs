@@ -21,8 +21,11 @@ namespace Document_System
 
         public override void RenderHtml(TextWriter writer)
         {
+            if (this.Font != null)
+            {
             writer.Write(this.Text.HtmlEncode());
-            
+            }
+            writer.Write(this.Text.HtmlEncode());
         }
     }
 }

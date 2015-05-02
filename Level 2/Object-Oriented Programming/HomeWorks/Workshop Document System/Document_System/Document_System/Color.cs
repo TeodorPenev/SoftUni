@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 
 namespace Document_System
 {
-    public class Color
+    public class Color : IHtmlRenderer
     {
         public static Color Red { get { return new Color(255, 50, 50); } }
 
@@ -28,7 +29,12 @@ namespace Document_System
             this.BlueValue = blue;
         }
 
-
-
+        public void RenderHtml(TextWriter writer)
+        {
+            writer.Write("#" +
+                this.RedValue.ToString("X2") +
+                this.GreenValue.ToString("X2") +
+                this.BlueValue.ToString("X2"));
+        }
     }
 }
