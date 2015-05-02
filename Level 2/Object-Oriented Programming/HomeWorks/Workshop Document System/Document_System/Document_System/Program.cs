@@ -11,7 +11,7 @@ namespace Document_System
         static void Main()
         {
             //Document doc = new Document();
-            ////doc.Add(new Paragraph("I am a paragraph"));
+            //doc.Add(new Paragraph("I am a paragraph"));
             //Color my = Color.Blue;
             //Console.WriteLine(my.GreenValue);
             //my.GreenValue = 112;
@@ -24,23 +24,26 @@ namespace Document_System
             doc.Author = "Tedo";
             doc.Add(new Paragraph("I am a ninja."));
             doc.Add(new Paragraph("I am programmer ninja."));
-            doc.RenderHtml(Console.Out);
+            //doc.RenderHtml(Console.Out);
+            //File.WriteAllText("document.html", doc.AsHTML);
 
             Paragraph numP = new Paragraph();
             numP.Add(new TextElement("Defaut Font",Font.DefaultFont));
             numP.Add(new TextElement("Second Red",new Font(color: Color.Red)));
             numP.Add(new TextElement("Green Bold Italic", 
                 new Font(
-                color: Color.Blue,
+                color: Color.Green,
                 style: FontStyle.BoldItalic,
                 name: "Consolas")));
+            
             doc.Add(numP);
-
-            Console.WriteLine(doc.AsHTML);
             doc.RenderHtml(Console.Out);
-            File.WriteAllText("document.html", doc.AsHTML);
+            //Console.WriteLine(doc.AsHTML);
 
-           
+            
+
+            doc.Add(Image.CreateFromFile("../../logo.png"));
+            File.WriteAllText("document.html", doc.AsHTML);
 
         }
     }

@@ -23,9 +23,15 @@ namespace Document_System
         {
             if (this.Font != null)
             {
-            writer.Write(this.Text.HtmlEncode());
+                writer.Write("<span style='");
+                this.Font.RenderHtml(writer);
+                writer.Write("'>");
             }
             writer.Write(this.Text.HtmlEncode());
+            if (this.Font != null)
+            {
+                writer.Write("</span>");
+            }
         }
     }
 }

@@ -47,7 +47,8 @@ namespace Document_System
             {
                 writer.Write("color:");
                 this.Color.RenderHtml(writer);
-                writer.Write("color:");
+                writer.Write(";");
+                
             }
 
             if ((this.Style & FontStyle.Bold) == FontStyle.Bold)
