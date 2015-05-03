@@ -54,6 +54,8 @@
     <Compile Include="Renderers\IMSWordRenderer.cs" />
     <Compile Include="Renderers\ITextRenderer.cs" />
     <Compile Include="Renderers\IHtmlRenderer.cs" />
+    <Compile Include="Structure\Heading.cs" />
+    <Compile Include="Structure\Hyperlink.cs" />
     <Compile Include="Structure\Image.cs" />
     <Compile Include="Structure\ImageType.cs" />
     <Compile Include="Structure\Paragraph.cs" />

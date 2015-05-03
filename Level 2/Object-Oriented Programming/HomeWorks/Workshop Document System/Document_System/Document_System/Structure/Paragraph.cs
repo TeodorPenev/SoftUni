@@ -23,6 +23,7 @@ namespace Document_System.Structure
 
         public override void RenderHtml(TextWriter writer)
         {
+            writer.WriteLine();
             writer.Write("<p>");
             base.RenderHtml(writer);
             writer.Write("</p>");

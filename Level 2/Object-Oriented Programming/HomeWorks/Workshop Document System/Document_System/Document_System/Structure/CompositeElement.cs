@@ -9,7 +9,7 @@ namespace Document_System.Structure
 {
     public class CompositeElement : Element
     {
-        private IList<Element> ChildElement { get; set; }
+        protected IList<Element> ChildElement { get; set; }
 
         public CompositeElement()
         {
