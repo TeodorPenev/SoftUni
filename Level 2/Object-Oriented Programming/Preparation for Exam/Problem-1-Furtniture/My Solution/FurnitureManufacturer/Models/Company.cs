@@ -7,12 +7,14 @@ using FurnitureManufacturer.Interfaces;
 
 namespace FurnitureManufacturer.Models
 {
-    class Companies:ICompany
+    class Company : ICompany
     {
-        protected string name;
-        protected string registrationNumber;
+        private string name;
+        private string registratioNumber;
+        private ICollection<IFurniture> furnitures = new List<IFurniture>();
 
-        public Companies(string name,string registrationNumber)
+
+        public Company(string name, string registrationNumber)
         {
             this.Name = name;
             this.RegistrationNumber = registrationNumber;
@@ -23,9 +25,9 @@ namespace FurnitureManufacturer.Models
             get { return this.name; }
             set
             {
-                if (string.IsNullOrEmpty(value) || value.Length<5)
+                if (string.IsNullOrEmpty(value) || value.Length < 5)
                 {
-                    throw new ArgumentNullException("Invalid command name: {0}",value);
+                    throw new ArgumentNullException("Name cannot be empty, null or with less than 5 symbols.");
                 }
                 this.name = value;
             }
@@ -33,46 +35,61 @@ namespace FurnitureManufacturer.Models
 
         public string RegistrationNumber
         {
-            get { return this.RegistrationNumber; }
-
+            get { return this.registratioNumber; }
             set
             {
-                if (value.Length!=10 || Isletter(string value))
+                if (value.Length != 10 || checkLetter(value))
                 {
-                    
+                    throw new ArgumentException("Registration number must be exactly 10 symbols and must contain only digits.");
                 }
-                
             }
         }
 
-        private bool Isletter(object o)
+        private bool checkLetter(string inputString)
         {
-            
+            foreach (var inputChar in inputString)
+            {
+                if (Char.IsLetter(inputChar))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         public ICollection<IFurniture> Furnitures
         {
-            get { throw new NotImplementedException(); }
+            get { return this.furnitures; }
         }
 
         public void Add(IFurniture furniture)
         {
-            throw new NotImplementedException();
+            furnitures.Add(furniture);
         }
 
         public void Remove(IFurniture furniture)
         {
-            throw new NotImplementedException();
+            furnitures.Remove(furniture);
         }
 
         public IFurniture Find(string model)
         {
-            throw new NotImplementedException();
+            var match = furnitures.Where(f => f.Model.ToLower() == model.ToLower());
+            return (IFurniture)match;
         }
 
         public string Catalog()
         {
-            throw new NotImplementedException();
+            var catalog = furnitures.OrderBy(f => f.Price).ThenBy(f => f.Model);
+            return string.Format("{0} - {1} - {2} {3}",
+                this.Name, this.RegistrationNumber,
+                this.furnitures.Count != 0 ? this.Furnitures.Count.ToString() : "no",
+                this.furnitures.Count != 1 ? "furnitures" : "furniture"
+                );
+            //foreach (var furniture in catalog)
+            //{
+                
+            //}
         }
     }
 }
