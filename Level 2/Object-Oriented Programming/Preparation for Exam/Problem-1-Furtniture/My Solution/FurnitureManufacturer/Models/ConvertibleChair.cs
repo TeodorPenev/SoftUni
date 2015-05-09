@@ -38,5 +38,11 @@ namespace FurnitureManufacturer.Models
                 base.Height = initialValue;
             }
         }
+
+        public override string ToString()
+        {
+            return base.ToString() +
+                   string.Format(", Legs: {0}, State: {1}", this.NumberOfLegs, this.IsConverted ? "Converted" : "Normal");
+        }
     }
 }

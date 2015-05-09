@@ -25,5 +25,10 @@ namespace FurnitureManufacturer.Models
         {
             get { return this.Length*this.Width; }
         }
+
+        public override string ToString()
+        {
+            return base.ToString()+ string.Format(", Length: {0}, Width: {1}, Area: {2}",this.Length,this.Width,this.Area );
+        }
     }
 }
