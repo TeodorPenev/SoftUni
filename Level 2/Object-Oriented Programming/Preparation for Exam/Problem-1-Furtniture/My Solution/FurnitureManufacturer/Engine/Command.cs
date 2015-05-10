@@ -15,7 +15,7 @@
         private string name;
         private IList<string> parameters;
 
-        private Command(string input)
+      private Command(string input)
         {
             this.TranslateInput(input);
         }

@@ -76,7 +76,7 @@ namespace FurnitureManufacturer.Models
 
         public IFurniture Find(string model)
         {
-            return furnitures.FirstOrDefault(furniture => furniture.Model == model);
+            return furnitures.FirstOrDefault(furniture => furniture.Model.ToLower() == model.ToLower());
         }
 
         public string Catalog()
