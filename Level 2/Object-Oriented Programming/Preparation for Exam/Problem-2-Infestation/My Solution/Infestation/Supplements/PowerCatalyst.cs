@@ -12,7 +12,7 @@ namespace Infestation.Supplements
         private const int health = 0;
         private const int aggression = 0;
 
-        public PowerCatalyst(string name):base(name,PowerCatalyst.power,PowerCatalyst.health,PowerCatalyst.aggression)
+        public PowerCatalyst():base(PowerCatalyst.power,PowerCatalyst.health,PowerCatalyst.aggression)
         {
             
         }

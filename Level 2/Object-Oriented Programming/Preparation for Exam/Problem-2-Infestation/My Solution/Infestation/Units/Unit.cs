@@ -95,10 +95,10 @@ namespace Infestation.Units
 
         public virtual void AddSupplement(ISupplement newSupplement)
         {
-            foreach (var supplement in this.supplements)
-            {
-                newSupplement.ReactTo(supplement);
-            }
+            //foreach (var supplement in this.supplements)
+            //{
+            //    newSupplement.ReactTo(supplement);
+            //}
 
             this.supplements.Add(newSupplement);
         }
