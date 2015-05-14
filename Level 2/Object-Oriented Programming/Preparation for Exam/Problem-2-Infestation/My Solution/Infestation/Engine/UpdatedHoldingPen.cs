@@ -9,10 +9,11 @@ namespace Infestation.Engine
 {
     internal class UpdatedHoldingPen :HoldingPen
     {
+        CatalistsBase power;
+        Unit unit;
         protected override void ExecuteAddSupplementCommand(string[] commandWords)
         {
-            CatalistsBase power;
-            Unit unit;
+            
             switch (commandWords[1])
             {
                 case "PowerCatalyst":
@@ -30,10 +31,6 @@ namespace Infestation.Engine
                     unit = GetUnit(commandWords[2]);
                     unit.AddSupplement(power);
                     break;
-                case "Tank":
-                    var tank = new Tank(commandWords[2]);
-                    this.InsertUnit(tank);
-                    break;
                 default:
                     break;
             }
@@ -46,6 +43,13 @@ namespace Infestation.Engine
                 case "Tank":
                     var tank = new Tank(commandWords[2]);
                     this.InsertUnit(tank);
+                    break;
+                case "Marine":
+                    var marine = new Marine(commandWords[2]);
+                    this.InsertUnit(marine);
+                    power = new WeaponrySkill();
+                    unit = GetUnit(commandWords[2]);
+                    unit.AddSupplement(power);
                     break;
                 default:
                     base.ExecuteInsertUnitCommand(commandWords);

@@ -27,7 +27,6 @@ namespace Infestation.Units
                 {
                     supplementsBonus += supplement.HealthEffect;
                 }
-
                 return this.baseHealth + supplementsBonus;
             }
         }
