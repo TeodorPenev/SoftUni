@@ -98,7 +98,7 @@ namespace Infestation.Units
             //{
             //    newSupplement.ReactTo(supplement);
             //}
-
+            
             this.supplements.Add(newSupplement);
         }
 

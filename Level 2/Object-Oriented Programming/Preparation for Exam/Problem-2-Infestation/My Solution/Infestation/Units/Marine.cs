@@ -8,6 +8,7 @@ namespace Infestation.Units
 {
     class Marine:Human
     {
+        private int counter;
         public Marine(string id) : base(id)
         {
 
@@ -15,15 +16,21 @@ namespace Infestation.Units
 
         protected override UnitInfo GetOptimalAttackableUnit(IEnumerable<UnitInfo> attackableUnits)
         {
-            //This method finds the unit with the least power and attacks it
             UnitInfo optimalAttackableUnit = new UnitInfo(null, UnitClassification.Unknown, 0, int.MaxValue, 0);
 
             foreach (var unit in attackableUnits)
             {
                 if (unit.Power <= Marine.HumanAggression)
                 {
-                    optimalAttackableUnit = unit;
+                    counter++;
                 }
+            }
+            if (counter >= 2)
+            {
+                var itemMaxHealth = attackableUnits.Max(y => y.Health);
+                var itemMax = attackableUnits.Where(x => x.Health == itemMaxHealth);
+
+                optimalAttackableUnit = (UnitInfo)itemMax.First();
             }
 
             return optimalAttackableUnit;
