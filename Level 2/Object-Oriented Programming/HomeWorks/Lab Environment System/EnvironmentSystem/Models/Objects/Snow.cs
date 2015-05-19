@@ -5,16 +5,10 @@
 
     public class Snow : EnvironmentObject
     {
-        public Snow(int x, int y, int width, int height)
-            : this(new Rectangle(x, y, width, height))
-        {
-        }
-
-        public Snow(Rectangle rect)
-            : base(rect)
+        public Snow(int x, int y):base(x,y,1,1)
+            
         {
             this.ImageProfile = new char[,] { { '.' } };
-            this.CollisionGroup = CollisionGroup.Snow;
         }
 
         public override void Update()

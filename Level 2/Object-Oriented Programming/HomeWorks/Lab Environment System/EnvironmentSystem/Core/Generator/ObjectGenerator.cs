@@ -24,7 +24,14 @@
         /// <param name="objects"></param>
         public void Initiliaze(List<EnvironmentObject> objects)
         {
-            objects.Add(new Ground(0, 25, 50, 2));
+            Random rnd = new Random();
+            for (int i = 0; i < 10; i++)
+            {
+                int x = rnd.Next(0, this.WorldWidth);
+                int y = rnd.Next(0, 10);
+                objects.Add(new Star(x,y));
+            }
+            //objects.Add(new Ground(0, 25, 50, 2));
         }
 
         /// <summary>
