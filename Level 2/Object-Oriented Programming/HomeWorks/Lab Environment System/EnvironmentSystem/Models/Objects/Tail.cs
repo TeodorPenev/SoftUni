@@ -8,7 +8,7 @@ using EnvironmentSystem.Models.Data.Structures;
 
 namespace EnvironmentSystem.Models.Objects
 {
-    class Tail:EnvironmentObject
+    public class Tail:EnvironmentObject
     {
         private int lifetime;
         private static readonly char[,] TailCharImage = {{'*'}};
@@ -23,7 +23,6 @@ namespace EnvironmentSystem.Models.Objects
         public override void Update()
         {
             this.lifetime--;
-
             if (lifetime <= 0)
             {
                 this.Exists = false;

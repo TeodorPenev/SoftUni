@@ -32,7 +32,7 @@
                 objects.Add(new Star(x,y));
             }
             objects.Add(new Ground(0, 25, 50, 2));
-            objects.Add(new FallingStar(0,0,new Point(1,1)));
+            objects.Add(new UnstableStar(0,0,new Point(1,1)));
         }
 
         /// <summary>

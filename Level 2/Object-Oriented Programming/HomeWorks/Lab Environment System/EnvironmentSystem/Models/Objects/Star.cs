@@ -31,6 +31,11 @@ namespace EnvironmentSystem.Models.Objects
 
         public override void RespondToCollision(CollisionInfo collisionInfo)
         {
+            var hitObject = collisionInfo.HitObject;
+            if (hitObject is Explosion)
+            {
+                this.Exists = false;
+            }
         }
 
         public override IEnumerable<EnvironmentObject> ProduceObjects()

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EnvironmentSystem.Models.Objects
 {
-    class FallingStar:MovingObject
+    public class FallingStar:MovingObject
     {
         protected const char FallingStarCharImage = '#';
 
@@ -18,7 +18,7 @@ namespace EnvironmentSystem.Models.Objects
         public override void RespondToCollision(CollisionInfo collisionInfo)
         {
             var hitObjectGroup = collisionInfo.HitObject;
-            if (hitObjectGroup is Ground)
+            if (hitObjectGroup is Ground || hitObjectGroup is Explosion)
             {
                 this.Exists = false;
             }
