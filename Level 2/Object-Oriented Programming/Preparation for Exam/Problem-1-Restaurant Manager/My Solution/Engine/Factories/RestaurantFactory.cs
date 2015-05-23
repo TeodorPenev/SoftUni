@@ -1,4 +1,6 @@
-﻿namespace RestaurantManager.Engine.Factories
+﻿using RestaurantManager.Models;
+
+namespace RestaurantManager.Engine.Factories
 {
     using System;
     using RestaurantManager.Interfaces.Engine;
@@ -7,8 +9,7 @@
     {
         public Interfaces.IRestaurant CreateRestaurant(string name, string location)
         {
-            // TODO: Implement this method
-            throw new NotImplementedException();
+           return new Restaurant(name,location);
         }
     }
 }

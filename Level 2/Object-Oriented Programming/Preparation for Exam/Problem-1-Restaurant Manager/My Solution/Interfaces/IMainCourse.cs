@@ -4,6 +4,6 @@
 
     public interface IMainCourse : IMeal
     {
-        MainCourseType Type { get; }
+        string Type { get; }
     }
 }
