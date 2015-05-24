@@ -2,7 +2,7 @@
 {
     public enum MetricUnit
     {
-        Grams,
+        g,
         ml
     }
 }

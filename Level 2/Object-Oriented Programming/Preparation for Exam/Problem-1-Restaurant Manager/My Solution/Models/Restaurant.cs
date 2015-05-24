@@ -66,50 +66,93 @@ namespace RestaurantManager.Models
             result.Append(String.Format("{0} {1} - {2} {0}", new String('*', 5), this.name, this.location));
             if (recipes.Count == 0)
             {
-                result.Append("\nNo recipes...yet");
+                result.Append("\nNo recipes... yet");
             }
             else
             {
                 foreach (var recipe in recipes)
                 {
-                    rec = (Recipe)recipe;
+                  Recipe  recipeCastDrink = (Recipe)recipe;
                     if (recipe.GetType().ToString() == "RestaurantManager.Models.Drink")
                     {
                         result.Append(String.Format("\n{0} DRINKS {0}", new String('~', 5)));
-                        result.Append(String.Format("\n{0} {1} {0} {2}",new String('=',2), recipe.Name,recipe.Price));
+                        result.Append(String.Format("\n{0}  {1} {0} ${2}",new String('=',2), recipe.Name,recipe.Price));
                         result.Append(
                             (String.Format("\nPer serving: {0} {1}, {2} kcal", recipe.QuantityPerServing, recipe.Unit,
                                 recipe.Calories)));
                         result.Append(String.Format("\nReady in {0} minutes", recipe.TimeToPrepare));
-                        result.Append(String.Format("\nCarbonated: {0}",boolCheck(rec.IsCarbonated)));
-                    }
-
-                    if (recipe.GetType().ToString() == "RestaurantManager.Models.Drink")
-                    {
-                        result.Append(String.Format("\n{0} DRINKS {0}", new String('~', 5)));
-                        result.Append(String.Format("\n{0} {1} {0} {2}", new String('=', 2), recipe.Name, recipe.Price));
-                        result.Append(
-                            (String.Format("\nPer serving: {0} {1}, {2} kcal", recipe.QuantityPerServing, recipe.Unit,
-                                recipe.Calories)));
-                        result.Append(String.Format("\nReady in {0} minutes", recipe.TimeToPrepare));
-                        result.Append(String.Format("\nCarbonated: {0}", boolCheck(rec.IsCarbonated)));
-                    }
-
-                    if (recipe.GetType().ToString() == "RestaurantManager.Models.Salads")
-                    {
-                        result.Append(String.Format("\n{0} SALADS {0}", new String('~', 5)));
-                        result.Append(String.Format("\n{0} {1} {0} {2}", new String('=', 2), recipe.Name, recipe.Price));
-                        result.Append(
-                            (String.Format("\nPer serving: {0} {1}, {2} kcal", recipe.QuantityPerServing, recipe.Unit,
-                                recipe.Calories)));
-                        result.Append(String.Format("\nReady in {0} minutes", recipe.TimeToPrepare));
-                        result.Append(String.Format("\nCarbonated: {0}", boolCheck(rec.IsCarbonated)));
+                        result.Append(String.Format("\nCarbonated: {0}",boolCheck(recipeCastDrink.IsCarbonated)));
                     }
                 }
-                ;
+
+                foreach (var recipe in recipes)
+                {
+                    Recipe recipeCastSalad = (Recipe)recipe;
+                    if (recipe.GetType().ToString() == "RestaurantManager.Models.Salad")
+                    {
+                        result.Append(String.Format("\n{0} SALADS {0}", new String('~', 5)));
+                        result.Append(String.Format("\n{0} {1}  {2} {1} ${3}", isVeganCheck(recipeCastSalad.IsVegan), new String('=', 2), recipe.Name, recipe.Price));
+                        result.Append(
+                            (String.Format("\nPer serving: {0} {1}, {2} kcal", recipe.QuantityPerServing, recipe.Unit,
+                                recipe.Calories)));
+                        result.Append(String.Format("\nReady in {0} minutes", recipe.TimeToPrepare));
+                        result.Append(String.Format("\nContains pasta: {0}", boolCheck(recipeCastSalad.ContainsPasta)));
+                    }
+                }
+
+                foreach (var recipe in recipes)
+                {
+                    Recipe recipeCastMainCourse = (Recipe)recipe;
+                    if (recipe.GetType().ToString() == "RestaurantManager.Models.MainCourse")
+                    {
+                        result.Append(String.Format("\n{0} MAIN COURSES {0}\n", new String('~', 5)));
+                        result.Append(String.Format("\n{0} {1}  {2} {1} ${3}", isVeganCheck(recipeCastMainCourse.IsVegan), new String('=', 2), recipe.Name, recipe.Price).Trim());
+                        result.Append(
+                            (String.Format("\nPer serving: {0} {1}, {2} kcal", recipe.QuantityPerServing, recipe.Unit,
+                                recipe.Calories)));
+                        result.Append(String.Format("\nReady in {0} minutes", recipe.TimeToPrepare));
+                        result.Append(String.Format("\nType: {0}", recipeCastMainCourse.Type));
+                    }
+                }
+
+                foreach (var recipe in recipes)
+                {
+                    Recipe recipeCastDessert = (Recipe)recipe;
+                    if (recipe.GetType().ToString() == "RestaurantManager.Models.Dessert")
+                    {
+                        result.Append(String.Format("\n{0} DESSERTS {0}\n", new String('~', 5)));
+                        result.Append(String.Format("\n{0}{1} {2}  {3} {2} ${4:F}",isSugarCheck(recipeCastDessert.WithSugar), isVeganCheck(recipeCastDessert.IsVegan), new String('=', 2), recipe.Name, recipe.Price).Trim());
+                        result.Append(
+                            (String.Format("\nPer serving: {0} {1}, {2} kcal", recipe.QuantityPerServing, recipe.Unit,
+                                recipe.Calories)));
+                        result.Append(String.Format("\nReady in {0} minutes", recipe.TimeToPrepare));
+                    }
+                }
             }
 
             return result.ToString();
+        }
+
+        private string isSugarCheck(bool p)
+        {
+            if (p == true)
+            {
+                return "[NO SUGAR]";
+            }
+            return "";
+        }
+
+        private string isVeganCheck(bool p)
+        {
+            if (p==true)
+            {
+                return "[VEGAN]";
+            }
+            else
+            {
+                return "";
+            }
+            
         }
 
         private string boolCheck(bool p)

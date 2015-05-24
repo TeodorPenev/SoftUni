@@ -14,7 +14,9 @@ namespace RestaurantManager.Models
         protected int calories;
         private int quantityPerServing;
         protected int timeToPrepare;
-        public bool isCarbonated;
+        protected bool isVegan;
+        protected bool withShugar;
+
         protected Recipe(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare)
         {
             this.Name = name;
@@ -90,6 +92,18 @@ namespace RestaurantManager.Models
             }
         }
 
-        public bool IsCarbonated { get { return this.isCarbonated; } set {this.isCarbonated=value ; } }
+        public bool IsVegan
+        {
+            get { return this.isVegan; }
+            set { this.isVegan = value; }
+        }
+
+        public bool IsCarbonated { get; set; }
+
+        public bool ContainsPasta { get; set; }
+
+        public string Type { get; set; }
+
+        public bool WithSugar { get; set; }
     }
 }

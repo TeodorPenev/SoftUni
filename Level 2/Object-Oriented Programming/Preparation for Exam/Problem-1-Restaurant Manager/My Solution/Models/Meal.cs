@@ -9,22 +9,15 @@ namespace RestaurantManager.Models
 {
     class Meal:Recipe,IMeal
     {
-        private bool isVegan;
+        
         private MetricUnit metricUnit;
 
         public Meal(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare)
             : base(name, price, calories, quantityPerServing, timeToPrepare)
         {
-            base.Unit = MetricUnit.Grams;
-            IsVegan = true;
+            base.Unit = MetricUnit.g;
+            base.IsVegan = true;
         }
-
-        public bool IsVegan
-        {
-            get { return this.isVegan; }
-            set { this.isVegan = value; }
-        }
-
         public void ToggleVegan()
         {
              isVegan = !isVegan;

@@ -9,13 +9,13 @@ namespace RestaurantManager.Models
 {
     class Salad:Meal,ISalad
     {
-        public Salad(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare, bool containsPasta)
+        public Salad(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare,
+            bool containsPasta)
             : base(name, price, calories, quantityPerServing, timeToPrepare)
         {
-            this.ContainsPasta = containsPasta;
+            base.ContainsPasta = containsPasta;
             IsVegan = true;
         }
 
-        public bool ContainsPasta { get; set; }
     }
 }

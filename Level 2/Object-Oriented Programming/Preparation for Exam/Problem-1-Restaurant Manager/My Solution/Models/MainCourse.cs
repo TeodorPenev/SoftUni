@@ -15,8 +15,6 @@ namespace RestaurantManager.Models
         {
             this.Type = type;
         }
-
-        public string Type { get; set; }
     }
 }
 
