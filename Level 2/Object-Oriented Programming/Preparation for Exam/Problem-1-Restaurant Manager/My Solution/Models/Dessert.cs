@@ -24,7 +24,5 @@ namespace RestaurantManager.Models
         {
             this.withShugar = !this.withShugar;
         }
-
-        public bool IsVegan { get; set; }
     }
 }

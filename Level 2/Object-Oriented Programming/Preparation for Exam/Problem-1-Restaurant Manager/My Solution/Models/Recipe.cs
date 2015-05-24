@@ -14,7 +14,7 @@ namespace RestaurantManager.Models
         protected int calories;
         private int quantityPerServing;
         protected int timeToPrepare;
-
+        public bool isCarbonated;
         protected Recipe(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare)
         {
             this.Name = name;
@@ -22,7 +22,6 @@ namespace RestaurantManager.Models
             this.Calories = calories;
             this.QuantityPerServing = quantityPerServing;
             this.TimeToPrepare = timeToPrepare;
-
         }
 
         public string Name
@@ -90,5 +89,7 @@ namespace RestaurantManager.Models
                 this.timeToPrepare = value;
             }
         }
+
+        public bool IsCarbonated { get { return this.isCarbonated; } set {this.isCarbonated=value ; } }
     }
 }

@@ -3,6 +3,6 @@
     public enum MetricUnit
     {
         Grams,
-        Milliliters
+        ml
     }
 }

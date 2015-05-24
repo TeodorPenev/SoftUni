@@ -15,11 +15,9 @@ namespace RestaurantManager.Models
         public Meal(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare)
             : base(name, price, calories, quantityPerServing, timeToPrepare)
         {
-            this.Unit = MetricUnit.Grams;
+            base.Unit = MetricUnit.Grams;
             IsVegan = true;
         }
-
-        public MetricUnit Unit { get; set; }
 
         public bool IsVegan
         {

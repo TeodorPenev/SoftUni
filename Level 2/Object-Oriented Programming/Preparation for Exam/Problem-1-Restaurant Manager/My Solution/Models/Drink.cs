@@ -9,17 +9,13 @@ namespace RestaurantManager.Models
 {
     internal class Drink : Recipe, IDrink
     {
-        private bool isCarbonated;
-
         public Drink(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare,
             bool isCarbonated)
             : base(name, price, calories, quantityPerServing, timeToPrepare)
         {
-            this.IsCarbonated = isCarbonated;
-            base.Unit = MetricUnit.Milliliters;
+            base.IsCarbonated = isCarbonated;
+            base.Unit = MetricUnit.ml;
         }
-
-        public bool IsCarbonated { get; set; }
 
         public override int Calories
         {
@@ -46,5 +42,6 @@ namespace RestaurantManager.Models
                 base.timeToPrepare = value;
             }
         }
+        public bool IsCarbonated { get; set; }
     }
 }
