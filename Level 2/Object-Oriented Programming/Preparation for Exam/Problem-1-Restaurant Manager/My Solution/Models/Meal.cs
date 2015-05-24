@@ -16,6 +16,7 @@ namespace RestaurantManager.Models
             : base(name, price, calories, quantityPerServing, timeToPrepare)
         {
             this.Unit = MetricUnit.Grams;
+            IsVegan = true;
         }
 
         public MetricUnit Unit { get; set; }
@@ -28,7 +29,7 @@ namespace RestaurantManager.Models
 
         public void ToggleVegan()
         {
-             this.isVegan = !this.isVegan;
+             isVegan = !isVegan;
         }
     }
 }

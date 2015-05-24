@@ -11,11 +11,13 @@ namespace RestaurantManager.Models
     {
         private string name;
         private string location;
+        private List<IRecipe> recipes;
 
         public Restaurant(string name, string location)
         {
             this.Name = name;
             this.Location = location;
+            recipes = new List<IRecipe>();
         }
 
         public string Name
@@ -45,7 +47,7 @@ namespace RestaurantManager.Models
 
         public IList<IRecipe> Recipes
         {
-            get { return this.Recipes; }
+            get { return this.recipes; }
         }
 
         public void AddRecipe(IRecipe recipe)
