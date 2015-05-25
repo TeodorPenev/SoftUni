@@ -9,7 +9,6 @@ namespace RestaurantManager.Models
 {
     class Meal:Recipe,IMeal
     {
-        
         private MetricUnit metricUnit;
 
         public Meal(string name, decimal price, int calories, int quantityPerServing, int timeToPrepare)

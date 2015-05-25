@@ -13,11 +13,12 @@ namespace RestaurantManager.Models
             : base(name, price, calories, quantityPerServing, timeToPrepare)
         {
             base.IsVegan = isVegan;
+            base.WithSugar = true;
         }
 
         public void ToggleSugar()
         {
-            this.withShugar = !this.withShugar;
+            withShugar = !withShugar;
         }
     }
 }

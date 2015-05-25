@@ -13,6 +13,7 @@ namespace RestaurantManager.Models
             bool isVegan, string type)
             : base(name, price, calories, quantityPerServing, timeToPrepare)
         {
+            base.IsVegan = isVegan;
             this.Type = type;
         }
     }

@@ -104,6 +104,10 @@ namespace RestaurantManager.Models
 
         public string Type { get; set; }
 
-        public bool WithSugar { get; set; }
+        public bool WithSugar
+        {
+            get { return this.withShugar; }
+            set { this.withShugar = value; }
+        }
     }
 }

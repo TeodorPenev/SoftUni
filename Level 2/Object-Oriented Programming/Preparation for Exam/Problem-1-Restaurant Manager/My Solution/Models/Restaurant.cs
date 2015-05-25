@@ -99,7 +99,6 @@ namespace RestaurantManager.Models
                         result.Append(String.Format("\nContains pasta: {0}", boolCheck(recipeCastSalad.ContainsPasta)));
                     }
                 }
-
                 foreach (var recipe in recipes)
                 {
                     Recipe recipeCastMainCourse = (Recipe)recipe;
@@ -121,7 +120,7 @@ namespace RestaurantManager.Models
                     if (recipe.GetType().ToString() == "RestaurantManager.Models.Dessert")
                     {
                         result.Append(String.Format("\n{0} DESSERTS {0}\n", new String('~', 5)));
-                        result.Append(String.Format("\n{0}{1} {2}  {3} {2} ${4:F}",isSugarCheck(recipeCastDessert.WithSugar), isVeganCheck(recipeCastDessert.IsVegan), new String('=', 2), recipe.Name, recipe.Price).Trim());
+                        result.Append(String.Format("\n{0} {1} {2}  {3} {2} ${4:F}",isSugarCheck(recipeCastDessert.WithSugar), isVeganCheck(recipeCastDessert.IsVegan), new String('=', 2), recipe.Name, recipe.Price).Trim());
                         result.Append(
                             (String.Format("\nPer serving: {0} {1}, {2} kcal", recipe.QuantityPerServing, recipe.Unit,
                                 recipe.Calories)));
@@ -135,7 +134,7 @@ namespace RestaurantManager.Models
 
         private string isSugarCheck(bool p)
         {
-            if (p == true)
+            if (p == false)
             {
                 return "[NO SUGAR]";
             }
@@ -144,15 +143,7 @@ namespace RestaurantManager.Models
 
         private string isVeganCheck(bool p)
         {
-            if (p==true)
-            {
-                return "[VEGAN]";
-            }
-            else
-            {
-                return "";
-            }
-            
+            return p==true ? "[VEGAN]" : "";
         }
 
         private string boolCheck(bool p)
