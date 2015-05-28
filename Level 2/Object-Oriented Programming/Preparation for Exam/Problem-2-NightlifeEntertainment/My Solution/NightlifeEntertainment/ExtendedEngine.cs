@@ -76,5 +76,20 @@ namespace NightlifeEntertainment
                     break;
             }
         }
+
+        protected override void ExecuteReportCommand(string[] commandWords)
+        {
+            var performanceMatch = GetPerformance(commandWords[1]);
+            var soldTickets = performanceMatch.Tickets.Where(t => t.Status == TicketStatus.Sold);
+            var totalPrice = soldTickets.Sum(p => p.Price);
+
+            this.Output.AppendFormat("{0}: {1} ticket(s), total: ${2:f}", performanceMatch.Name, soldTickets.Count(),
+                totalPrice);
+            this.Output.AppendLine();
+            this.Output.AppendFormat("Venue: {0} ({1})", performanceMatch.Venue.Name, performanceMatch.Venue.Location);
+            this.Output.AppendLine();
+            this.Output.AppendFormat("Start time: {0}", performanceMatch.StartTime);
+            this.Output.AppendLine();
+        }
     }
 }
