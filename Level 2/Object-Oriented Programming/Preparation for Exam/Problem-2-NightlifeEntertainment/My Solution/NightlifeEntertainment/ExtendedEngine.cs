@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace NightlifeEntertainment
 {
@@ -90,6 +91,70 @@ namespace NightlifeEntertainment
             this.Output.AppendLine();
             this.Output.AppendFormat("Start time: {0}", performanceMatch.StartTime);
             this.Output.AppendLine();
+        }
+
+        protected override void ExecuteFindCommand(string[] commandWords)
+        {
+            var performances = Performances.Where(p => p.Name.ToLower().Contains(commandWords[1].ToLower()));
+            var venues = Venues.Where(v => v.Name.ToLower().Contains(commandWords[1].ToLower())).OrderBy(v =>v.Name);
+            var sortedEventInVenue = new List<IPerformance>();
+
+            DateTime specifiedTime = DateTime.Parse(commandWords[2] + " " + commandWords[3]);
+
+            var sortedPerformances =
+                performances.Where(p => p.StartTime >= specifiedTime)
+                    .OrderBy(p => p.StartTime)
+                    .ThenByDescending(p => p.BasePrice)
+                    .ThenBy(p => p.Name);
+
+            this.Output.AppendFormat("Search for \"{0}\"", commandWords[1]);
+            this.Output.AppendLine();
+            this.Output.Append("Performances:");
+            this.Output.AppendLine();
+
+            if (sortedPerformances.Any())
+            {
+                foreach (var performance in sortedPerformances)
+                {
+                    this.Output.AppendFormat("-{0}", performance.Name);
+                    this.Output.AppendLine();
+                }
+            }
+            else
+            {
+                this.Output.Append("no result");
+                this.Output.AppendLine();
+            }
+
+            this.Output.Append("Venues:");
+            this.Output.AppendLine();
+
+            if (venues.Any())
+            {
+                foreach (var venue in venues)
+                {
+                    this.Output.AppendFormat("-{0}", venue.Name);
+                    this.Output.AppendLine();
+
+                    foreach (var performance in sortedPerformances)
+                    {
+                        if (performance.Venue.Name == venue.Name)
+                        {
+                            sortedEventInVenue.Add(performance);
+                        }
+                    }
+                    foreach (var performance in sortedEventInVenue)
+                    {
+                        this.Output.AppendFormat("--{0}", performance.Name);
+                        this.Output.AppendLine();
+                    }
+                }
+            }
+            else
+            {
+                this.Output.Append("no result");
+                this.Output.AppendLine();
+            }
         }
     }
 }

@@ -6,6 +6,6 @@
     {
         Regular,
         Student,
-        VIP
+        VIP,
     }
 }
