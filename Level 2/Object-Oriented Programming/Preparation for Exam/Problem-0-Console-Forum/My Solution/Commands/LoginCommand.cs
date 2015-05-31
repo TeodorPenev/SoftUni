@@ -7,7 +7,7 @@ using ConsoleForum.Contracts;
 using ConsoleForum.Entities.Users;
 using ConsoleForum.Utility;
 
-namespace ConsoleForum.Commands.Factories
+namespace ConsoleForum.Commands
 {
     public class LoginCommand:AbstractCommand
     {
@@ -35,7 +35,7 @@ namespace ConsoleForum.Commands.Factories
             }
 
             this.Forum.CurrentUser = existingUser;
-            this.Forum.Output.AppendFormat(Messages.LoginSuccess, existingUser.Username);
+            this.Forum.Output.AppendFormat(Messages.LoginSuccess, existingUser.Username).AppendLine();
         }
     }
 }
