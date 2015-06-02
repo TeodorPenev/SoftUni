@@ -10,10 +10,13 @@ namespace ConsoleForum.Entities.Posts
 {
     public class Question:Post,IQuestion
     {
-        public Question(int id, string title, string body,IUser author):base(id,body,author)
+        public Question(int id, string body,IUser author,string title):base(id,body,author)
         {
+            this.Id = id;
+            this.Body = body;
             this.Author = author;
-            this.Answers = new List<IAnswer>();
+            this.Title = title;
+            this.Answers=new List<IAnswer>();
         }
 
         public string Title { get; set; }
@@ -41,7 +44,7 @@ namespace ConsoleForum.Entities.Posts
             }
             else
             {
-                question.AppendLine("Answer:");
+                question.AppendLine("Answers:");
                 var bestAnswer = this.Answers.FirstOrDefault(a => a is BestAnswer);
                 string answersAsStr;
                 if (bestAnswer != null)

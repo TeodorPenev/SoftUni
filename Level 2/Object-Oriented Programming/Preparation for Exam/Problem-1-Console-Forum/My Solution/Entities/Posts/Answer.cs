@@ -12,7 +12,9 @@ namespace ConsoleForum.Entities.Posts
        
         public Answer(int id,string body,IUser author):base(id,body,author)
         {
-            
+            this.Id = id;
+            this.Body = body;
+            this.Author = author;
         }
 
         public int Id { get; set; }
@@ -24,10 +26,10 @@ namespace ConsoleForum.Entities.Posts
         public override string ToString()
         {
             var answer = new StringBuilder();
-            answer.AppendFormat("[ Answer ID: [0]", this.Id).AppendLine()
-                .AppendFormat("Posted by: [0]", this.Author.Username).AppendLine()
-                .AppendFormat("Answer Body: [0]", this.Body).AppendLine()
-                .AppendLine(new string('-',20));
+            answer.AppendFormat("[ Answer ID: {0} ]",this.Id).AppendLine()
+                .AppendFormat("Posted by: {0}", this.Author.Username).AppendLine()
+                .AppendFormat("Answer Body: {0}", this.Body).AppendLine()
+                .Append(new string('-',20));
             return answer.ToString();
         }
     }

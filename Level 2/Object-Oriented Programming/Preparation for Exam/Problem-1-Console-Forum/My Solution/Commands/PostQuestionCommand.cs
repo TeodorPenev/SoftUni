@@ -27,10 +27,10 @@ namespace ConsoleForum.Commands
                throw new CommandException(Messages.NotLogged);
            }
 
-           var question = new Question(questions.Count + 1,title,body,this.Forum.CurrentUser);
+           var question = new Question(questions.Count + 1,body,this.Forum.CurrentUser,title);
 
            this.Forum.Questions.Add(question);
-           this.Forum.Output.AppendFormat(Messages.PostQuestionSuccess, question.Id).AppendLine();
+           this.Forum.Output.AppendFormat(Messages.PostQuestionSuccess, Forum.Questions.Last().Id).AppendLine();
        }
     }
 }

@@ -17,11 +17,11 @@ namespace ConsoleForum.Commands
         {
             if (!this.Forum.Questions.Any())
             {
-                throw new CommandException(Messages.NoQuestion);
+                throw new CommandException(Messages.NoQuestions);
             }
 
             var questions = this.Forum.Questions.OrderBy(q => q.Id);
-            this.Forum.Output.AppendLine(string.Join(Environment.NewLine, questions));
+            this.Forum.Output.Append(string.Join("", questions));
         }
     }
 }

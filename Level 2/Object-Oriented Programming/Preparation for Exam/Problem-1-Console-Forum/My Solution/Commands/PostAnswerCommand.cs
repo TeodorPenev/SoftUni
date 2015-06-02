@@ -32,7 +32,7 @@ namespace ConsoleForum.Commands
             var answer = new Answer(this.Forum.Answers.Count + 1, answerBody, user);
             this.Forum.Answers.Add(answer);
             question.Answers.Add(answer);
-            this.Forum.Output.AppendFormat(Messages.PostAnswerSuccess, answer.Id);
+            this.Forum.Output.AppendFormat(Messages.PostAnswerSuccess, Forum.Answers.Last().Id);
 
         }
     }
