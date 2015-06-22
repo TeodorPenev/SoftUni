@@ -1,0 +1,53 @@
+SQL is a special-purpose programming language designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).Originally based upon relational algebra and tuple relational calculus, SQL consists of a data definition language and a data manipulation language. The scope of SQL includes data insert, query, update and delete, schema creation and modification, and data access control. Although SQL is often described as, and to a great extent is, a declarative language (4GL), it also includes procedural elements.
+
+Selecting all records from a table and displaying all columns:
+
+SELECT * FROM EMPLOYEE_TBL;
+
+Selecting all records from a table and displaying a specified column:
+
+SELECT EMP_ID
+FROM EMPLOYEE_TBL;
+
+Selecting all records from a table and displaying a specified column. You can enter code on one line or use a carriage return as desired:
+
+SELECT EMP_ID FROM EMPLOYEE_TBL;
+
+Selecting all records from a table and displaying multiple columns separated by commas:
+
+SELECT EMP_ID, LAST_NAME
+FROM EMPLOYEE_TBL;
+
+Displaying data for a given condition:
+
+SELECT EMP_ID, LAST_NAME
+FROM EMPLOYEE_TBL
+WHERE EMP_ID = '333333333';
+
+Displaying data for a given condition and sorting the output:
+
+SELECT EMP_ID, LAST_NAME
+FROM EMPLOYEE_TBL
+WHERE CITY = 'INDIANAPOLIS'
+ORDER BY EMP_ID;
+
+Displaying data for a given condition and sorting the output on multiple columns, one column sorted in reverse order:
+
+SELECT EMP_ID, LAST_NAME
+FROM EMPLOYEE_TBL
+WHERE CITY = 'INDIANAPOLIS'
+ORDER BY EMP_ID, LAST_NAME DESC;
+
+Displaying data for a given condition and sorting the output using an integer in the place of the spelled-out column name:
+
+SELECT EMP_ID, LAST_NAME
+FROM EMPLOYEE_TBL
+WHERE CITY = 'INDIANAPOLIS'
+ORDER BY 1;
+
+Displaying data for a given condition and sorting the output by multiple columns using integers, the order of the columns in the sort is different than their corresponding order after the SELECT keyword:
+
+SELECT EMP_ID, LAST_NAME
+FROM EMPLOYEE_TBL
+WHERE CITY = 'INDIANAPOLIS'
+ORDER BY 2, 1;
