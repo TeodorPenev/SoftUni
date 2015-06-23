@@ -1,0 +1,5 @@
+A table is a collection of related data held in a structured format within a database. It consists of fields (columns), and rows.
+
+Databases use a series of Tables to store the data. A table simply refers to a two dimensional representation of your data using columns and rows. 
+
+The difference between tables and relations is the difference can mostly be summarized by saying that tables have rows while relations have tuples.  This actually has some fairly important implications.Most of the properties of tuples map into the properties of relations about how you would expect them to.  In other words, a relation is a set of tuples without duplicates or any concept of ordering.  A table is a set of rows that may have duplicates and does have a concept of ordering (in that columns will always follow a predetermined order).  However, there is another property of tuples that causes relations to behave differently from tables in a way you might not expect.
